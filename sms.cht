@@ -2950,3 +2950,101 @@ R A 1 L 0 0000c1ba 09 infinite lives
 
 R I 1 L 0 0000c1b9 01 stage select (use 01-06 as value) disable after entering stage
 
+[16b6ea96908c17d4389a5907710a0f4e] Castle of Illusion Starring Mickey Mouse (USA, Europe)
+R A 1 L 0 0000c0bd 03 infinite health
+
+R A 1 L 0 0000c0c8 03 infinite lives
+
+R A 1 L 0 0000dc02 13 infinite time
+
+R A 1 L 0 0000c226 0a invincibility
+
+R A 1 L 0 0000c228 ff mickey jumps higher
+
+[613376b7b53e43ba17ae1b62da3c9251] Excellent Dizzy Collection, The (Europe)
+R A 1 L 0 0000dac3 03 infinite lives (dizzy the adventurer)
+
+R A 1 L 0 0000dc7f 03 infinite lives (go dizzy go)
+
+R A 1 L 0 0000dc9c 00 invincibility (go dizzy go)
+
+[66a8e3133a047fa7d44968efd3c30720] Fantastic Dizzy (Europe) (En,Fr,De,Es,It)
+R A 1 L 0 0000d961 02 infinite lives
+
+R A 1 L 0 0000db13 00 infinite health
+
+[290056bcb4303d3c53ea7b6aa2a268a7] Mickey Mouse no Castle Illusion (Japan)
+R A 1 L 0 0000c0bd 03 infinite health
+
+R A 1 L 0 0000c0c8 03 infinite lives
+
+R A 1 L 0 0000dc02 13 infinite time
+
+R A 1 L 0 0000c226 0a invincibility
+
+R A 1 L 0 0000c228 ff mickey jumps higher
+
+[2a3bdd1a6c35eeedbf1a794abfb57b87] OutRun Europa (USA)
+R A 1 L 0 0000c160 0d infinite time
+
+R A 1 L 0 0000c15d 05 infinite ammo
+
+R A 1 L 0 0000c0e2 08 infinite shields
+
+R A 1 L 0 0000c154 02 infinite turbos
+
+[886649dc63aca898ce30a32348192cd5] Predator 2 (USA, Europe)
+R A 1 L 0 0000c482 ff infinite health
+
+R A 1 L 0 0000c480 09 infinite lives
+
+R A 1 L 0 0000c524 99 infinite ammo (machine gun)
+
+R A 1 L 0 0000c523 99 infinite grenades
+
+R A 1 L 0 0000c525 99 infinite ammo (shotgun)
+
+R A 1 L 0 0000c527 99 infinite ammo (ak47)
+
+R A 1 L 0 0000c526 99 infinite ammo (disc)
+
+[0d636c8d86dafd4f2c337e34e94b1e41] Prince of Persia (USA, Europe)
+R A 1 L 0 0000c292 03 infinite health (spikes and falling high still kill you)
+
+R A 1 L 0 0000c298 3b infinite time
+
+[d087b25d96f3f3e9338b0b5ec4fc2aa5] R.C. Grand Prix (USA)
+R A 1 L 0 0000c59b 01 always finish 1st
+
+R A 1 L 0 0000c6a8 0f infinite money
+
+R A 1 L 0 0000c6a9 1b infinite money
+
+R A 1 L 0 0000c21f 3c infinite time
+
+[fd82af26ebbed24f57c4eea8eddf3136] Rastan Saga (Japan)
+R A 1 L 0 0000c2c4 07 infinite continues
+
+R A 1 L 0 0000c020 f0 infinite health
+
+[3cd1a4c27e330bba7703ee22ac83b856] Taito Chase H.Q. (Japan)
+R A 1 L 0 0000c23d 00 infinite time
+
+R A 1 L 0 0000c228 03 infinite continues
+
+R A 1 L 0 0000c289 03 infinite turbos
+
+[93e08b96e19eb89c6ba7e2bf3824c990] WWF Wrestlemania - Steel Cage Challenge (USA, Europe)
+R A 1 L 0 0000c40d ef infinite health
+
+R A 1 L 0 0000c44c ef infinite health (tag team partner)
+
+[e0247a74fb6379e5211817a3b1463705] Alex Kidd in Miracle World (Taiwan) (Unl)
+R A 1 L 0 0000c025 02 infinite lives
+
+R A 1 L 0 0000c030 cc infinite money
+
+R A 1 L 0 0000c046 01 have magic capsule (A attack)
+
+R A 1 L 0 0000c047 01 have magic capsule b (barrier)
+

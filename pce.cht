@@ -1450,7 +1450,7 @@ R A 1 L 0 001f007f 09 infinite time
 [80e8845990c80a48d1435fc47585f239] CD Denjin - Rockabilly Tengoku (Japan)
 R A 1 L 0 001f065a 09 infinite lives
 
-R I 1 L 0 001f0b9d 20 invincibility
+R A 1 L 0 001f0b9d 20 invincibility
 
 [73610e509607519fac559a17b5a58221] Chou Jikuu Yousai Macross 2036 (Japan)
 R A 1 L 0 001f1829 10 invincibility (enable after entering level, disable at end of level)
@@ -1468,18 +1468,62 @@ R A 1 L 0 001f001e 02 infinite lives
 R A 1 L 0 001f1347 46 invincibility
 
 [f726eb750db7e54226dec890e4060c2d] Dragon Slayer - The Legend of Heroes (USA) (Rev 1)
-R A 2 L 0 000e8304 03e7 infinite health logan
+R A 2 L 0 000e8304 270f infinite hp logan
+
+R A 2 L 0 000e8306 270f infinite max hp logan
+
+R A 2 L 0 000e8308 270f infinite mp logan
+
+R A 2 L 0 000e830a 270f infinite max mp logan
+
+R A 2 L 0 000e8344 270f infinite hp ethan
+
+R A 2 L 0 000e8346 270f infinite max hp ethan
+
+R A 2 L 0 000e8348 270f infinite mp ethan
+
+R A 2 L 0 000e834a 270f infinite max mp ethean
 
 R A 2 L 0 000e808c f0ff infinite gold
 
-R A 2 L 0 000e830a 03e7 infinite mp
+R A 2 L 0 000e8384 270f infinite hp (markus)
 
-R A 2 L 0 000e8344 03e7 infinite hp ethan
+R A 2 L 0 000e8386 270f infinite max hp (markus)
 
-R A 2 L 0 000e8348 03e7 infinite mp ethan
+R A 2 L 0 000e8388 270f infinite mp (markus)
+
+R A 2 L 0 000e838a 270f infinite max mp (markus)
+
+R A 2 L 0 000e83c4 270f infinite hp (giles)
+
+R A 2 L 0 000e83c6 270f infinite max hp (giles)
+
+R A 2 L 0 000e83c8 270f infinite mp (giles)
+
+R A 2 L 0 000e83ca 270f infinite max mp (giles)
 
 [ca8ac1ed7c07ce14c437adf4111192b8] Dungeon Explorer II (USA)
-R A 1 L 0 001f15bd ff infinite hp
+R A 1 L 0 001f15bd ff infinite hp (all profiles)
+
+R A 1 L 0 001f0f0b 09 infinite black skulls (profile 1)
+
+R A 1 L 0 001f0f06 09 infinite white potion (profile 1)
+
+R A 1 L 0 001f0f0c 09 infinite black skulls (profile 2)
+
+R A 1 L 0 001f0f07 09 infinite white potion (profile 2)
+
+R A 1 L 0 001f0f0d 09 infinite black skulls (profile 3)
+
+R A 1 L 0 001f0f08 09 infinite white potion (profile 3)
+
+R A 1 L 0 001f0f0e 09 infinite black skulls (profile 4)
+
+R A 1 L 0 001f0f09 09 infinite white potion (profile 4)
+
+R A 1 L 0 001f0f0f 09 infinite black skulls (profile 5)
+
+R A 1 L 0 001f0f0a 09 infinite white potion (profile 5)
 
 [bee0988239a817f20a64cd38fc8caeac] Dungeon Master - Theron's Quest (USA)
 R A 1 L 0 001f0978 ff infinite health theron
@@ -1500,14 +1544,16 @@ R A 1 L 0 00108d00 ff infinite hp (elfera)
 [cc8dfd0023573c2be537ff3f64d35c65] Fantastic Night Dreams - Cotton (Japan) (En,Ja)
 R A 1 L 0 001f1265 09 infinite continues
 
-R I 1 L 0 001f1261 09 invincibility
+R A 1 L 0 001f1261 09 invincibility
 
-R A 1 L 0 001f1267 09 lala
+R A 1 L 0 001f1264 03 infinite lives
 
 [34a4638bb63460219703a1d86c6a07d6] Fantastic Night Dreams - Cotton (USA)
 R A 1 L 0 001f1265 09 infinite continues
 
 R A 1 L 0 001f1267 ff invincibility
+
+R A 1 L 0 001f1264 03 infinite lives
 
 [aace4dd6e7ca88e966ca11095df59dba] Fighting Street (Japan) (Rev 5)
 R A 1 L 0 001f0598 48 infinite health
@@ -1562,6 +1608,8 @@ R A 1 L 0 0010a086 09 infinite bombs
 R A 1 L 0 0010a00c 09 infinite lives
 
 R A 1 L 0 001f06bd 09 unlimited credits
+
+R A 1 L 0 0010a058 90 invincibility
 
 [83c6c8a4f8b2d803da44867a730c5d37] God Panic - Shijou Saikyou no Gundan (Japan)
 R A 1 L 0 001f0050 03 infinite bombs
@@ -1662,6 +1710,16 @@ R A 1 L 0 001f0312 09 infinite lives
 
 R A 1 L 0 001f0313 1f infinite health
 
+R A 1 L 0 001f0318 99 infinite jewels
+
+R A 1 L 0 001f0316 99 infinite gold
+
+R A 1 L 0 001f0317 99 infinite gold
+
+R A 1 L 0 001f049c 01 have pendant
+
+R A 1 L 0 001f0487 01 have weapon enchants
+
 [a604d938edde86af1d579086571efaec] Martial Champion (Japan)
 R A 1 L 0 001f1ea0 36 infinite energy
 
@@ -1680,13 +1738,17 @@ R A 1 L 0 001f0014 02 invincibility
 R A 1 L 0 001f1f39 09 infinite lives
 
 [e0eaf2da967049e96014dbb733790435] Ookami-teki Monshou - Crest of Wolf (Japan)
-R A 1 L 0 001f0993 54 infinite health
+R A 1 L 0 001f0993 64 infinite health
+
+R A 1 L 0 001f0e44 05 infinite lives
+
+R A 1 L 0 001f0e49 28 infinite time
 
 [7066c3c133c022a5781cbaf3b6756cad] Pomping World (Japan) (Rev 1)
 R A 1 L 0 001f003f 09 infinite lives
 
 [b951b4c6ba59c12f47fc7a2f62ced609] Prince of Persia (Japan)
-R A 1 L 0 001f0736 04 infinite health
+R A 1 L 0 001f0736 04 infinite health (disable when falling into spikes)
 
 [d650c5d27d851a40355d8017c598586c] Psychic Storm (Japan)
 R A 1 L 0 001f0c1e ff infinite health
@@ -1766,6 +1828,8 @@ R A 1 L 0 001f176b 03 infinite health
 
 R A 1 L 0 001f1770 09 infinite time
 
+R I 1 L 0 001f176e 00 enable to instant finish level
+
 [b7e3aea8a2816b0a662cb6e0f031c85e] Star Parodier (Japan) (Rev 2)
 R A 1 L 0 001f1f1b 02 infinite lives
 
@@ -1830,9 +1894,11 @@ R A 1 L 0 001f00b5 ff max gold
 R A 1 L 0 001f00b6 ff max gold
 
 [4bd9f3f0e4151030dae61621b2c1a714] Wonderboy III - Monster Lair (Japan)
-R A 1 L 0 001f0483 09 infinite lives
+R A 1 L 0 001f0483 09 infinite lives (disable cheats at end of stage bonus count)
 
-R A 1 L 0 001f0480 32 infinite energy (protects from shoots)
+R A 1 L 0 001f0480 32 infinite vutality (protects from shoots)
+
+R A 1 L 0 001f0bbf 61 invincibility (need to die once per stage to enable)
 
 [0dc27d87345b771d45572f6dac27bdf4] World Heroes 2 (Japan) (FAAT, FABT)
 R A 1 L 0 001f180c 4c infinite health
@@ -2388,4 +2454,569 @@ R A 1 L 0 001f07dc 00 1 hit kill boss
 R A 1 L 0 001f17ab 09 infinite health
 
 R A 1 L 0 001f17e0 03 infinite lives
+
+[58418c0db028885a2f49abf4993f2b0e] Gomola Speed (Japan)
+
+R A 1 L 0 001f0217 02 have 2 keys (up on pickup)
+
+R A 1 L 0 001f11b6 00 have all food collected
+
+R A 1 L 0 001f0216 03 infinite lives
+[34e8b8c01d7721a33c7d131f77c8c082] Bonk's Revenge (USA, Europe) (Virtual Console)
+R A 1 L 0 001f0e87 0f infinite health
+
+R A 1 L 0 001f0a1a 02 infinite lives
+
+R A 1 L 0 001f0e9a 01 invincibility
+
+[03e2b03bed0d20671da98a5086d76a3b] PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Virtual Console)
+
+R A 1 L 0 001f0e86 0f infinite health
+
+R A 1 L 0 001f0a1a 03 infinite lives
+
+R A 1 L 0 001f0e99 14 invincibility
+[32e20c5b317f599060195d3276daddd2] Bomberman '93 (USA, Europe) (Virtual Console)
+
+R A 1 L 0 001f00b6 3b infinite time
+
+R A 1 L 0 001f189f 02 infinite lives
+
+R A 1 L 0 001f0c01 b7 invincibility
+
+R A 1 L 0 001f0c35 86 invincibility
+[cd2c47eaeb842cbcfe2ebcbe5710bf61] Youkai Douchuuki (Japan) (Virtual Console)
+
+R A 1 L 0 001f0028 10 infinite health
+
+R A 1 L 0 001f123b 09 infinite money
+[4d72d145a429663cf859c4d4aabbcf5c] Kung Fu, The (Japan) (Virtual Console)
+R A 1 L 0 001f0bc3 0a infinite health
+
+[5c6227a91d252a12bf2a0d3d5b5fe65d] Be Ball (Japan)
+
+R A 1 L 0 001f0912 02 infinite lives
+
+R A 1 L 0 001f00db 20 invincibility
+
+R A 1 L 0 001f088b 5d infinite time
+
+R A 1 L 0 001f088c 09 infinite time
+[cee29f4dcfbebde665df9cdc9f6eb031] Addams Family, The (USA)
+R A 1 L 0 001f0734 63 infinite purple papers
+
+R I 1 L 0 001f071c 20 invincibility
+
+R A 1 L 0 001f0696 09 infinite lives
+
+R A 1 L 0 001f0718 0f infinite health
+
+R A 1 L 0 001f0732 01 have blue key
+
+R A 1 L 0 001f0730 01 have gold key
+
+R A 1 L 0 001f0731 01 have green key
+
+R A 1 L 0 001f072f 01 have red key
+
+R A 1 L 0 001f0733 01 have purple key
+
+[545b975107d23515371822f225797a2e] Bonk III - Bonk's Big Adventure (USA)
+R A 1 L 0 001f05c6 20 infinite health
+
+R A 1 L 0 001f05a7 09 infinite lives
+
+R A 1 L 0 001f0b10 30 infinite time
+
+R A 1 L 0 001f0c93 01 invincibility
+
+[cfee5cdb72d9418d291ddf39df25180f] Camp California (USA)
+R A 1 L 0 001f1379 09 infinite lives
+
+R A 1 L 0 001f137a 05 infinite health
+
+R I 1 L 0 000ea7a5 30 invincibility
+
+[41dde25f5242d47df15761949696ea91] Cosmic Fantasy 2 (USA)
+R A 1 L 0 001f031e cf infinite hp (slot 1)
+
+R A 1 L 0 001f031f 07 infinite hp (slot 1)
+
+R A 1 L 0 001f0309 cf infinite max hp (slot 1)
+
+R A 1 L 0 001f030a 07 infinite max hp (slot 1)
+
+R A 1 L 0 001f0320 cf infinite mp (slot 1)
+
+R A 1 L 0 001f0321 07 infinite mp (slot 1)
+
+R A 1 L 0 001f030b cf infinite max mp (slot 1)
+
+R A 1 L 0 001f030c 07 infinite max mp (slot 1)
+
+R A 1 L 0 001f041c 99 infinite gold
+
+R A 1 L 0 001f041d 99 infinite gold
+
+R A 1 L 0 001f041e 99 infinite gold
+
+[101351702375727c216482f7293d8d58] Cosmic Fantasy 2 - Bouken Shounen Ban (Japan)
+R A 1 L 0 001f031e cf infinite hp (slot 1)
+
+R A 1 L 0 001f031f 07 infinite hp (slot 1)
+
+R A 1 L 0 001f0309 cf infinite max hp (slot 1)
+
+R A 1 L 0 001f030a 07 infinite max hp (slot 1)
+
+R A 1 L 0 001f0320 cf infinite mp (slot 1)
+
+R A 1 L 0 001f0321 07 infinite mp (slot 1)
+
+R A 1 L 0 001f030b cf infinite max mp (slot 1)
+
+R A 1 L 0 001f030c 07 infinite max mp (slot 1)
+
+R A 1 L 0 001f041c 99 infinite gold
+
+R A 1 L 0 001f041d 99 infinite gold
+
+R A 1 L 0 001f041e 99 infinite gold
+
+[7377c75ac6c687d0e7890fcee14d29b8] Dragon Slayer - The Legend of Heroes (Japan)
+R A 2 L 0 000e8304 03e7 infinite hp logan
+
+R A 2 L 0 000e8306 03e7 infinite max hp logan
+
+R A 2 L 0 000e8308 03e7 infinite mp logan
+
+R A 2 L 0 000e830a 03e7 infinite max mp logan
+
+R A 2 L 0 000e8344 03e7 infinite hp ethan
+
+R A 2 L 0 000e8346 03e7 infinite max hp ethan
+
+R A 2 L 0 000e8348 03e7 infinite mp ethan
+
+R A 2 L 0 000e834a 03e7 infinite max mp ethean
+
+R A 2 L 0 000e808c f0ff infinite gold
+
+[71bd9fc6f53121102fd3a13b0f74fd4e] Dungeon Explorer II (Japan)
+R A 1 L 0 001f15bd ff infinite hp (all profiles)
+
+R A 1 L 0 001f0f0b 09 infinite black skulls (profile 1)
+
+R A 1 L 0 001f0f06 09 infinite white potion (profile 1)
+
+R A 1 L 0 001f0f0c 09 infinite black skulls (profile 2)
+
+R A 1 L 0 001f0f07 09 infinite white potion (profile 2)
+
+R A 1 L 0 001f0f0d 09 infinite black skulls (profile 3)
+
+R A 1 L 0 001f0f08 09 infinite white potion (profile 3)
+
+R A 1 L 0 001f0f0e 09 infinite black skulls (profile 4)
+
+R A 1 L 0 001f0f09 09 infinite white potion (profile 4)
+
+R A 1 L 0 001f0f0f 09 infinite black skulls (profile 5)
+
+R A 1 L 0 001f0f0a 09 infinite white potion (profile 5)
+
+[0daf24b401cbe8c84e88114eab6a3625] Dungeon Master - Theron's Quest (Japan)
+R A 1 L 0 001f0978 ff infinite health theron
+
+[ccad632c54a603189fa728bd83d52e85] Dynastic Hero, The (USA)
+R A 1 L 0 001f0d4a 19 invincibility
+
+R A 1 L 0 001f09a5 08 maximum hearts
+
+R A 1 L 0 001f09a0 ff infinite gold
+
+R A 1 L 0 001f09a1 ff infinite gold
+
+R A 1 L 0 001f09a2 ff infinite gold
+
+[b6e3fc3991e985e1646d5232a52e12ac] Exile (USA)
+R A 1 L 0 001f0838 82 infinite health
+
+R A 1 L 0 001f0317 60 infinite money
+
+[eb16c14fe9dae95494fc4fa51f28aa75] Exile - Toki no Hasama e (Japan)
+R A 1 L 0 001f0316 60 infinite money
+
+R A 1 L 0 001f0437 ff infinite hp
+
+[901e317c0ee585108d0d3e3ff9fe1733] Exile - Wicked Phenomenon (USA)
+R A 1 L 0 0010f00a ff infinite health
+
+R A 2 L 0 0010f00d ffff infinite gold
+
+[4bc63d24c4ba2887fbee0774f285c7af] Exile II - Janen no Jishou (Japan)
+R A 1 L 0 0010f00a ff infinite health
+
+R A 2 L 0 0010f00d ffff infinite gold
+
+[c352c91e45e22df4aa7e578dbb5007e4] Final Zone II (USA)
+R A 1 L 0 001f0760 64 infinite health
+
+R A 1 L 0 001f0b5b 63 infinite ammo
+
+R A 1 L 0 001f075c ff invincibility
+
+[d84765e4662b9e72d14e13b2f7dc37e2] Forgotten Worlds (USA) (En,Ja)
+R A 1 L 0 001f0032 48 infinite health
+
+R A 1 L 0 001f0d01 28 invincibility
+
+R A 1 L 0 001f0036 02 infinite lives
+
+R A 1 L 0 001f0034 99 infinite money (shop)
+
+R A 1 L 0 001f0035 99 infinite money (shop)
+
+[a5ac9ad5c2cd5b2efd7db5f22e2e8f79] Godzilla (USA)
+R A 1 L 0 001f06cd e0 infinite health
+
+R I 1 L 0 001f06ce 00 instant win
+
+[0559cad437a1582cc1fa008f06124fd5] It Came from the Desert (USA)
+R A 1 L 0 00104a7d 96 infinite mmo
+
+[547ad94b3250bd2f2e74e87d2ee39dce] Last Alert (USA)
+R A 1 L 0 001f040c 09 infinite time
+
+R A 1 L 0 001f040d 3b infinite time
+
+R A 1 L 0 001f040a 0d infinite health
+
+R I 1 L 0 001f0400 03 invincibility
+
+R A 1 L 0 001f0413 09 infinite flamethrower
+
+R A 1 L 0 001f0411 09 infinite grenades
+
+R A 1 L 0 001f0414 09 infinite homing missiles
+
+R A 1 L 0 001f0412 09 infinite sentries
+
+R A 1 L 0 001f0412 09 intinite spikes
+
+[de9773e47a5090619fd29b4b407e79aa] Might and Magic III - Isles of Terra (USA)
+R A 1 L 0 000dc0ce ff infinite hp (character 1)
+
+R A 1 L 0 000dc1a7 ff infinite hp (character 2)
+
+R A 1 L 0 000dc280 ff infinite hp (character 3)
+
+R A 1 L 0 000dc359 ff infinite hp (character 4)
+
+R A 1 L 0 000dc432 ff infinite hp (character 5)
+
+R A 1 L 0 000dc50b ff infinite hp (character 6)
+
+R A 1 L 0 000dc0d0 ff infinite mp (character 1)
+
+R A 1 L 0 000dc434 ff infinite mp (character 5)
+
+R A 1 L 0 000dc50d ff infinite mp (character 6)
+
+R A 2 L 0 001f09e8 ffff infinite gold
+
+R A 2 L 0 001f09d8 0063 infinite food
+
+[ea5457e2838113cd8a93e917f9324f60] Might and Magic III - Isles of Terra (Japan)
+R A 1 L 0 000dc0ce ff infinite hp (character 1)
+
+R A 1 L 0 000dc1a7 ff infinite hp (character 2)
+
+R A 1 L 0 000dc280 ff infinite hp (character 3)
+
+R A 1 L 0 000dc359 ff infinite hp (character 4)
+
+R A 1 L 0 000dc432 ff infinite hp (character 5)
+
+R A 1 L 0 000dc50b ff infinite hp (character 6)
+
+R A 1 L 0 000dc0d0 ff infinite mp (character 1)
+
+R A 1 L 0 000dc434 ff infinite mp (character 5)
+
+R A 1 L 0 000dc50d ff infinite mp (character 6)
+
+R A 2 L 0 001f09e8 ffff infinite gold
+
+R A 2 L 0 001f09d8 0063 infinite food
+
+[fb9d5666f24df8cd386924e3a7826653] Wonder Boy III - Monster Lair (Japan) (Rev 4)
+R A 1 L 0 001f0483 09 infinite lives (disable cheats at end of stage bonus count)
+
+R A 1 L 0 001f0480 32 infinite vutality (protects from shoots)
+
+R A 1 L 0 001f0bbf 61 invincibility (need to die once per stage to enable)
+
+[4cefd8838aa2a3f104bfc26713095ba8] Monster Lair (USA)
+R A 1 L 0 001f0483 09 infinite lives (disable cheats at end of stage bonus count)
+
+R A 1 L 0 001f0480 32 infinite vutality (protects from shoots)
+
+R A 1 L 0 001f0bbf 61 invincibility (need to die once per stage to enable)
+
+[49be868cfd7352afca1c8920d45802f9] Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease)
+R A 2 L 0 001f09d0 03e7 infinite current hp (character 1)
+
+R A 2 L 0 001f09d6 03e7 infinite max hp (character 1)
+
+R A 1 L 0 001f09dc 63 infinite cureent mp (character 1)
+
+R A 1 L 0 001f09df 63 infinite current mp (character 1)
+
+R A 2 L 0 001f0a15 270f infinite gold
+
+[456e3075fe104ee068b06532dc81a02f] Prince of Persia (USA)
+R A 1 L 0 001f0736 04 infinite health (disable when falling into spikes)
+
+[3923c1859d91332834207dfb4ee81be1] Pyramid Plunder (USA) (Unl)
+R A 1 L 0 001f1261 05 infinite lives
+
+R A 1 L 0 001f1318 03 infinite mummy stoppers
+
+[486d69d9548bfb43ebd521ea284d9ac3] Riot Zone (USA)
+R A 1 L 0 001f0993 64 infinite health
+
+R A 1 L 0 001f0e44 05 infinite lives
+
+R A 1 L 0 001f0e49 28 infinite time
+
+[42f6b2e2e25d3446d85d73b49710b456] Shadow of the Beast (USA)
+R A 1 L 0 001f0d89 99 infinite health
+
+R A 1 L 0 001f0d20 3b invincibility
+
+[5119cbafed6b3cdbdbaedd21aa3f59c4] Shape Shifter (USA)
+R A 1 L 0 001f0312 09 infinite lives
+
+R A 1 L 0 001f0313 1f infinite health
+
+R A 1 L 0 001f0318 99 infinite jewels
+
+R A 1 L 0 001f0316 99 infinite gold
+
+R A 1 L 0 001f0317 99 infinite gold
+
+R A 1 L 0 001f049c 01 have pendant
+
+R A 1 L 0 001f0487 01 have weapon enchants
+
+[f887769f13d88b4be134b11eee001d30] Splash Lake (USA)
+R A 1 L 0 001f176b 03 infinite health
+
+R A 1 L 0 001f176d 09 infinite lives
+
+R A 1 L 0 001f1770 09 infinite time
+
+R A 1 L 0 001f176e 00 enable to instant finish level
+
+[c6efbbc867e85b7dfd3d8c407a67b259] Super Air Zonk - Rockabilly-Paradise (USA)
+R A 1 L 0 001f065a 09 infinite lives
+
+R A 1 L 0 001f0b9d 48 invincibility
+
+[6cb45a0c2dd8d20a882cd9e877a66536] SydMead's TerraForming (USA)
+R A 1 L 0 001f0366 03 infinite lives
+
+R A 1 L 0 001f0076 20 invincibility
+
+[6aa9acb0c37ec9bf428dc1302646359d] Valis II (USA)
+R I 1 L 0 001f0037 05 invincibility
+
+R A 1 L 0 001f091e 49 infinite health
+
+R A 1 L 0 001f091d 06 infinite lives
+
+R A 1 L 0 001f0902 09 unlimited specials
+
+[67860c5d2d6ffcdd87d89a412f7410b7] Valis III (USA)
+R A 1 L 0 001f038d 18 infinite energy
+
+R A 1 L 0 001f0393 02 infinite lives
+
+R A 1 L 0 001f038e 18 infinite magic
+
+R A 1 L 0 001f104d 50 infinite time
+
+R I 1 L 0 001f04eb 02 invincibility
+
+[bc16e0b2b74112a74b5536d63cdef07e] Vasteel (USA)
+R I 1 L 0 00000000 00 MANUALLY ENABLE CHEATS ONLY FOR THE PLAYER YOU PLAY
+
+R I 1 L 0 00000000 00 UPPER PLYER IN LIST IS PLAYER 1 OTHER IS PLAYER 2
+
+R I 1 L 0 001f0b29 63 infinite health (player 1)
+
+R I 1 L 0 001f0afd ff infinite money (player 1)
+
+R I 1 L 0 001f0afe ff infinite money (player 1)
+
+R I 1 L 0 001f0b31 63 infinite health (player 2)
+
+R I 1 L 0 001f0aff ff infinite money (player 2)
+
+R I 1 L 0 001f0b00 ff infinite money (player 2)
+
+[f72335a019e747777f78c43baafff399] Vasteel (Japan)
+R I 1 L 0 00000000 00 MANUALLY ENABLE CHEATS ONLY FOR THE PLAYER YOU PLAY
+
+R I 1 L 0 00000000 00 UPPER PLYER IN LIST IS PLAYER 1 OTHER IS PLAYER 2
+
+R I 1 L 0 001f0b29 63 infinite health (player 1)
+
+R I 1 L 0 001f0afd ff infinite money (player 1)
+
+R I 1 L 0 001f0afe ff infinite money (player 1)
+
+R I 1 L 0 001f0b31 63 infinite health (player 2)
+
+R I 1 L 0 001f0aff ff infinite money (player 2)
+
+R I 1 L 0 001f0b00 ff infinite money (player 2)
+
+[ada932d7a457a44a2345f7867804e532] Asuka 120% Maxima - Burning Fest. Maxima (Japan)
+R A 1 L 0 001f1142 63 infinite time
+
+R A 1 L 0 001f0720 c0 infinite health
+
+R A 1 L 0 001f169d c0 infinite health
+
+[4bc8dc05324bc5e8ae8b2cdfd1f07ab0] Chiki Chiki Boys (Japan)
+R A 1 L 0 001f0472 19 infinite health
+
+R A 1 L 0 001f0096 14 invincibility
+
+R A 1 L 0 001f16e2 09 infinite lives
+
+[825a43d784492e1a07a1da21b5ea980c] Chou Aniki (Japan) (FAAT, FACT)
+R A 1 L 0 001f0002 09 infinite lives
+
+R A 1 L 0 001f000e 09 infinite bombs
+
+R A 1 L 0 001f0e31 00 invincibility
+
+R A 1 L 0 001f12f1 00 invincibility
+
+[9f76efdeaa7d8b1617d13e3bf7f6a4b6] Doraemon - Nobita no Dorabian Night (Japan)
+R A 1 L 0 001f08d9 04 infinite health
+
+R A 1 L 0 001f09dc 09 infinite lives
+
+R I 1 L 0 001f0dd9 14 infinite shield
+
+R A 1 L 0 001f0099 14 invincibility
+
+[8d4b1e8d971f0651484e8b52d21659f7] Faussete Amour (Japan)
+R A 1 L 0 001f0006 01 always have armor (infinite health)
+
+R A 1 L 0 001f0007 02 infinite lives
+
+R I 1 L 0 001f0ca9 02 invincibility
+
+[16a25f5b992ea271f78e46084f6cf53b] Flash Hiders (Japan)
+R A 1 L 0 001f107f 80 infinite health
+
+R A 1 L 0 001f108f 68 infinite health
+
+R A 1 L 0 001f1091 68 infinite health
+
+R A 1 L 0 001f1015 99 infinite time
+
+R A 1 L 0 001f1016 99 infinite time
+
+R A 1 L 0 001f0f15 63 infinite skill points (scenario)
+
+[2284bc7d5a4e74d5521286295f7ba99a] Ginga Fukei Densetsu Sapphire (Japan)
+R A 1 L 0 0010a086 09 infinite bombs
+
+R A 1 L 0 0010a00c 09 infinite lives
+
+R A 1 L 0 001f06bd 09 unlimited credits
+
+R A 1 L 0 0010a058 90 invincibility
+
+[8d7d084cba7fde9845afc6151d8b53bf] Hawk F-123 (Japan)
+R A 1 L 0 001f1ec7 03 infinite lives
+
+R A 1 L 0 001f18e4 05 invincibility
+
+R A 1 L 0 001f1eef 09 infinite energy field (after pickup)
+
+R A 1 L 0 001f1eec 09 infinite force field (after pickup)
+
+R A 1 L 0 001f1eed 09 infinite missiles (after pickup)
+
+R A 1 L 0 001f1eee 09 infinite multi bomb (after pickup)
+
+[e866264880f2e5f032df30a0cbdb1d18] Hellfire S - The Another Story (Japan)
+R A 1 L 0 001f04a5 04 infinite lives
+
+R A 1 L 0 001f0f69 ff invincibility
+
+[c9b50dbc4bcef192f64d61c8d1145bf3] Hyper Dyne - SideArms Special (Japan) (Alt)
+R I 1 L 0 00000000 00 TURN ON CHEATS ONLY FOR THE MODE YOU PLAY
+
+R I 1 L 0 001f004d 02 infinite lives b.c. mode
+
+R I 1 L 0 001f00af 6b invincibility b.c. mode (unable to picup powerups)
+
+R A 1 L 0 001f005c 03 infinite lives standard mode
+
+R A 1 L 0 001f00aa 02 invincibility standard mode
+
+
+[9a57fb43be606da4f4c32282e70dd78d] Jim Power in Mutant Planet (Japan)
+R A 1 L 0 001f0d2f 76 infinite lives
+
+R A 1 L 0 001f0d33 76 infinite bombs
+
+R A 1 L 0 001f0d31 76 infinite keys
+
+R A 1 L 0 001f0d3f 07 invincibility
+
+R A 1 L 0 001f0d37 74 infinite time
+
+[6baf3cb7a0cd37bbfb9bd2664b9a51cc] Kabuki Ittouryoudan (Japan)
+R A 1 L 0 001f0760 6a infinite health
+
+R A 1 L 0 001f0768 6a infinite health
+
+R A 1 L 0 001f076c 6a infinite health
+
+R A 1 L 0 001f124d 09 infinite time
+
+R A 1 L 0 001f124c 09 infinite time
+
+[05480b4378e5ea4a76aa37c3fb2adbde] Kakutou Haou Densetsu - Algunos (Japan)
+R A 1 L 0 001f1690 a0 infinite health
+
+R I 1 L 0 001f1890 00 no health CPU
+
+[a7e347edf36949536ae4a2951da4c169] Mad Stalker - Full Metal Force (Japan)
+R A 1 L 0 001f1104 46 infinite time
+
+R A 1 L 0 001f16d0 78 infinite health
+
+[9754e306b6c85f3a026842937623171e] Pop'n Magic (Japan)
+R A 1 L 0 001f1fcd 09 infinite lives
+
+R A 1 L 0 001f1f1e 01 invincibility
+
+[2c103754094476f4a3623fb5496692a5] Revival Chase (USA) (En,Fr) (Unl)
+R A 1 L 0 001f0d63 09 infinite lives
+
+[0fe109597bd3b50d01f868c2b466ca6f] Summer Carnival '92 - Alzadick (Japan)
+R A 1 L 0 001f0406 02 invincibility
+
+[d3d34c95f068ea5339d22298b5c6878d] Sylphia (Japan)
+R A 1 L 0 001f167e 02 infinite health
 

@@ -3418,9 +3418,9 @@ R A 1 L 0 007e0168 0a infinite lives
 R A 1 L 0 007e18d6 16 invincibility
 
 [a8979138569ec2a9ecdba69334593ccc] Gojira - Kaijuu Daikessen (Japan)
-R I 1 L 0 007e05eb ff infinite health
+R A 1 L 0 007e05eb ff infinite health
 
-R I 1 L 0 007e0660 fc invincibility
+R A 1 L 0 007e0660 fc invincibility
 
 [444e00e4dec0e5d15327e6dfced9218b] Gon (Japan)
 R A 1 L 0 007e1090 09 infinite credits
@@ -3534,7 +3534,7 @@ R A 1 L 0 007e19d2 03 infinite lives
 R A 1 L 0 007e19e6 01 invincibility
 
 [d5e83ce15bb7895376ae59eedfa2455d] Kamen Rider (Japan)
-R A 1 L 0 007e0c6a 40 infinite energy
+R A 1 L 0 007e0c6a 40 infinite health
 
 R A 1 L 0 007e0038 02 infinite lives
 
@@ -5458,21 +5458,21 @@ R A 1 L 0 007e018e 08 infinite health (car)
 [9f056180691136a3ca7d4a868ade02b4] Batman Forever (USA)
 R A 1 L 0 007e132c 32 infinite health
 
-R A 1 L 0 00000000 05 infinite lives
+R A 1 L 0 007e0017 05 infinite lives
 
 R A 1 L 0 007e0160 0a infinite time
 
 [1f6e673b34e85484c98baad37284afa8] Batman Forever (Japan) (En)
 R A 1 L 0 007e132c 32 infinite health
 
-R A 1 L 0 00000000 05 infinite lives
+R A 1 L 0 007e0017 05 infinite lives
 
 R A 1 L 0 007e0160 0a infinite time
 
 [8e1fdfcf4b3764499006e3677fd67b86] Batman Forever (Europe)
 R A 1 L 0 007e132c 32 infinite health
 
-R A 1 L 0 00000000 05 infinite lives
+R A 1 L 0 007e0017 05 infinite lives
 
 R A 1 L 0 007e0160 0a infinite time
 
@@ -20716,4 +20716,124 @@ R A 1 L 0 007e1ce4 09 infinite health
 R A 1 L 0 007e020c 09 infinite lives
 
 R A 1 L 0 007e1ce2 75 infinite time
+
+[a91c8198c0e7a32b303f77df1d2d68b8] Puzzle Bobble - Bust-A-Move (Europe) (Rev 1)
+R A 1 L 0 007e0b04 07 infinite lives
+
+R A 1 L 0 007e09fc 01 always have aim help
+
+[9ae59f202d5e0a23449dceb5ce70ef67] Jaleco Rally Big Run - The Supreme 4WD Challenge (Japan) (En) (Rev 1)
+S A 1 L 0 00029b82 af infinite time
+
+[730bef426e194a06a2f61e703e0719ca] Alien 3 (USA) (Rev 1)
+R A 1 L 0 007e129c 64 infinite health
+
+R A 1 L 0 007e12a2 64 infinite health
+
+R A 1 L 0 007e162c 63 infinite ammo machine gun
+
+R A 1 L 0 007e1634 09 infinite grenade launcher
+
+R A 1 L 0 007e1132 ff invincibility
+
+[6044449557166cbea0197620688fa3d2] Kamen Rider (Japan) (Rev 1)
+R A 1 L 0 007e0c6a 40 infinite health
+
+R A 1 L 0 007e0038 02 infinite lives
+
+S A 1 L 0 00808bb0 ad invincibility
+
+[e7164a3121dfea84f059121c55cfeeba] Batman Forever (USA) (Rev 1)
+R A 1 L 0 007e132c 32 infinite health
+
+R A 1 L 0 007e0017 09 infinite lives
+
+R A 1 L 0 007e0160 0a infinite time
+
+[811937245524e31d8413f18ee1d65444] Gojira - Kaijuu Daikessen (Japan) (Rev 1)
+R A 1 L 0 007e05eb ff infinite health
+
+R A 1 L 0 007e0660 fc invincibility
+
+[3ca4ba9c14827abfa0d047151bc86634] Mortal Kombat (USA) (Rev 1)
+R A 1 L 0 007e04f9 a1 infinite health
+
+R A 1 L 0 007e0126 98 infinite time
+
+[4051abab6ca98f5047d5b1a149e62ff6] Secret of Evermore (Spain) (Rev 2)
+R A 3 L 0 007e0acf 0000000000895440 infinite credits
+
+R A 3 L 0 007e0acc 0000000000895440 infinite gold coins
+
+R A 3 L 0 007e0ac9 0000000000895440 infinite jewels
+
+R A 3 L 0 007e0ac6 0000000000895440 infinite talons
+
+R A 2 L 0 007e4eb3 03e7 infinite hp (boy)
+
+R A 2 L 0 007e0a35 03e7 infinite max hp (boy)
+
+R A 2 L 0 007e0a3f 03e7 max attack power (boy)
+
+R A 2 L 0 007e0a41 03e7 max defense power (boy)
+
+R A 2 L 0 007e0a45 03e7 max evade (boy)
+
+R A 2 L 0 007e0a47 03e7 max hit (boy)
+
+R A 2 L 0 007e0a43 03e7 max magic defense (boy)
+
+R A 2 L 0 007e4f61 03e7 infinite hp (dog)
+
+R A 2 L 0 007e0a7f 03e7 infinite max hp (dog)
+
+R A 2 L 0 007e0a89 03e7 max attack (dog)
+
+R A 2 L 0 007e0a8b 03e7 max defense (dog)
+
+R A 2 L 0 007e0a8f 03e7 max evade (dog)
+
+R A 2 L 0 007e0a91 03e7 max hit (dog)
+
+R A 2 L 0 007e0a8d 03e7 max magic defense (dog)
+
+[8de2ee0b0bdbdde16aefedecfb837971] Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De) (Rev 2)
+R I 1 L 0 00000000 00 KEEP ALL CHEATS OFF UNTIL INSIDE LEVEL
+
+R A 1 L 0 007e0379 09 infinite lives
+
+R A 1 L 0 007e03b6 2d infinite time
+
+R A 1 L 0 007e03b7 01 infinite time
+
+S A 1 L 0 0003a86e 80 invincibility
+
+[a1b7c3a1f75ea9b385263b181117770c] Wing Commander (Germany) (Rev 1)
+R A 1 L 0 007e1d61 1f infinite fuel
+
+R A 1 L 0 007e15a9 64 infinite ammo
+
+R A 1 L 0 007e153d 63 infinite shields
+
+R A 1 L 0 007e154f 63 infinite shields
+
+R A 1 L 0 007e08a8 00 invincibility
+
+[e406f7225927ddce1b25aa0f1ab6e043] Tintin in Tibet (Europe) (En,Es,Sv)
+S A 1 L 0 0082d08c ad infinite lives
+
+S A 1 L 0 0082d066 ad infinite health
+
+[a2d4f379a67bb4f88a29519bea1aa8be] Ys III - Wanderers from Ys (Japan) (Rev 1)
+R I 1 L 0 007e1afc 08 invincibility
+
+R A 1 L 0 007e1296 ff infinite ring power
+
+R A 1 L 0 007e1fe9 03 infinite amulet shots
+
+R A 2 L 0 007e1297 ffff infinite gold
+
+R A 1 L 0 007e1295 ff infinite health
+
+R A 1 L 0 007e1294 ff infinite health
 

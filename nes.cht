@@ -8565,3 +8565,50 @@ R A 1 L 0 00007456 ff infinite pp
 [50b9ecc2af9f0a3c13917486ac9643dc] Jekyll Hakase no Houma ga Toki (Japan)
 R A 1 L 0 0000003a 37 infinite health
 
+[877c41169b588793924dda8a457309bd] Time Diver - Avenger (Asia) (En) (Unl)
+R A 1 L 0 000000b7 09 infinite lives
+
+R A 1 L 0 000000b8 10 infinite health
+
+[6ba79820dda62f736122eba09a9707ea] Corre Benny (Spain) (Gluk Video) (Unl)
+R A 1 L 0 0000001a 09 infinite lives
+
+R I 1 L 0 0000001b 41 invincibility (unable to pickup extras)
+
+[120e386fa1f1ca9040014b651d06254e] Go! Benny! (Asia) (En) (Unl)
+R A 1 L 0 0000001a 09 infinite lives
+
+R I 1 L 0 0000001b 41 invincibility (unable to pickup extras)
+
+[37c3d522527193928a2c4a9b85ab6c27] Rockman 4 - Aratanaru Yabou!! (Japan) (Rev A)
+R A 1 L 0 000000a1 09 infinite lives
+
+R A 1 L 0 000000b0 9f infinite health
+
+R A 1 L 0 0000003c 1f invincibility
+
+[23e966eebc1b39413de25101f329798d] Fester's Quest (Europe) (Rev 1)
+R A 1 L 0 0000015c 63 infinite bullets
+
+R A 1 L 0 00000161 63 infinite invisibles
+
+R A 1 L 0 0000015d 63 infinite keys
+
+R A 1 L 0 00000163 63 infinite missiles
+
+R A 1 L 0 00000162 63 infinite money
+
+R A 1 L 0 0000015e 63 infinite nooses
+
+R A 1 L 0 00000160 63 infinite potions
+
+R A 1 L 0 00000164 63 infinite tnt
+
+R A 1 L 0 0000015f 63 infinite vice grops
+
+R A 1 L 0 000004e5 03 infinite health
+
+R A 1 L 0 000004e9 03 infinite health
+
+C A 1 L 0 00009c60 a9 a5 invincibility
+

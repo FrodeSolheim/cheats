@@ -1638,7 +1638,7 @@ R A 1 L 0 00ff3c7e ff infinite manpower
 R A 1 L 0 00ff3c85 ff maximize tribute
 
 [8844a97b65994de94cf398cf4a3217c3] Chakan (USA, Europe)
-R A 1 L 0 00ffbac6 01 enable cheat (pause then press B level select, oause then press C invincibility)
+R A 1 L 0 00ffbac6 01 enable cheat (pause then press B level select, pause then press C invincibility)
 
 R A 1 L 0 00ffc0d0 12 infinite health
 
@@ -4414,7 +4414,7 @@ R A 1 L 0 00fff1bf ff infinite sidewinders
 [6397f7029f90f59881bdc4174eafb52f] Landstalker - The Treasures of King Nole (Europe)
 R A 1 L 0 00ff543e ff infinite hp
 
-R I 1 L 0 00ff1142 02 invincibility (you can't fight monstes when enabled)
+R I 1 L 0 00ff1142 02 invincibility (you can't fight monsters when enabled)
 
 R A 1 L 0 00ff120e 27 infinite gold
 
@@ -4423,7 +4423,7 @@ R A 1 L 0 00ff12bf 0f infinite gold
 [0bee733207842672479cc0f2775290ba] Landstalker - Le Tresor du Roi Nole (France)
 R A 1 L 0 00ff543e ff infinite hp
 
-R I 1 L 0 00ff1142 02 invincibility (you can't fight monstes when enabled)
+R I 1 L 0 00ff1142 02 invincibility (you can't fight monsters when enabled)
 
 R A 1 L 0 00ff120e 27 infinite gold
 
@@ -4432,7 +4432,7 @@ R A 1 L 0 00ff12bf 0f infinite gold
 [d9a7922681a126653dc16a0d907d7f32] Landstalker - Koutei no Zaihou (Japan)
 R A 1 L 0 00ff543e ff infinite hp
 
-R I 1 L 0 00ff1142 02 invincibility (you can't fight monstes when enabled)
+R I 1 L 0 00ff1142 02 invincibility (you can't fight monsters when enabled)
 
 R A 1 L 0 00ff120e 27 infinite gold
 
@@ -4441,7 +4441,7 @@ R A 1 L 0 00ff12bf 0f infinite gold
 [2b6ee5677a6233fd98f0b90b51684991] Landstalker - Die Schatze von Konig Nolo (Germany)
 R A 1 L 0 00ff543e ff infinite hp
 
-R I 1 L 0 00ff1142 02 invincibility (you can't fight monstes when enabled)
+R I 1 L 0 00ff1142 02 invincibility (you can't fight monsters when enabled)
 
 R A 1 L 0 00ff120e 27 infinite gold
 
@@ -4450,7 +4450,7 @@ R A 1 L 0 00ff12bf 0f infinite gold
 [04ae2b65f3a11a7504339e60735beed8] Landstalker (USA)
 R A 1 L 0 00ff543e ff infinite hp
 
-R I 1 L 0 00ff1142 02 invincibility (you can't fight monstes when enabled)
+R I 1 L 0 00ff1142 02 invincibility (you can't fight monsters when enabled)
 
 R A 1 L 0 00ff120e 27 infinite gold
 
@@ -11504,7 +11504,13 @@ R A 1 L 0 00ffa01e 00 infinite health
 R A 1 L 0 00ffa056 00 infinite health
 
 [46ab937c360932b8ad31a866fb9a2c7a] Strider Hiryuu (Japan, Korea)
-R A 1 L 0 00000000 00 
+R I 1 L 0 00fffc4d 0a invincibility
+
+R A 1 L 0 00fffc00 09 infinite lives
+
+R A 1 L 0 00ffa01e 00 infinite health
+
+R A 1 L 0 00ffa056 00 infinite health
 
 [479ce05afb9d7491702be248d0bd20f3] Strider II (Europe)
 R A 1 L 0 00fff5db 09 infinite lives
@@ -13570,4 +13576,576 @@ R I 1 L 0 00ffe213 00 no health CPU player
 
 [3c8a26ee7bacf851ddcd8f4f6b9b17da] Water Margin - The Tales of Clouds and Winds (USA) (Unl)
 R A 1 L 0 00ff0035 f0 infinite health
+
+[144f9919f0e7372debe5e0c9b8bad3e9] Spider-Man X-Men - Arcade's Revenge (Europe)
+
+R A 1 L 0 00ff0225 5c infinite health
+
+R A 1 L 0 00ff1828 7f infinite energy/breath (storm)
+
+R A 1 L 0 00ff3f94 6e infinite health (gambit)
+
+R A 1 L 0 00ff0089 09 infinite lives (cyclops,storm,gambit)
+
+R A 1 L 0 00ff0f75 09 infinite lives (spider-man)
+[a8cf66d11fe76da86181d7e8f7f9c759] Sword of Vermilion (USA, Europe) (1993-11-18) (Sega Channel)
+
+R A 1 L 0 00ffc637 ff max ac
+
+R A 1 L 0 00ffc63b ff max dex
+
+R A 1 L 0 00ffc62d ff infinite hp
+
+R A 1 L 0 00ffc639 ff max int
+
+R A 1 L 0 00ffc63d ff max luck
+
+R A 1 L 0 00ffc633 ff infinite mp
+
+R A 1 L 0 00ffc635 ff max str
+
+R A 1 L 0 00ffc622 ff infinite money
+
+R A 1 L 0 00ffc623 ff infinite money
+
+[a81d327574d49aab69c2a6fe4cdc893a] Syd of Valis (USA)
+R A 1 L 0 fffff446 12 infinite magic
+
+R A 1 L 0 00ffd038 09 infinite lives
+
+R A 1 L 0 00ffd039 09 infinite lives
+
+R A 1 L 0 00ffd036 09 infinite bombs
+
+R A 1 L 0 00ffd037 09 infinite bombs
+
+R A 1 L 0 00ffd028 50 infinite energy
+
+R A 1 L 0 00ffd029 50 infinite energy
+[4bbe8b456f87a22062a98a0d50e41cd5] Shadow Dancer - The Secret of Shinobi (USA, Europe) (Steam Version)
+R A 1 L 0 00ff0cb3 09 infinite continues
+
+R A 1 L 0 00ff13de 09 infinite lives
+
+R A 1 L 0 00ff13e4 07 infinite magic
+
+R A 1 L 0 00ff0f03 59 infinite time
+
+[d912b4042e29b96fe62ffb08a2fe1174] Sonic The Hedgehog 3 (USA) (1993-11-20) (Sega Channel)
+
+R A 1 L 0 00ffb02b 6e all powers (invincibility, aqua breathe, magnetism)
+
+R A 1 L 0 00fffffa 00 enable debug mode
+
+R A 1 L 0 00ffffd0 01 enable stage select (go to sound test on title to enter)
+
+R A 1 L 0 00fffe12 09 infinite lives
+
+R A 1 L 0 00fffe21 c8 infinite rings
+
+R A 1 L 0 00fffe24 0f infinite time
+[256274df9b7068a48863b2980e981ec5] Home Alone 2 - Lost in New York (USA) (Sega Channel)
+
+R A 1 L 0 00ff9098 63 infinite health
+
+R A 1 L 0 00ff9114 09 infinite lives
+[ea7f5732cc220f46960aa2b0f691aa4e] Phantasy Star III - Generations of Doom (USA, Europe) (Steam Version)
+
+R A 1 L 0 00ffc0ae 03 center character (rhys) hp
+
+R A 1 L 0 00ffc0af e7 center character (rhys) hp
+
+R A 1 L 0 00ffc0b2 03 center character (rhys) current hp
+
+R A 1 L 0 00ffc0b3 e7 center character (rhys) current hp
+
+R A 1 L 0 00ffc0b0 03 center character (rhys) tp
+
+R A 1 L 0 00ffc0b1 e7 center character (rhys) tp
+
+R A 1 L 0 00ffc0b4 03 center character (rhys) current tp
+
+R A 1 L 0 00ffc0b5 e7 center character (rhys) current tp
+
+R A 1 L 0 00ffc1ae 03 lower left character (wren) hp
+
+R A 1 L 0 00ffc1af e7 lower left  character (wren) hp
+
+R A 1 L 0 00ffc1b2 03 lower left character (wren) current hp
+
+R A 1 L 0 00ffc1b3 e7 lower left  character (wren) current hp
+
+R A 1 L 0 00ffc1b0 03 lower left character (wren) tp
+
+R A 1 L 0 00ffc1b1 e7 lower left character (wren) tp
+
+R A 1 L 0 00ffc1b4 03 lower left character (wren) current tp
+
+R A 1 L 0 00ffc1b5 e7 lower left character (wren) current tp
+
+R A 1 L 0 00ffc12e 03 lower right character (mieu) hp
+
+R A 1 L 0 00ffc12f e7 lower right character (mieu) hp
+
+R A 1 L 0 00ffc132 03 lower right character (mieu) current hp
+
+R A 1 L 0 00ffc133 e7 lower right  character (mieu) current hp
+
+R A 1 L 0 00ffc130 03 lower right character (mieu) tp
+
+R A 1 L 0 00ffc131 e7 lower right character (mieu) tp
+
+R A 1 L 0 00ffc134 03 lower right character (mieu) current tp
+
+R A 1 L 0 00ffc135 e7 lower right character (mieu) current tp
+
+R A 1 L 0 00ffc22e 03 upper left character (thea) hp
+
+R A 1 L 0 00ffc22f e7 upper left  character (thea) hp
+
+R A 1 L 0 00ffc232 03 upper left character (thea) current hp
+
+R A 1 L 0 00ffc233 e7 upper left  character (thea) current hp
+
+R A 1 L 0 00ffc234 03 upper left character (thea) tp
+
+R A 1 L 0 00ffc235 e7 upper left character (thea) tp
+
+R A 1 L 0 00ffc230 03 upper left character (thea) current tp
+
+R A 1 L 0 00ffc231 e7 upper left character (thea) current tp
+
+R A 1 L 0 00ffdee2 03 upper right character (sari) hp
+
+R A 1 L 0 00ffdee3 e7 upper right character (sari) hp
+
+R A 1 L 0 00ffc2ae 03 upper right character (sari) current hp
+
+R A 1 L 0 00ffc2af e7 upper right  character (sari) current hp
+
+R A 1 L 0 00ffc2b4 03 upper right character (sari) tp
+
+R A 1 L 0 00ffc2b5 e7 upper right character (sari) tp
+
+R A 1 L 0 00ffc2b0 03 upper right character (sari) current tp
+
+R A 1 L 0 00ffc2b1 e7 upper right character (sari) current tp
+
+R A 1 L 0 00ffc041 ff infinite money
+[28e1ef5faa5968449b57d1bea39ea153] Phantasy Star II (USA, Europe) (Steam Version)
+
+R A 1 L 0 00ffc044 03 infinite hp (nei)
+
+R A 1 L 0 00ffc045 e7 infinite hp (nei)
+
+R A 1 L 0 00ffc048 03 infinite tp (nei)
+
+R A 1 L 0 00ffc049 e7 infinite tp (nei)
+
+R A 1 L 0 00ffc004 03 infinite hp (rolf)
+
+R A 1 L 0 00ffc005 e7 infinite hp (rolf)
+
+R A 1 L 0 00ffc008 03 infinite tp (rolf)
+
+R A 1 L 0 00ffc009 e7 infinite tp (rolf)
+
+R A 1 L 0 00ffc1d2 03 infinite hp (your char)
+
+R A 1 L 0 00ffc1d3 e7 infinite hp (your char)
+
+R A 1 L 0 00ffc622 ff infinite money
+
+R A 1 L 0 00ffc623 ff infinite money
+
+R A 1 L 0 00ffc003 e7 infinite current hp (your char)
+
+R A 1 L 0 00ffc002 03 infinite current hp (your char)
+
+R A 1 L 0 00ffc043 e7 infinite current hp (nei)
+
+R A 1 L 0 00ffc042 03 infinite current hp (nei)
+
+R A 1 L 0 00ffc002 03 infinite current hp (rolf)
+
+R A 1 L 0 00ffc003 e7 infinite current hp (rolf)
+
+R A 1 L 0 00ffc047 e7 infinite current tp (nei)
+
+R A 1 L 0 00ffc046 03 infinite current tp (nei)
+
+R A 1 L 0 00ffc006 03 infinite current tp (rolf)
+
+R A 1 L 0 00ffc007 e7 infinite current tp (rolf)
+
+[a3e8d48a5ffc999a3eecab8788765352] Micro Machines (USA)
+R A 1 L 0 00ffa7c9 00 always finish first
+
+R A 1 L 0 00ffa8b3 00 always finish first
+
+R A 1 L 0 00ffa99d 00 always finish first
+
+R A 1 L 0 00ffa6c7 09 infinite lives
+
+R A 1 L 0 00ff838f 14 infinite time (ruff trux time trial)
+
+[ee7375a2a9e37f8b509a89a6bc894376] Micro Machines (USA) (Alt 1)
+R A 1 L 0 00ffa7c9 00 always finish first
+
+R A 1 L 0 00ffa8b3 00 always finish first
+
+R A 1 L 0 00ffa99d 00 always finish first
+
+R A 1 L 0 00ffa6c7 09 infinite lives
+
+R A 1 L 0 00ff838f 14 infinite time (ruff trux time trial)
+
+[0177a7ec7ef049b41f4c62e2c9cf2aa8] ToeJam & Earl in Panic on Funkotron (USA) (1993-09-11) (Sega Channel)
+
+R A 1 L 0 00ffa923 63 infinite coins
+
+R A 1 L 0 00ffa921 09 infinite funk vacuum
+
+R A 1 L 0 00ffa92b 0e infinite health
+
+R A 1 L 0 00ffa91f 09 infinite panic button
+
+R A 1 L 0 00ffa929 63 infinite specials
+
+R A 1 L 0 00ffa931 28 infinite time under water
+
+R A 1 L 0 00ffa92f 28 infinite time underwater (stage 13)
+
+[e3b495bfb3cce24a35baa0431d19c0bb] Street Fighter II' - Special Champion Edition (USA) (Virtual Console)
+R A 1 L 0 00ff972b 63 infinite time (turn off cheats on bonus stages)
+
+R A 1 L 0 00ff8043 96 infinite health
+
+R I 1 L 0 00ff82c3 00 no health CPU player
+
+[727d88b508e960db9433e81e97603ce1] Street Fighter II' - Special Champion Edition (Europe) (Virtual Console)
+R A 1 L 0 00ff972b 63 infinite time (turn off cheats on bonus stages)
+
+R A 1 L 0 00ff8043 96 infinite health
+
+R I 1 L 0 00ff82c3 00 no health CPU player
+
+[e79af120eb0498b37343b34011191497] Smurfs, The (Brazil) (En,Fr,Fr-CA,De,Es-ES,It)
+
+R A 1 L 0 00ff4848 ff enable debug menu (press A+START to enter)
+
+R A 1 L 0 00fff377 04 infinite health
+
+R A 1 L 0 00fff36f 09 infinite leaves
+
+R A 1 L 0 00fff371 09 infinite lives
+
+R A 1 L 0 00fff373 09 infinite time
+
+R A 1 L 0 00ff4829 ff invincibility
+[6e1abadd32cd010905711791d46c03e3] Galaxy Force II (USA, Europe) (Steam Version)
+R A 1 L 0 00fff834 1b infinite energy
+
+R A 1 L 0 00fff835 0f infinite energy
+
+R A 1 L 0 00fff84c 63 infinite missiles
+
+[8dcca2a996b9570e4d79ad7405c44269] Galaxy Force II (Japan) (En) (Virtual Console)
+R A 1 L 0 00fff834 1b infinite energy
+
+R A 1 L 0 00fff835 0f infinite energy
+
+R A 1 L 0 00fff84c 63 infinite missiles
+
+[72b17b0e8991bbe8c6bd2a8ca3b66683] Juusou Kihei Leynos (Japan) (Virtual Console)
+R A 1 L 0 00ffb044 10 infinite energy
+
+R A 1 L 0 00ffd09b 63 infinite weapon #1
+
+R A 1 L 0 00ffd09d 63 infinite weapon #2
+
+R A 1 L 0 00ffd0a1 63 infinite weapon #3
+
+R A 1 L 0 00ffd0a3 63 infinite weapon #4
+
+R A 1 L 0 00ffd0a5 63 infinite weapon #5
+
+[886ec763da1e6d9fc9984b0e42e81b9b] Ren & Stimpy Show Presents, The - Stimpy's Invention (Europe) (1993-12-09) (Sega Channel)
+R A 1 L 0 00ff800e 44 infinite health
+
+R A 1 L 0 00ff800c 09 infinite lives
+
+[f42d80ed896d10a15ad04610fe4d3661] Samurai Spirits II (Taiwan) (Unl)
+R A 1 L 0 00ff0709 3c infinite time
+
+R A 1 L 0 00ff0213 60 infinite health
+
+R A 1 L 0 00ff022f 60 infinite health
+
+R I 1 L 0 00ff0413 00 no health CPU player
+
+[42b982850a2cb0fa9995f31664d09e9e] Samurai Spirits II (Taiwan) (Alt 1) (Unl)
+R A 1 L 0 00ff0709 3c infinite time
+
+R A 1 L 0 00ff0213 60 infinite health
+
+R A 1 L 0 00ff022f 60 infinite health
+
+R I 1 L 0 00ff0413 00 no health CPU player
+
+[f1126ce7cb33c04b0c941e1fa3a6dcb3] Pirates of Dark Water, The (Europe)
+
+R A 1 L 0 00ff048d 01 enable level select (press and hold A+B+C then press start on screen start menu)
+
+R A 1 L 0 00ff0f66 7f infinite energy
+
+R A 1 L 0 00ff0ef6 ff infinite lives
+
+R A 1 L 0 00ff0ff7 09 infinite lives
+
+R I 1 L 0 00ff2120 01 invincibility
+
+R A 1 L 0 00ff0cd7 63 infinite coins
+
+R A 1 L 0 00ff0cdd 63 infinite food
+
+R A 1 L 0 00ff0ce8 01 always have compass
+
+R A 1 L 0 00ff0cd1 63 infinite daggers/arrows/magic
+
+R A 1 L 0 00ff0ce1 63 infinite gravity potions
+
+R A 1 L 0 00ff0cdb 63 infinite keys
+
+R A 1 L 0 00ff0cd9 63 infinite minga melons
+
+R A 1 L 0 00ff0ce5 63 infinite shield magic
+
+R A 1 L 0 00ff0ce3 63 infinite stone exlixirs
+
+R A 1 L 0 00ff0cdf 63 infinite vitality enhancers
+
+R A 1 L 0 00ff0ce7 63 infinite vortex magic
+
+[d34ef4204796611afaf39ca1a4600d5a] Tinhead (USA) (Spectrum HoloByte) (October, 1995)
+R A 1 L 0 00ff4645 09 infinite energy
+
+R A 1 L 0 00ff4643 09 infinite lives
+
+R I 1 L 0 00ff4704 0a invincibility
+
+[eec1da08e45a34459e4942d56acff01d] Super Street Fighter II - The New Challengers (Japan) (Virtual Console)
+R A 1 L 0 00ff986f 62 infinite time
+
+R A 1 L 0 00ff803d 63 infinite health
+
+R I 1 L 0 00ff833d 00 no health for CPU player
+
+[af9df8b3ffe7fff3016e6541175d0a67] Super Street Fighter II (USA) (Virtual Console)
+R A 1 L 0 00ff986f 62 infinite time
+
+R A 1 L 0 00ff803d 63 infinite health
+
+R I 1 L 0 00ff833d 00 no health for CPU player
+
+[e7d06643e2e1311520a0e5a6c6aa5fe1] Super Street Fighter II (Europe) (Virtual Console)
+R A 1 L 0 00ff986f 62 infinite time
+
+R A 1 L 0 00ff803d 63 infinite health
+
+R I 1 L 0 00ff833d 00 no health for CPU player
+
+[39cefbb0b13c0265bc6a7c60801c67b3] Jurassic Park (Europe) (1993-06-14) (Sega Channel)
+R A 1 L 0 00ff000b 01 enable debug menu (enter/leave options then start game)
+
+R A 1 L 0 00ff0039 01 enable debug menu
+
+R A 1 L 0 00ff0054 55 infinite health
+
+R A 1 L 0 00ff0052 09 infinite lives
+
+R A 1 L 0 00ff003d 63 infinite blue beam wweapon
+
+R A 1 L 0 00ff003e 63 infinite blue flash grenades
+
+R A 1 L 0 00ff003b 63 infinite blue tranquilizers
+
+R A 1 L 0 00ff0040 63 infinite red missiles
+
+R A 1 L 0 00ff003c 63 infinite red tranquilizers
+
+[af1a954438afa382ff2325ce1a886fc3] Jurassic Park (USA) (1993-05-26) (Sega Channel)
+R A 1 L 0 00ff000b 01 enable debug menu (enter/leave options then start game)
+
+R A 1 L 0 00ff0039 01 enable debug menu
+
+R A 1 L 0 00ff0054 55 infinite health
+
+R A 1 L 0 00ff0052 09 infinite lives
+
+R A 1 L 0 00ff003d 63 infinite blue beam wweapon
+
+R A 1 L 0 00ff003e 63 infinite blue flash grenades
+
+R A 1 L 0 00ff003b 63 infinite blue tranquilizers
+
+R A 1 L 0 00ff0040 63 infinite red missiles
+
+R A 1 L 0 00ff003c 63 infinite red tranquilizers
+
+[d14f262f3d9d46df0ed1d9f2bb6c3442] Death and Return of Superman, The (Europe)
+R A 1 L 0 00ff84ef 40 infinite health
+
+R A 1 L 0 00ff9585 40 infinite health
+
+R A 1 L 0 00ff84ed 09 infinite lives
+
+R A 1 L 0 00ff84f3 09 infinite lives
+
+R A 1 L 0 00ff84fb 03 infinite specials
+
+R A 1 L 0 00ff84fd 03 infinite specials
+
+[9bfbbf751196b934dc159cb34fa3494f] Comix Zone (USA) (Virtual Console)
+R A 1 L 0 00ffbee7 ff infinite health
+
+R A 1 L 0 00ffbee8 ff stage select in jukebox (press c then song 1 -6 to select stage)
+
+[558a34d41b278717b1214c56a99dccd4] Centurion - Defender of Rome (USA, Europe) (Alt 1)
+R A 1 L 0 00ff3c7e ff infinite manpower
+
+R A 1 L 0 00ff3c85 ff maximize tribute
+
+[2a4cc74873d3117629e454666e39e654] Sonic The Hedgehog 2 (USA, Europe) (Virtual Console)
+R A 1 L 0 00fffe24 00 infinite time
+
+R A 1 L 0 00fffe21 c8 infinite rings
+
+R A 1 L 0 00fffe12 09 infinite lives
+
+[1f7b353c9591c71aaf786d20d1cb43f5] Strider (USA, Europe) (Virtual Console)
+R I 1 L 0 00fffc4d 0a invincibility
+
+R A 1 L 0 00fffc00 09 infinite lives
+
+R A 1 L 0 00ffa01e 00 infinite health
+
+R A 1 L 0 00ffa056 00 infinite health
+
+[afe56361b8bbe014dee830baffa8257d] Flashback (Europe) (En,Fr)
+R A 1 L 0 00ffd3d7 09 infinite health
+
+R A 1 L 0 00fff676 ff invincibility
+
+[fc2500f8a436e84a063e2b32707db1e3] Ariel the Little Mermaid (USA, Europe) (1992-10-10) (Sega Channel)
+R A 1 L 0 00ff404d 1c infinite energy
+
+R A 1 L 0 00ff4bb5 08 infinite flounder time
+
+R A 1 L 0 00ffa60f 09 infinite lives
+
+R A 1 L 0 00ffa610 10 infinite special weapon
+
+R I 1 L 0 00ff3ff7 0a invincibility
+
+R A 1 L 0 00ffa60e 09 infinite keys
+
+R A 1 L 0 00ffa60d 63 infinite treasures
+
+R A 1 L 0 00ffa614 05 unlimited digger fish
+
+R A 1 L 0 00ffa613 05 unlimited sebastian
+
+R A 1 L 0 00ff8000 06 level select (use 00-07 as value) disable after entering level
+
+[872395592368d210ae55c7fd5d7077f7] Chakan (USA, Europe) (1992-10-06) (Sega Channel)
+R A 1 L 0 00ffbac6 01 enable cheat (pause then press B level select, pause then press C invincibility)
+
+R A 1 L 0 00ffc0d0 12 infinite health
+
+R I 1 L 0 00ffc0df 1a invincibility
+
+[4984024f3d8059692a32ad0682031e65] Phelios (Japan) (Virtual Console)
+R A 1 L 0 00fff473 09 infinite lives
+
+R A 1 L 0 00fff475 04 infinite energy
+
+[2a69cba305fc404f9e50b3ba1683d3a3] Mega Turrican (USA, Europe) (Virtual Console)
+R A 1 L 0 00ffbd0d 03 infinite bombs
+
+R A 1 L 0 00ffbf20 40 infinite health
+
+R A 1 L 0 00ffbf26 09 infinite lives
+
+R A 1 L 0 00ffbf29 72 infinite time
+
+R I 1 L 0 00ffbd26 01 stage skip (enable to go to end of level then disable again)
+
+[385e4e66174a76fd4a05639f24b54562] Flashback - The Quest for Identity (USA) (En,Fr)
+R A 1 L 0 00ffd3d7 09 infinite health
+
+R A 1 L 0 00fff676 ff invincibility
+
+[98e34f05f6e5fb55517b1f8990b734ff] Phantasy Star II (USA, Europe) (Virtual Console)
+R A 1 L 0 00ffc044 03 infinite hp (nei)
+
+R A 1 L 0 00ffc045 e7 infinite hp (nei)
+
+R A 1 L 0 00ffc048 03 infinite tp (nei)
+
+R A 1 L 0 00ffc049 e7 infinite tp (nei)
+
+R A 1 L 0 00ffc004 03 infinite hp (rolf)
+
+R A 1 L 0 00ffc005 e7 infinite hp (rolf)
+
+R A 1 L 0 00ffc008 03 infinite tp (rolf)
+
+R A 1 L 0 00ffc009 e7 infinite tp (rolf)
+
+R A 1 L 0 00ffc1d2 03 infinite hp (your char)
+
+R A 1 L 0 00ffc1d3 e7 infinite hp (your char)
+
+R A 1 L 0 00ffc622 ff infinite money
+
+R A 1 L 0 00ffc623 ff infinite money
+
+R A 1 L 0 00ffc003 e7 infinite current hp (your char)
+
+R A 1 L 0 00ffc002 03 infinite current hp (your char)
+
+R A 1 L 0 00ffc043 e7 infinite current hp (nei)
+
+R A 1 L 0 00ffc042 03 infinite current hp (nei)
+
+R A 1 L 0 00ffc002 03 infinite current hp (rolf)
+
+R A 1 L 0 00ffc003 e7 infinite current hp (rolf)
+
+R A 1 L 0 00ffc047 e7 infinite current tp (nei)
+
+R A 1 L 0 00ffc046 03 infinite current tp (nei)
+
+R A 1 L 0 00ffc006 03 infinite current tp (rolf)
+
+R A 1 L 0 00ffc007 e7 infinite current tp (rolf)
+
+[6607372220b6785dc31c54bbb218ace5] Strider Hiryuu (Japan) (Virtual Console)
+R I 1 L 0 00fffc4d 0a invincibility
+
+R A 1 L 0 00fffc00 09 infinite lives
+
+R A 1 L 0 00ffa01e 00 infinite health
+
+R A 1 L 0 00ffa056 00 infinite health
+
+[ff2dec1b3e41e5012a2fbe0cf0eaa9e0] Landstalker (USA) (1993-07-13) (Sega Channel)
+R A 1 L 0 00ff543e ff infinite hp
+
+R I 1 L 0 00ff1142 02 invincibility (you can't fight monsters when enabled)
+
+R A 1 L 0 00ff120e 27 infinite gold
+
+R A 1 L 0 00ff12bf 0f infinite gold
 

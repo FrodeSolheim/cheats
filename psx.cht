@@ -1,0 +1,20 @@
+[8aa3c8cd56878f79f325c28e12b7619c] Einhaender (USA)
+R A 2 L 0 00085718 00a5 invincibility
+
+R A 2 L 0 000813c4 0003 infinite lives
+
+[d07674fbe9a15126cf235794dee24248] Disney's Hercules Action Game (USA) (v1.0)
+R A 2 L 0 00034dbc 0080 infinite energy ( enable after game started)
+
+R A 1 L 0 00034da4 09 infinite lives
+
+[724755560367a96b35b5df78b44ce66d] Disney's Hercules Action Game (USA) (v1.1)
+R A 1 L 0 00034da4 09 infinite lives
+
+[53218d823fbb1edd9cbe15cd56e22ef7] Moto Racer (USA)
+R I 2 L 0 000a5516 0701 always come in first 1 (turn both codes off after race starts)
+
+R I 2 L 0 0008f4cc f9f1 always come in 1st 2
+
+R A 2 L 0 0008f6d8 a000 infinite time
+

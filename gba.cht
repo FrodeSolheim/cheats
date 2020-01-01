@@ -1,0 +1,132 @@
+[88792ae1fbc74f4a5425d0c6f0482023] Mega Man & Bass (USA)
+R A 2 L 0 3201630c 0009 infinite lives
+
+R A 1 L 0 33004f8c 1c infinite health
+
+R A 1 L 0 33004f8d 03 invincibility
+
+[a26c440065d89f56275644ffa34140ef] Advance Guardian Heroes (USA)
+R A 2 L 0 8201509e 03e7 infinite hp
+
+[b24a17d080a01a404cbf018ba42b9803] Mega Man Zero (USA, Europe)
+R A 2 L 0 3206b6b4 0010 infinite health 1
+
+R A 2 L 0 3206b6b4 0010 infinite health 2
+
+R A 2 L 0 3202a5d0 0009 infinite retries
+
+R A 2 L 0 3202b634 0080 invincible
+
+[55dcbe18e02f7d2934c537508de532b6] Mega Man Zero 2 (Europe)
+R A 2 L 0 82036bb4 0009 infinite health
+
+R A 2 L 0 82037d94 0024 infinite lives
+
+R A 2 L 0 32037d84 0002 invincible
+
+[182363b0698322e1864ced6e9eed7ead] Mega Man Zero 2 (USA)
+R A 2 L 0 82037d94 0024 infinite health
+
+R A 2 L 0 82036bb4 0009 infinite lives
+
+R A 2 L 0 32037d84 0002 invincible
+
+[9ce73ff9aa1473f250d103c1bdbbd738] Mega Man Zero 3 (Europe)
+R A 2 L 0 32038044 0020 infinite health
+
+R A 2 L 0 320372b0 0009 infinite leves
+
+R A 2 L 0 82030324 0690 infinite time in timed events
+
+R A 2 L 0 32038034 0002 invincible
+
+[aa1d5eeffcd5e4577db9ee6d9b1100f9] Mega Man Zero 3 (USA)
+R A 2 L 0 8203805a 270f infinite crystals
+
+R A 2 L 0 320380b0 00ff infinite dash
+
+R A 2 L 0 32038044 0020 infinite health
+
+R A 2 L 0 320372b0 0009 infinite lives
+
+R A 2 L 0 82030324 0690 infinite time in timed events
+
+R A 2 L 0 32038034 0002 invincible (turn off on bosses)
+
+[d3a76f1c92e3044b1a21f1aae84d21ab] Mega Man Zero 4 (Europe)
+R A 2 L 0 820366ba 270f infinite crystals
+
+R A 2 L 0 7203673a 0001 infinite dash 1
+
+R A 2 L 0 3203673a 00fe infinite dash 2
+
+R A 2 L 0 320366a4 0020 infinite health
+
+R A 2 L 0 32035910 0009 infinite lives
+
+R A 2 L 0 32036694 0002 invincible
+
+[0d1e88bdb09ff68adf9877a121325f9c] Mega Man Zero 4 (USA)
+R A 2 L 0 820366ba 270f infinite crystals
+
+R A 2 L 0 7203673a 0001 infinite dash 1
+
+R A 2 L 0 320366a4 0020 infinite health
+
+R A 2 L 0 32035910 0009 infinite lives
+
+R A 2 L 0 32036694 0002 invincibility (turn off on bosses)
+
+[584fa297b632cff5b54c2def93c0de2f] Metal Slug Advance (Europe)
+R A 2 L 0 3200cd69 0006 access all missions
+
+R A 2 L 0 82000072 ffff infinite ammo
+
+R A 2 L 0 3200006f 0014 infinite bombs
+
+R A 2 L 0 32004948 0032 infinite health
+
+R A 2 L 0 33004756 000a infinite missiles
+
+R I 2 L 0 3200002b 0001 invincible
+
+[6838eb5df807a0f3299ad76066d59d26] Metal Slug Advance (USA)
+R A 2 L 0 3200cd69 0006 access all misssions
+
+R A 2 L 0 82000072 ffff infinite ammo
+
+R A 2 L 0 3200006f 0014 infinite bombs
+
+R A 2 L 0 32004948 0032 infinite health
+
+R A 2 L 0 33004756 000a infinite missile
+
+R I 2 L 0 32000028 00ff invincible (turn off on bosses)
+
+[07930e72d4824bd63827a1a823cc8829] Metroid - Zero Mission (Europe) (En,Fr,De,Es,It)
+R A 2 L 0 83001536 0513 infinite health
+
+R A 2 L 0 83001538 03e7 infinite missiles
+
+R A 2 L 0 3300153b 0063 infinite powerbombs
+
+R A 2 L 0 3300153a 00c7 infinite super missiles
+
+[ebbce58109988b6da61ebb06c7a432d5] Metroid - Zero Mission (USA)
+R A 2 L 0 83001536 0513 infinite health
+
+R A 2 L 0 83001538 03e7 infinite missiles
+
+R A 2 L 0 3300153b 0063 infinite powerbombs
+
+R A 2 L 0 3300153a 00c7 infinite super missiles
+
+[af5040fc0f579800151ee2a683e2e5b5] Metroid Fusion (USA, Australia)
+R A 2 L 0 83001314 03e7 infinite missiles
+
+R A 2 L 0 33001318 0063 infinite super bombs
+
+R A 2 L 0 83001310 0833 infinite health
+
+R A 2 L 0 33001249 0001 invincible
+

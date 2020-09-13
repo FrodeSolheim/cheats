@@ -523,7 +523,7 @@ R I 1 L 0 001f0d01 00 invincibility
 [c3357cc104feb0686ede96b099a2de2d] Genpei Toumaden (Japan)
 R A 1 L 0 001f0076 45 infinite health
 
-R I 1 L 0 001f00b4 02 invincibility
+R A 1 L 0 001f00b4 02 invincibility
 
 [f6b763e45180bd47a689d03890a82344] Genpei Toumaden - Kan no Ni (Japan)
 R A 1 L 0 001f15c8 31 infinite health
@@ -994,6 +994,8 @@ R A 1 L 0 001f0d81 7b invincibility
 R A 1 L 0 001f1445 09 infinite credits
 
 R A 1 L 0 001f1444 09 infinite lives
+
+R A 1 L 0 001f0144 01 invincibility
 
 [4b942ff45a454222dd4ec1951e75a72c] Rabio Lepus Special (Japan)
 R A 1 L 0 001f0187 09 infinite lives
@@ -2019,6 +2021,8 @@ R A 1 L 0 001f189f 02 infinite lives
 [8930d24e64be677b898423a295b2bde0] Bomberman '93 (Japan) (Special Version)
 R A 1 L 0 001f189f 02 infinite lives
 
+R A 1 L 0 001f00bd 3b infinite time
+
 [5356014f520019f6adcbb1cbe1543dbe] PC Genjin 3 - Pithecanthropus Computerurus (Japan)
 R A 1 L 0 001f0b8f 1e infinite health
 
@@ -2477,7 +2481,6 @@ R A 1 L 0 001f0a1a 03 infinite lives
 
 R A 1 L 0 001f0e99 14 invincibility
 [32e20c5b317f599060195d3276daddd2] Bomberman '93 (USA, Europe) (Virtual Console)
-
 R A 1 L 0 001f00b6 3b infinite time
 
 R A 1 L 0 001f189f 02 infinite lives
@@ -2485,6 +2488,7 @@ R A 1 L 0 001f189f 02 infinite lives
 R A 1 L 0 001f0c01 b7 invincibility
 
 R A 1 L 0 001f0c35 86 invincibility
+[cd2c47eaeb842cbcfe2ebcbe5710bf61] Youkai Douchuuki (Japan) (Virtual Console)
 [cd2c47eaeb842cbcfe2ebcbe5710bf61] Youkai Douchuuki (Japan) (Virtual Console)
 
 R A 1 L 0 001f0028 10 infinite health
@@ -3019,4 +3023,268 @@ R A 1 L 0 001f0406 02 invincibility
 
 [d3d34c95f068ea5339d22298b5c6878d] Sylphia (Japan)
 R A 1 L 0 001f167e 02 infinite health
+
+[8500f37a36dae9c64bac6acbdfdb97b8] Steam-Heart's (Japan)
+R I 2 L 0 00000000 0000 TURN THE CHEATS OFF (ALT+T) THE MOMENT THE BOSS EXPOLODES. TURN THEM BACK ON AFTER THE STAGE XX SCREEN.
+
+R I 2 L 0 00000000 0000 IF YOU TURN THEM OFF TOO LATE. THE GAME CRASHES AFTER LOADING THE NEXT STAGE !!!
+
+R A 2 L 0 001f02fb 0768 
+
+R A 2 L 0 001f02fc 0007 
+
+[78102a2b3ace9c3df406528ff972aaed] Baby Jo - The Super Hero (Japan)
+R I 2 l 0 00000000 0000 IF OYU GRAB A MILK BOTTLE (TO REFILL TIME) BY ACCIDENT TURN THE CHEATS OFF UNTIL YOURE DONE DRINKING, THEN TURN THEM BACK ON. ELSE YOU DRINK FOREVER !!!!
+
+R A 2 L 0 001f0c2d 0300 infinite lives
+
+R A 2 L 0 001f0c2e 0303 infinite lives
+
+R A 2 L 0 001f0c21 00f4 infinite health
+
+R A 2 L 0 001f0c27 18e9 infinite time
+
+R A 2 L 0 001f0c29 0518 always have weapon
+
+[a38847c001d6355b3f1e2338dfa84aff] Chou Eiyuu Densetsu - Dynastic Hero (Japan)
+R A 1 L 0 001f0d4a 19 invincibility
+
+R A 1 L 0 001f09a5 08 maximum hearts
+
+R A 1 L 0 001f09a0 ff infinite gold
+
+R A 1 L 0 001f09a1 ff infinite gold
+
+R A 1 L 0 001f09a2 ff infinite gold
+
+[bbdca0091827f53b59b3b6385770d422] Daisenpuu Custom (Japan)
+R A 2 L 0 001f08a3 0200 infinite lives
+
+R A 2 L 0 001f08a4 0002 infinite lives
+
+R A 1 L 0 001f08b1 03 infinite bombs
+
+R A 1 L 0 001f08b2 03 always have maximum weapon power
+
+[6a4c98f7668ca5bc9cfd7eebf233ed8b] Down Load 2 (Japan)
+R A 1 L 0 001f0059 09 infinite lives
+
+R A 1 L 0 001f005b 03 always have max firepower
+
+R A 1 L 0 001f1715 05 invincibility
+
+[6d451d3b6a33373741af7439c4968f91] FX Unit Yuki - The Henshin Engine (USA) (Unl) (Rerelease)
+R A 1 L 0 001f09e0 06 infinite health
+
+R A 1 L 0 001f09f6 09 infinite lives
+
+[31fb5195de5d34fea8af3c6fc1207ddd] Galaxy Deka Gayvan (Japan)
+R A 1 L 0 001f0708 63 infinite time
+
+R A 1 L 0 001f0800 50 infinite health
+
+R A 1 L 0 001f0a08 50 infinite health
+
+R A 1 L 0 001f06a5 04 infinite lives
+
+R A 1 L 0 001f0a01 04 infinite lives
+
+[73e291561bafe523bfed141b54785a7a] Hihou Densetsu - Chris no Bouken (Japan)
+R A 1 L 0 001f1f00 09 infinite lives
+
+R A 1 L 0 001f1f01 06 infinite health
+
+R A 1 L 0 001f1a74 d2 invincibility
+
+[d1cfaab3d2af398ca80426609aa1e17b] Hypernova Blast (USA) (Unl)
+R A 1 L 0 001f11ba 09 infinite shield
+
+[f5bcaa20b102ed349c209443a6a4dd68] Kaze Kiri - Ninja Action (Japan)
+R A 1 L 0 001f040a 07 infinite health
+
+[0376616563ae2364409fedd9c1d30257] Lemmings (Japan)
+R I 1 L 0 00000000 00 TURN THE CHEATS ON ONLY WHEN YOU PLAY, TURN THEM OFF WHEN FINISHING A LEVEL !!!!
+
+R I 1 L 0 00000000 00 ELSE YOU WILL HAVE GRAPHICAL CORRUPTION IN THE STATISTIC AND NEW LEVEL SCREEN !!!
+
+R A 1 L 0 001f00b2 20 infinite lemming #8
+
+R A 1 L 0 001f00b1 20 infinite lemming #7
+
+R A 1 L 0 001f00b0 20 infinite lemming #6
+
+R A 1 L 0 001f00af 20 infinite lemming #5
+
+R A 1 L 0 001f00ae 20 infinite lemming #4
+
+R A 1 L 0 001f00ad 20 infinite lemming #3
+
+R A 1 L 0 001f00ac 20 infinite lemming #2
+
+R A 1 L 0 001f00ab 20 infinite lemming #1
+
+R A 1 L 0 001f006b 00 infinite time
+
+R A 1 L 0 001f006c 00 infinite time
+
+R A 1 L 0 001f006d 05 infinite time
+
+[fedb997845a7be23b2e6670af83c0479] Metamor Jupiter (Japan)
+R A 2 L 0 001f1127 4f00 infinite health
+
+R A 2 L 0 001f1128 004f infinite health
+
+R A 2 L 0 000da83f 4f00 infinite health
+
+R A 2 L 0 000da840 004f infinite health
+
+[e9506bf8b043c4b9dffe294ea5b8963f] Meteor Blaster DX (USA) (Unl)
+R A 1 L 0 001f15c1 09 infinite lives
+
+R A 1 L 0 001f1717 09 infinite warps
+
+[742e6832f8a906d2719998673b86cfa9] Meteor Blaster DX (USA) (Unl) (Rerelease)
+R A 1 L 0 001f15c3 09 infinite lives
+
+R A 1 L 0 001f1719 09 infinite warps
+
+[73e64e28d2a94e8fc6b7909b95d24a65] Mystic Formula (Japan)
+R I 2 L 0 00000000 00 THE CHEATS ARE FOR ALL CHARACTERS AND ALL STAGES !!!
+
+R A 1 L 0 001f12d6 05 invincibility
+
+R A 1 L 0 001f12ca 05 invincibility
+
+R A 1 L 0 001f12fa 05 invincibility
+
+R A 1 L 0 001f12f3 05 invincibility
+
+R A 1 L 0 001f12f2 05 invincibility
+
+R A 1 L 0 001f12c6 05 invincibility
+
+R A 1 L 0 001f12f4 05 invincibility
+
+R A 1 L 0 001f1256 09 infinite lives
+
+R A 1 L 0 001f124a 09 infinite lives
+
+R A 1 L 0 001f127a 09 infinite lives
+
+R A 1 L 0 001f1273 09 infinite lives
+
+R A 1 L 0 001f1272 09 infinite lives
+
+R A 1 L 0 001f1246 09 infinite lives
+
+R A 1 L 0 001f1274 09 infinite lives
+
+R A 1 L 0 001f1296 09 infinite magic
+
+R A 1 L 0 001f128a 09 infinite magic
+
+R A 1 L 0 001f12ba 09 infinite magic
+
+R A 1 L 0 001f12b3 09 infinite magic
+
+R A 1 L 0 001f12b2 09 infinite magic
+
+R A 1 L 0 001f1286 09 infinite magic
+
+R A 1 L 0 001f12b4 09 infinite magic
+[4bfd92108fe0005648436cab8bdbbfc6] Rainbow Islands - The Story of Bubble Bobble 2 (Japan)
+R A 1 L 0 001f1fc6 09 infinite lives
+
+R A 1 L 0 001f1da8 02 invincibility
+
+[9b032f41315b6ee6bdf9becb0e2066a0] Renny Blaster (Japan)
+R A 1 L 0 001f1fa8 68 infinite health
+
+R A 1 L 0 001f0e32 68 infinite health
+
+R A 1 L 0 001f0e36 10 invincibility
+
+R A 1 L 0 001f066b 10 invincibility
+
+[1cac8fac61a3e997fa6912b09b7c15c2] Spriggan Mark 2 - Re Terraform Project (Japan)
+R A 1 L 0 001f005c 39 infinite shield
+
+R A 1 L 0 001f0595 63 infinite homin missiles
+
+R A 1 L 0 001f0598 63 infinite b. saber
+
+R A 1 L 0 001f059b 64 infinte r. bomber
+
+[f7f144da0795708d7eddde52ecefdc79] Strider Hiryuu (Japan)
+R A 1 L 0 001f00c8 03 infinite health
+
+R A 1 L 0 001f12d1 2e invincibility
+
+R A 1 L 0 001f0d12 55 infinite time
+
+R A 1 L 0 001f00d4 09 infinite lives
+
+[0469a5b0b169758c376df5e257d949c5] Super Darius II (Japan)
+R A 1 L 0 001f0bf0 09 infinite lives
+
+R A 1 L 0 001f0c03 01 invincibility
+
+[9ad8b94f4ec563588053752ae0a606df] Super Raiden (Japan)
+R A 1 L 0 001f19de 09 infinite lives
+
+R A 1 L 0 001f19d4 05 infinte bombs
+
+[606b370df67b57f86fc48a8121f7f0a7] Tenchi o Kurau (Japan)
+R A 1 L 0 001f1002 ff infinite hp
+
+R A 1 L 0 001f0071 60 maximum power
+
+R A 1 L 0 001f00b0 ff infinite health
+
+[c05619586258ba10a0994f74e92a627b] Zero Wing (Japan)
+R A 1 L 0 001f08a3 05 infinite lives
+
+[1b00aea45aa694e0ae58a7d35aede8ad] R-Type II (Japan) (v1.1)
+R A 1 L 0 001f1445 09 infinite credits
+
+R A 1 L 0 001f1444 09 infinite lives
+
+R A 1 L 0 001f0144 01 invincibility
+
+[df4fa7ddc1a4e8cc29dc67e700b2a55a] Tower of Druaga, The (Japan)
+R I 1 L 0 00000000 00 TURN THE CHEAST OFF BEFORE GOING THORUGH THE EXIT. OTHERWISE THE GAME WILL HANG. IF YOU ENTER NEXT STAGE TURN THE CHEATS ON AGAIN !!!
+
+R I 1 L 0 00000000 00 KEEP IN MIND, GREEN SLIME AND LIGHNING FROM THE WIZARDS STILL INSTANT KILL YOU !!!
+
+R A 1 L 0 001f008f ff infinite hp
+
+R A 1 L 0 001f008e ff infinite hp
+
+R A 1 L 0 001f0058 01 always have key
+
+[71c5cffeab1cb60a04b5e77a338117ac] Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl)
+R A 1 L 0 001f17d7 ff infinite hp
+
+R A 1 L 0 001f17d8 ff infinite hp
+
+R A 1 L 0 001f17dd ff maximum agility
+
+R A 1 L 0 001f17de ff maximum agility
+
+R A 1 L 0 001f17d9 ff maximum attack
+
+R A 1 L 0 00000000 ff maximum attack
+
+R A 1 L 0 001f17db ff maximum defense
+
+R A 1 L 0 001f17dc ff maximum defense
+
+R A 1 L 0 001f17d5 ff maximum hp
+
+R A 1 L 0 001f17d6 ff maximum hp
+
+[580a8fcadbc0b3af1f3c3e68708d41d4] TerraForming (Japan)
+R A 1 L 0 001f0366 03 infinite lives
+
+R A 1 L 0 001f0076 20 invincibility
 

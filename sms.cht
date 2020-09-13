@@ -63,16 +63,12 @@ R A 1 L 0 0000c137 09 infinite bombs
 
 R A 1 L 0 0000c142 01 always have force field
 
-R I 1 L 0 0000c134 00 stage select (use 00-04 as value) disable after entering stage
-
 [8b603c931418a3680b8723861f55a7b5] Aerial Assault (USA)
 R A 1 L 0 0000c139 09 infinite lives
 
 R A 1 L 0 0000c137 09 infinite bombs
 
 R A 1 L 0 0000c142 01 always have force field
-
-R I 1 L 0 0000c134 00 stage select (use 00-04 as value) disable after entering stage
 
 [6271c183513e0be0543e326419ee989e] After Burner (World)
 R A 1 L 0 0000c018 09 infinite lives
@@ -171,7 +167,7 @@ R A 1 L 0 0000c025 02 infinite lives
 
 R A 1 L 0 0000c030 cc infinite money
 
-R A 1 L 0 0000c046 01 have magic capsule (A attack)
+R A 1 L 0 0000c046 01 have magic capsule a ( attack)
 
 R A 1 L 0 0000c047 01 have magic capsule b (barrier)
 
@@ -180,7 +176,7 @@ R A 1 L 0 0000c025 02 infinite lives
 
 R A 1 L 0 0000c030 cc infinite money
 
-R A 1 L 0 0000c046 01 have magic capsule (A attack)
+R A 1 L 0 0000c046 01 have magic capsule a (attack)
 
 R A 1 L 0 0000c047 01 have magic capsule b (barrier)
 
@@ -189,7 +185,7 @@ R A 1 L 0 0000c025 02 infinite lives
 
 R A 1 L 0 0000c030 cc infinite money
 
-R A 1 L 0 0000c046 01 have magic capsule (A attack)
+R A 1 L 0 0000c046 01 have magic capsule a (attack)
 
 R A 1 L 0 0000c047 01 have magic capsule b (barrier)
 
@@ -290,16 +286,22 @@ R A 1 L 0 0000c216 09 infinite stars
 R I 1 L 0 0000c248 00 exit always open
 
 [e5693a4806de29ea9b1e1b5fea1a9566] Ashura (Japan)
+R I 1 L 0 00000000 00 KEEP ALL CHEATS OFF UNTIL INSIDE A LEVEL WHEN YOU HAVE INVINCIBILITY ENABLED !!!
+
 R A 1 L 0 0000c11f 02 infinite lives
 
 R A 1 L 0 0000c121 09 infinite arrows
 
+R A 1 L 0 0000c400 01 invincibility
+
 [b13632f6e0e0b495aae726aec9ba66d0] Assault City (Europe)
+R I 1 L 0 00000000 00 TURN ALL CHEATS OFF AT THE END OF A STAGE !!!
+
 R A 1 L 0 0000c0d9 0a invincibility
 
 R A 1 L 0 0000c2ff 0f always have good training score
 
-R A 1 L 0 0000c0d9 0a infinite energy (turn cheats off at the end of the level)
+R A 1 L 0 0000c0d9 0a infinite energy
 
 [6831e9afe139fedb13c81a54926b3c0d] Asterix (Europe) (En,Fr) (Rev 1)
 R A 1 L 0 0000c09a 03 infinite energy
@@ -376,8 +378,6 @@ R A 1 L 0 0000c14d 09 infinite iron balls
 
 R A 1 L 0 0000c14f 09 infinite 4 way iron balls
 
-R I 1 L 0 0000c146 01 stage select (use 01-10 as value) disable after entering stage
-
 [f2535df9bdc3a84221303fa62d61ad6e] Back to the Future Part II (Europe)
 R A 1 L 0 0000c36b 05 infinite energy
 
@@ -395,8 +395,6 @@ R A 1 L 0 0000c028 6e infinite time
 R A 1 L 0 0000d29b 09 infinite lives
 
 R I 1 L 0 0000d383 49 invincibility
-
-R I 1 L 0 0000d298 00 stage select (use 00-04 as value) disable after entering stage
 
 [83609eb760c3af64915fd6e73ee7d99e] Battle Out Run (Europe)
 R A 1 L 0 0000c19e 00 freeze timer
@@ -440,9 +438,11 @@ R A 1 L 0 0000c153 09 infinite secondary weapon
 R A 1 L 0 0000c154 05 invincibility
 
 [e58f6f374b3405fd2a5e5b80e639a980] Bonanza Bros. (Europe)
+R I 1 L 0 00000000 00 KEEP ALL CHEATS OFF UNTIL YOU ARE INSIDE A LEVEL !!!
+
 R I 1 L 0 0000c41e ff enable stage select in options
 
-R A 1 L 0 0000c4e1 0a infinite lives (keep all cheats turned off until your are in stage)
+R A 1 L 0 0000c4e1 0a infinite lives
 
 R A 1 L 0 0000c584 3c freeze timer
 
@@ -474,7 +474,9 @@ R A 1 L 0 0000ce9b ff invincibility
 R A 1 L 0 0000ce9c ff invincibility
 
 [db41b17f3268d9076e0928911a2791e0] Buggy Run (Europe)
-R A 1 L 0 0000ce28 01 infinite nitro (turn off cheats after you finish the race if you use always on 1st lap codes. and wait cpu players to finish race.
+R I 1 L 0 00000000 00 TURN ALL CHEATS OFF WHEN YOU FINISH THE RACE AND WAIT FOR CPU PLAYERS TO FINISH THE RACE !!!
+
+R A 1 L 0 0000ce28 01 infinite nitro
 
 R A 1 L 0 0000c83a 63 infinite nitro
 
@@ -493,7 +495,6 @@ R A 1 L 0 0000cd4b 01 cpu player #3 always on 1st lap
 R A 1 L 0 0000cd48 01 cpu player #4 always on 1st lap
 
 R A 1 L 0 0000cd4c 01 cpu player #4 always on 1st lap
-
 
 [1dfaadbfe7d8019e73bd980fd4b819ea] Captain Silver (USA)
 R A 1 L 0 0000c028 09 infinite lives
@@ -579,12 +580,16 @@ R A 1 L 0 0000c4c9 09 infinite lives
 R A 1 L 0 0000c4c7 03 invincibility
 
 [2d59b3d27f022b04a597e767e6660ca9] Comical Machine Gun Joe (Japan)
-R A 1 L 0 0000c142 03 infinite lives (keep cheats turned off until you are inside the level)
+R I 1 L 0 00000000 00 KEEP ALL CHEATS OFF UNTIL YOU ARE INSIDE A LEVEL !!!
+
+R A 1 L 0 0000c142 03 infinite lives
 
 R I 1 L 0 0000c111 80 invincibility
 
 [231f10776d2683afe576c8f72a03ec71] Comical Machine Gun Joe (Taiwan)
-R A 1 L 0 0000c142 03 infinite lives (keep cheats turned off until you are inside the level)
+R I 1 L 0 00000000 00 KEEP ALL CHEATS OFF UNTIL YOU ARE INSIDE A LEVEL !!!
+
+R A 1 L 0 0000c142 03 infinite lives
 
 R I 1 L 0 0000c111 80 invincibility
 
@@ -724,8 +729,6 @@ R A 1 L 0 0000cb2a 37 infinite health
 
 R A 1 L 0 0000cb2b 09 infinite lives
 
-R I 1 L 0 0000c110 00 stage select (use 00-03 as value) disable after entering stage
-
 [3e6e6cb8729965fdfdbb422f066ad706] Double Hawk (Europe)
 R A 1 L 0 0000c398 03 infinite health
 
@@ -740,8 +743,6 @@ R A 1 L 0 0000c2c1 01 infinite time
 
 R A 1 L 0 0000c2c1 10 invincibility
 
-R I 1 L 0 0000c00f 00 stage select (use 00-05 as value) disable after entering stage
-
 [63af7fce5106cc3de1e1b116c112095b] Quartet (USA, Europe)
 R A 1 L 0 0000c016 03 infinite lives
 
@@ -750,11 +751,6 @@ R A 1 L 0 0000c2c0 3b infinite time
 R A 1 L 0 0000c2c1 01 infinite time
 
 R A 1 L 0 0000c2c5 fb invincibility
-
-R I 1 L 0 0000c00f 00 stage select (use 00-05 as value) disable after entering stage
-
-[03d03f1e816d137fe6a1f5fe45fee82d] Dr. Robotnik's Mean Bean Machine (Europe)
-R I 1 L 0 0000d410 00 stage select (scenario mode use 00-12 as value) disable after entering stage
 
 [f86e099ca8e407a65a7751d84c2ee519] Dragon - The Bruce Lee Story (Europe)
 R A 1 L 0 0000d148 02 infinite health
@@ -808,8 +804,6 @@ R A 1 L 0 0000c0cb 09 infinite time
 
 R A 1 L 0 0000c080 27 invincibility
 
-R I 1 L 0 0000c056 00 stage select (use 00-09 as value) disable after entering stage
-
 [de328cde27324c8d591f740db0cb2866] E-SWAT (USA, Europe) (Easy Version)
 R A 1 L 0 0000c0c1 04 infinite lives
 
@@ -819,9 +813,7 @@ R A 1 L 0 0000c0d7 09 infinite ammo
 
 R A 1 L 0 0000c0cb 09 infinite time
 
-R I 1 L 0 0000c080 27 invincibility
-
-R I 1 L 0 0000c056 00 stage select (use 00-09 as value) disable after entering stage
+R A 1 L 0 0000c080 27 invincibility
 
 [93a96c1aa540cd65dc8be69a7b074edc] Eagles 5 (Korea)
 R A 1 L 0 0000c411 14 infinite power
@@ -902,14 +894,14 @@ R A 1 L 0 0000c067 09 infinite lives
 R A 1 L 0 0000c067 09 infinite lives
 
 [481a01c4e768c535ee18d6d78815fc89] Fantasy Zone II - The Tears of Opa-Opa (USA, Europe)
-R A 1 L 0 0000c0ab 0c infinite power (health)
+R A 1 L 0 0000c0ab 0c infinite health
 
 R A 1 L 0 0000c0b2 09 infinite bombs
 
 R A 1 L 0 0000c0b1 14 infinite weapon time
 
 [f898539f72db2271fc3385a5eb51a06f] Fantasy Zone II - Opa-Opa no Namida (Japan)
-R A 1 L 0 0000c0ab 0c infinite power (health)
+R A 1 L 0 0000c0ab 0c infinite health
 
 R A 1 L 0 0000c0b2 09 infinite bombs
 
@@ -998,8 +990,6 @@ R A 1 L 0 0000cde7 09 infinite sty
 
 R A 1 L 0 0000cde7 09 infinite lives
 
-R I 1 L 0 0000c400 00 stage select (use 00-04 as value) disable after entering stage
-
 [8d61b59296877216cf7e4b04a68bfa66] Galactic Protector (Japan)
 R A 1 L 0 0000c105 09 infinite lives
 
@@ -1035,14 +1025,10 @@ R A 1 L 0 0000c1f5 5a infinite health
 
 R A 1 L 0 0000c1ba 09 infinite lives
 
-R I 1 L 0 0000c1b9 01 stage select (use 01-06 as value) disable after entering stage
-
 [89028bfb152a553adf25668649d39ca6] Ghost House (Japan)
 R A 1 L 0 0000c1f5 5a infinite health
 
 R A 1 L 0 0000c1ba 09 infinite lives
-
-R I 1 L 0 0000c1b9 01 stage select (use 01-06 as value) disable after entering stage
 
 [dbae1ad6d3917a95b96d28bfc6f3f90a] Ghostbusters (USA, Europe)
 R A 1 L 0 0000ce0d 03 infinite lives
@@ -1234,8 +1220,6 @@ R A 1 L 0 0000c82d 09 infinite time
 
 R A 1 L 0 0000c8b0 5f invincibility
 
-R I 1 L 0 0000c80e 01 level select (use 01-08 as value) disable after entering level
-
 R I 1 L 0 0000c832 08 instant finish level (enable/disable as needed)
 
 R A 1 L 0 0000c82f 06 infinite health
@@ -1252,14 +1236,14 @@ R A 1 L 0 0000c030 03 infinite lives
 R A 1 L 0 0000c033 09 infinite medkit
 
 [6ae8f011701608ae8b765a26eb0b7ce1] Kenseiden (USA, Europe)
-R A 1 L 0 0000c111 0e infinite health
+R A 1 L 0 0000c111 14 infinite health
 
 R A 1 L 0 0000c090 09 infinite lives
 
 R A 1 L 0 0000c11e 1b invincibility (turn off cheats ALT+T to be able to pick up things, re-enable afterwards)
 
 [f4c3327b0f92e09b21f59e90fd273c2f] Kenseiden (Japan)
-R A 1 L 0 0000c111 0e infinite health 
+R A 1 L 0 0000c111 14 infinite health 
 
 R A 1 L 0 0000c090 09 infinite lives
 
@@ -1330,8 +1314,6 @@ R A 1 L 0 0000c0ad 07 infinite air
 R A 1 L 0 0000c0a1 13 infinite time
 
 R I 1 L 0 0000c227 1a invincibility
-
-R I 1 L 0 0000c0b0 00 level select (use 00-12 as value) disable after entering level
 
 R A 1 L 0 0000c22a ff high jump
 
@@ -1470,8 +1452,6 @@ R A 1 L 0 0000c090 0c infinite hats
 
 R A 1 L 0 0000c571 0a invincibility
 
-R A 1 L 0 0000ddf8 08 enable stage select (press UP/DOWN when round 1-1 is shown)
-
 [73569d2abefb7cdcbe9a13456df525c2] Mick & Mack as the Global Gladiators (Europe)
 R A 1 L 0 0000d512 ff enable cheat menu in options
 
@@ -1550,8 +1530,6 @@ R A 1 L 0 0000c045 02 infinite lives
 
 R A 1 L 0 0000c511 00 infinite hits on boss fights
 
-R I 1 L 0 0000c046 00 level select use 00-99 as value) disable after entering stage
-
 R A 1 L 0 0000c512 09 1 hit kill bosses
 
 [05e5054e2ea818d4b7eb53d624562dcf] New Zealand Story, The (Europe)
@@ -1564,9 +1542,13 @@ R A 1 L 0 0000dde5 ff infinite time underwater
 R I 1 L 0 0000de16 4e invincibility
 
 [41e20afe05c2fbe45ac5f3a9c8111047] Ninja (Japan)
+R I 1 L 0 00000000 00 WITH INVINCIBILITY ENBALED YOU CAN'T PICK UP THINGS. IF YOU WANT TO PICK SOMETHING UP
+
+R I 1 L 0 00000000 00 DISABLE THE CHEATS WITH ALT+T. AFTER PICKING UP RE-ENABLE THEM AGAIN !!!
+
 R A 1 L 0 0000cdc0 09 infinite lives
 
-R A 1 L 0 0000cea3 01 invincibility (unable to pick up things)
+R A 1 L 0 0000cea3 01 invincibility 
 
 [2cd25b3d9a1ced329a551d7fc3c0f01e] Ninja Gaiden (Europe)
 R I 1 L 0 0000dfc4 ff invincibility
@@ -1962,7 +1944,7 @@ R A 1 L 0 0000d176 01 always on 1st shot
 R A 1 L 0 0000d020 01 enable round select after select mode
 
 [58b89d62438407f242bbe713f1d945ca] Quest for the Shaven Yak Starring Ren Hoek & Stimpy (Brazil)
-R I 1 L 0 0000d4ca 4c invincibility
+R A 1 L 0 0000d4ca 4c invincibility
 
 R A 1 L 0 0000c2f4 06 infinite health (ren)
 
@@ -2001,14 +1983,22 @@ R A 1 L 0 0000c02e 09 infinite lives
 R A 1 L 0 0000c59b a4 infinite time
 
 [7a080a155ad6a806da88aa1d3576d78c] Rambo - First Blood Part II (USA)
+R I 1 L 0 00000000 00 KEEP ALL CHEATS OFF UNTIL INSIDE A LEVEL WHEN YOU HAVE INVINCIBILITY ENABLED !!!
+
 R A 1 L 0 0000c11f 02 infinite lives
 
 R A 1 L 0 0000c121 09 infinite arrows
+
+R A 1 L 0 0000c400 01 invincibility
 
 [3f6c5515a2e39826fbf816780298701c] Secret Command (Europe)
+R I 1 L 0 00000000 00 KEEP ALL CHEATS OFF UNTIL INSIDE A LEVEL WHEN YOU HAVE INVINCIBILITY ENABLED !!!
+
 R A 1 L 0 0000c11f 02 infinite lives
 
 R A 1 L 0 0000c121 09 infinite arrows
+
+R A 1 L 0 0000c400 01 invincibility
 
 [4fce4e3247639d0ef54eb54d0ef21153] Rambo III (USA, Europe)
 R A 1 L 0 0000de80 01 enable FM audio
@@ -2020,8 +2010,6 @@ R A 1 L 0 0000c049 50 infinite ammo
 R A 1 L 0 0000c047 09 infinite grenades
 
 R A 1 L 0 0000c048 07 infinite bottles
-
-R A 1 L 0 0000c03d 00 stage select (use 00-06 as value) disable after entering stage
 
 [54ee884bc658dbad88eac18e45e0eafc] Rampage (USA, Europe)
 R A 1 L 0 0000c096 3c infinite health
@@ -2042,8 +2030,6 @@ R I 1 L 0 0000c017 03 invincibilty (unable to pick up items)
 
 R A 1 L 0 0000c001 ff have all items
 
-R I 1 L 0 0000c14a 00 stage select (use 00-15 as value) disable after entering stage
-
 [bbce8b8ac26e2f582defe0056346f035] Renegade (Europe)
 R A 1 L 0 0000c24b a0 infinite health
 
@@ -2051,13 +2037,11 @@ R A 1 L 0 0000c3ab 09 infinite lives
 
 R A 1 L 0 0000c3a2 00 infinite time
 
-R I 1 L 0 0000c21e 00 stage select (use 00-03 as value) disable after entering stage
+R I 1 L 0 0000c26f 00 enemies have no health
 
-R A 1 L 0 0000c26f 00 enemies have no health
+R I 1 L 0 0000c28f 00 enemies have no health
 
-R A 1 L 0 0000c28f 00 enemies have no health
-
-R A 1 L 0 0000c2af 00 enemies have no health
+R I 1 L 0 0000c2af 00 enemies have no health
 
 [717fdf868c8f11a712697260eb7db670] Rescue Mission (USA, Europe)
 R A 1 L 0 0000c03c 03 infinite lives
@@ -2110,7 +2094,7 @@ R A 1 L 0 0000cebe 04 infinite lives
 
 R A 1 L 0 0000cee0 20 infinite weapon ammo (after pickup)
 
-R I 1 L 0 0000ceb9 0a invincibility
+R A 1 L 0 0000ceb9 0a invincibility
 
 [7ab485ee37ea7ce538f7dba08b64d95e] Global Defense (USA, Europe)
 R A 1 L 0 0000c136 13 infinite health
@@ -2123,9 +2107,11 @@ R A 1 L 0 0000c136 13 infinite health
 R A 1 L 0 0000c06c 03 infinite lives
 
 [d8a4c95203bbe294760085189f9544fa] Sagaia (Europe)
-R A 1 L 0 0000c826 09 infinite lives (disable cheats on each stage until your ship moves forward)
+R I 1 L 0 00000000 00 DISABLE CHEATS ON EACH STAGE AND ENABLE THEM AFTER YOUR SHIP MOVES FORWARD. ELSE YOUR SHIP IS STUCK !!!
 
-R A 1 L 0 0000c03f 09 infinite credits (otherwise you are not able to move)
+R A 1 L 0 0000c826 09 infinite lives
+
+R A 1 L 0 0000c03f 09 infinite credits
 
 R A 1 L 0 0000c803 14 invincibility
 
@@ -2141,19 +2127,19 @@ R A 1 L 0 0000c01b 09 infinite potions
 
 R A 1 L 0 0000c01a 09 infinite psycho sticks
 
-R I 1 L 0 0000c020 00 stage select (use 00-14 as value) disable after entering level
-
 R A 1 L 0 0000c24d 02 infinite potion time (use potion and stay invincible until end of level or death)
 
 [eac6a843975c50e39eb32f764da2a5ac] Satellite 7 (Japan)
 R A 1 L 0 0000c105 09 infinite lives
+
+R A 1 L 0 0000c103 80 invincibility
 
 [86806bba2acf7a07aad125f6ef02cd51] Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es)
 R A 1 L 0 0000d816 09 infinite health
 
 R A 1 L 0 0000d817 09 infinite lives
 
-R I 1 L 0 0000de95 bd invincibility
+R A 1 L 0 0000de95 bd invincibility
 
 [82b9ee0920c3c46798ecd659be0a5d9a] Scramble Spirits (Europe)
 R A 1 L 0 0000c1ca 09 infinite lives
@@ -2164,8 +2150,6 @@ R A 1 L 0 0000c237 49 invincibility
 R A 1 L 0 0000c045 02 infinite lives
 
 R A 1 L 0 0000c511 00 infinite hits on boss fights
-
-R I 1 L 0 0000c046 00 level select use 00-99 as value) disable after entering stage
 
 R A 1 L 0 0000c512 09 1 hit kill bosses
 
@@ -2202,7 +2186,7 @@ R A 1 L 0 0000d2a1 09 infinite lives
 
 R A 1 L 0 0000d0bc 63 infinite red balls
 
-R I 1 L 0 00000000 f1 invincibility
+R A 1 L 0 00000000 f1 invincibility
 
 [85ea52a2cbcae078dc3a04f8db1304a9] Sitio do Picapau Amarelo (Brazil)
 R A 1 L 0 0000c1d1 63 infinite health
@@ -2255,8 +2239,6 @@ R A 1 L 0 0000d29c 00 infinite time underwater
 
 R A 1 L 0 0000d209 01 invincibility
 
-R I 1 L 0 0000d23e 00 level select (use 00-18 as value) disable after entering stage
-
 [bf3b7a41e7da9de23416473a33c6ac2b] Sonic The Hedgehog 2 (Europe)
 R A 1 L 0 0000d298 09 infinite lives
 
@@ -2293,18 +2275,26 @@ R A 1 L 0 0000c4b7 0e infinite health
 [dde5d7a2694e6917bafab185594a267e] Space Harrier (Europe)
 R A 1 L 0 0000c123 09 infinite lives
 
+R A 1 L 0 0000c158 1b invincibility
+
 [b2e5047df186af7c02da17f1b285ae4f] Space Harrier (Japan, USA)
 R A 1 L 0 0000c123 09 infinite lives
+
+R A 1 L 0 0000c158 1b invincibility
 
 [d8717eeb943c292c078429a0ed5a8527] Space Harrier 3D (Japan)
 R A 1 L 0 0000c0d5 01 disable 3d effect
 
 R A 1 L 0 0000c139 09 infinite lives
 
+R A 1 L 0 0000c516 05 invincibility
+
 [945a4202181abe8c50082a65211ef7c7] Space Harrier 3-D (USA, Europe)
 R A 1 L 0 0000c0d5 01 disable 3d effect
 
 R A 1 L 0 0000c139 09 infinite lives
+
+R A 1 L 0 0000c516 05 invincibility
 
 [74c8108e7207d5b7149a69b0fc90d877] Special Criminal Investigation (Europe)
 R A 1 L 0 0000c08f 03 infinite boosts
@@ -2331,9 +2321,6 @@ R A 1 L 0 0000df7a 08 infinite time
 
 R A 1 L 0 0000df92 08 infinite webs
 
-[c6adc5db40d0db75c9c167e4bb2ed918] Spy vs. Spy (USA, Europe)
-R I 1 L 0 0000c112 00 stage select (use 00-07 as value) disable after entering stage
-
 [2012a00d2ef01285e7bf077f78e975f5] Star Wars (Europe)
 R A 1 L 0 0000de7d 01 enable level select on continue screen
 
@@ -2341,7 +2328,7 @@ R A 1 L 0 0000da65 0a infinite health (some things can still kill you)
 
 R A 1 L 0 0000da6f 02 infinite lives
 
-R I 1 L 0 0000da79 0f invincibility
+R A 1 L 0 0000da79 0f invincibility
 
 [7a4cda14dd38a48fc36bcc6e104cf5d7] Street Fighter II (Brazil)
 R A 1 L 0 0000c04f 0a infinite health
@@ -2381,7 +2368,7 @@ R A 1 L 0 0000d265 09 infinite time
 
 R A 1 L 0 0000d266 09 infinite time
 
-R I 1 L 0 0000d489 27 invincibility
+R A 1 L 0 0000d489 27 invincibility
 
 [8336c9a48390889fb3e17cd6f9471ae1] Strider II (Europe)
 R A 1 L 0 0000d4f2 7e infinite health
@@ -2471,7 +2458,7 @@ R A 1 L 0 0000c282 03 infinite turbos
 [5f170677dc0d0229ec3ec7f306bb6303] Taz in Escape from Mars (Brazil)
 R A 1 L 0 0000c36c 09 infinite lives
 
-R I 1 L 0 0000d5cd 7f invincibility
+R A 1 L 0 0000d5cd 7f invincibility
 
 [cfc878f0163933fcfcc89e134fbeb31f] Taz-Mania (Europe)
 R A 1 L 0 0000c103 14 infinite health
@@ -2694,8 +2681,6 @@ R A 1 L 0 0000c290 00 infinite time
 
 R A 1 L 0 0000c254 f0 invincibility
 
-R I 1 L 0 0000c110 00 stage select (use 00-04 as value) disable after entering stage
-
 [fdc90edb44d2a2236ab9c29d2f073d3c] Virtua Fighter Animation (Brazil)
 R A 1 L 0 0000c422 64 infinite health
 
@@ -2703,7 +2688,7 @@ R A 1 L 0 0000c423 64 infinite health
 
 R A 1 L 0 0000c409 1e infinite time
 
-R A 1 L 0 0000c60b 1e ininite time
+R A 1 L 0 0000c60b 1e infinite time
 
 [5db168808d3b4756c8c5f8b836a7b05a] WWF Wrestlemania - Steel Cage Challenge (Europe)
 R A 1 L 0 0000c40d c8 infinite health
@@ -2713,7 +2698,7 @@ R A 1 L 0 0000c101 07 infinite health
 
 R A 1 L 0 0000c100 09 infinite lives
 
-R I 1 L 0 0000c10c 2e invincibility
+R A 1 L 0 0000c10c 2e invincibility
 
 [7e805aa51bfb5f206c950a32ebcdab7c] Wonder Boy (USA, Europe)
 R A 1 L 0 0000c1b7 18 health bar always at maximum
@@ -2934,12 +2919,14 @@ R A 1 L 0 0000c06c 09 infinite time
 R A 1 L 0 0000c070 09 infinite lives
 
 [10b3d123ed5f2437b2d31cf8b8e60179] Super Boy I (Korea) (Unl)
-R A 1 L 0 0000c049 61 
+R A 1 L 0 0000c049 61 infinite time
 
 R A 1 L 0 0000c043 09 infinite lives
 
 [5a44e5cb4050f990c15351346cd11d41] Comical Machine Gun Joe (Korea) (Unl)
-R A 1 L 0 0000c142 03 infinite lives (keep cheats turned off until you are inside the level)
+R I 1 L 0 00000000 00 KEEP ALL CHEATS OFF UNTIL YOU ARE INSIDE A LEVEL !!!!
+
+R A 1 L 0 0000c142 03 infinite lives
 
 R I 1 L 0 0000c111 80 invincibility
 
@@ -2947,8 +2934,6 @@ R I 1 L 0 0000c111 80 invincibility
 R A 1 L 0 0000c1f5 5a infinite health
 
 R A 1 L 0 0000c1ba 09 infinite lives
-
-R I 1 L 0 0000c1b9 01 stage select (use 01-06 as value) disable after entering stage
 
 [16b6ea96908c17d4389a5907710a0f4e] Castle of Illusion Starring Mickey Mouse (USA, Europe)
 R A 1 L 0 0000c0bd 03 infinite health
@@ -3047,4 +3032,154 @@ R A 1 L 0 0000c030 cc infinite money
 R A 1 L 0 0000c046 01 have magic capsule (A attack)
 
 R A 1 L 0 0000c047 01 have magic capsule b (barrier)
+
+[e56024a7c0d216469b960092d080ee24] Wonder Boy III - The Dragon's Trap (USA, Europe) (GOG) (Unl)
+R A 1 L 0 0000cf52 ff infinite health
+
+R A 1 L 0 0000cf3e 63 infinite fireball blocks
+
+R A 1 L 0 0000cf4a 09 infinite blue potion
+
+R I 1 L 0 0000c240 80 invincibility (turn off to be able to enter doors)
+
+[ca38efb4db43d988392f4102ac7f1bbf] Ppang Gongjang (Korea) (Unl)
+R A 1 L 0 0000c050 09 infinite lives
+
+R A 1 L 0 0000c120 04 infinite beam
+
+[2c709ba8cdc3a1b7adc5bc838eabf6f3] Chapolim x Dracula - Um Duelo Assustador (Brazil)
+R A 1 L 0 0000c21b c0 infinite health
+
+R A 1 L 0 0000c1e0 09 infinite lives
+
+[6bd9879af39e248d149761014ebf5639] Maou Golvellius (Japan)
+R A 1 L 0 0000c836 01 infinite health (it goes down but its infinite)
+
+R A 1 L 0 0000c840 63 infinite money
+
+R I 1 L 0 0000c845 ff all bridges build and blockades are removed (kinds spoild the game)
+
+[c67c5f04519000394bd525eccb774958] Jang Pung II (Korea) (Unl)
+R A 1 L 0 0000d4d2 63 infinite time
+
+R A 1 L 0 0000d4e6 02 player 1 always wins
+
+[480106be9af6c74fc4738c97b23ac323] Hwarang-ui Geom (Korea) (Unl)
+R A 1 L 0 0000c111 14 infinite health
+
+R A 1 L 0 0000c090 09 infinite lives
+
+R A 1 L 0 0000c11e 1b invincibility (turn off cheats ALT+T to be able to pick up things, re-enable afterwards)
+
+[8a590bff739700171e5996c9dd4e01ae] Mopiranger (Korea) (Unl)
+R A 1 L 0 0000c051 09 infinite lives
+
+[66363591ca2894c48876f416d5adbe75] Ttoriui Moheom (Korea) (Unl)
+R A 1 L 0 0000c045 02 infinite lives
+
+R A 1 L 0 0000c511 00 infinite hits on boss fights
+
+R A 1 L 0 0000c512 09 1 hit kill bosses
+
+[14c59604768b33175362cc592cb75ead] Phantasy Star (Japan) (Virtual Console)
+R A 1 L 0 0000c4e1 ff infinite meseta (money)
+
+R A 1 L 0 0000c402 ff infinite magic (alis)
+
+R A 1 L 0 0000c406 ff max hp (alis)
+
+R A 1 L 0 0000c408 ff max attack (alis)
+
+R A 1 L 0 0000c409 ff max defense (alis)
+
+R A 1 L 0 0000c407 ff max mp (alis)
+
+R A 1 L 0 0000c401 ff infinite hp (alis)
+
+R A 1 L 0 0000c412 ff infinite magic (myau)
+
+R A 1 L 0 0000c416 ff max hp (myau)
+
+R A 1 L 0 0000c417 ff max mp (myau)
+
+R A 1 L 0 0000c418 ff max attack (myau)
+
+R A 1 L 0 0000c419 ff max defense (myau)
+
+R A 1 L 0 0000c411 ff infinite hp (myau)
+
+R A 1 L 0 0000c432 ff infinite magic (noah)
+
+R A 1 L 0 0000c431 ff infinite hp (noah)
+
+R A 1 L 0 0000c436 ff max hp (noah)
+
+R A 1 L 0 0000c437 ff max mp (noah)
+
+R A 1 L 0 0000c438 ff max attack (noah)
+
+R A 1 L 0 0000c439 ff max defense (noah)
+
+R A 1 L 0 0000c421 ff infinite hp (odin)
+
+R A 1 L 0 0000c426 ff max hp (odin)
+
+R A 1 L 0 0000c428 ff max attack (odin)
+
+R A 1 L 0 0000c429 ff max defense (odin)
+
+[d6155260305d2ea1ee0d3258691d11fa] Puzzle (Korea) (Unl)
+R A 1 L 0 0000c218 63 infinite time
+
+R A 1 L 0 0000c215 09 infinite retries
+
+[789b285290688cbd0a786f888f9dada1] Shinobi (Japan, Brazil)
+R A 1 L 0 0000c06c 06 infinite health
+
+R A 1 L 0 0000c07a 02 infinite lives
+
+R A 1 L 0 0000c01a 06 enable stage select after title screen
+
+[5c6d01e7534726e02f27664c44c491d6] Sky Fighter (Korea) (Unl)
+R A 1 L 0 0000c059 09 infinite lives
+
+R A 1 L 0 0000c03f 04 invincibility
+
+[836d0b4c9ab9296cc78a5f8e2cb375d7] Sky Jaguar (Korea) (Unl)
+R A 1 L 0 0000c050 03 infinite lives
+
+[19a825bd9210ce0ff84cb883c750e7fc] Sky Jaguar (Korea) (Clover) (Unl)
+R A 1 L 0 0000c050 03 infinite lives
+
+[01764008734841830623b43c6e3a528b] Suho Jeonsa (Korea) (Unl)
+R A 1 L 0 0000c41b 09 infinite balls
+
+[e80ce989b68b1faa5e40016ce7b096fe] Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan)
+R A 1 L 0 0000c05b 3f infinite health
+
+[eb7d7db5ab98b0b7812552644fb95fe8] Super Boy 4 (Korea) (Unl)
+R A 1 L 0 0000db67 09 infinite lives
+
+R A 1 L 0 0000db6c 78 infinite time
+
+[6120c9ba0f2c24031c9a836035060717] Super Boy II (Korea) (Unl)
+R A 1 L 0 0000c049 72 infinite time
+
+R A 1 L 0 0000c043 09 infinite lives
+
+[2c620ba64fcaac940b4b1566733037b3] Ninja, The (USA, Europe, Brazil)
+R I 1 L 0 00000000 00 WITH INVINCIBILITY ENBALED YOU CAN'T PICK UP THINGS. IF YOU WANT TO PICK SOMETHING UP
+
+R I 1 L 0 00000000 00 DISABLE THE CHEATS WITH ALT+T. AFTER PICKING UP RE-ENABLE THEM AGAIN !!!
+
+R A 1 L 0 0000cdc0 09 infinite lives
+
+R A 1 L 0 0000cea3 01 invincibility 
+
+[2c8d7ad9c6484f161dd9574670b598a4] Toto World 3 (Korea) (Unl)
+R A 1 L 0 0000c276 09 infinite lives
+
+R A 1 L 0 0000c275 04 infinite health
+
+R A 1 L 0 0000c26a 01 invincibility
 

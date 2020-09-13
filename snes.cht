@@ -241,8 +241,6 @@ R A 1 L 0 007e0104 05 infinite lives
 
 R A 1 L 0 007e068c 30 invincibility
 
-R I 1 L 0 007e014f 00 stage select (use 00-0f as value) disable after entering level
-
 R A 1 L 0 007e015d 63 infinite green gems
 
 R A 1 L 0 007e015e 63 infinite red gems
@@ -439,8 +437,6 @@ R A 1 L 0 007e0315 3b infinite time
 
 R A 1 L 0 007e03b6 04 invincibility
 
-R I 1 L 0 007e030f 01 stage select (use 01-05 as value) disable after entering stage
-
 R A 1 L 0 007e0340 df infinite health (car levels)
 
 R A 1 L 0 007e0341 df infinite health (car levels)
@@ -512,8 +508,6 @@ R A 1 L 0 007e0222 09 infinite rounds
 
 [6a5b2f9bde72f7d72db7dfe9afd0f47a] Lion King, The (USA)
 R A 1 L 0 007e2004 04 infinite health
-
-R I 1 L 0 007fff9e 00 level modifier (use 00-0f as value, disable to play normal)
 
 R A 1 L 0 007effaa 09 infinite lives
 
@@ -619,7 +613,7 @@ S A 1 L 0 00038242 ad infinite health
 
 S A 1 L 0 0002b5f4 ad infinite lives
 
-R A 1 L 0 007e002e 5a invincible
+R A 1 L 0 007e002e 5a invincibility
 
 [71516a3b67963cf91055a6c78566a1ba] MechWarrior (USA)
 R A 1 L 0 007e176f 01 invincibility
@@ -1963,7 +1957,7 @@ R A 1 L 0 007e13f2 99 infinite hearts
 
 R A 1 L 0 007e007c 9a infinite lives
 
-R I 1 L 0 007e00bc 02 invincibility
+R A 1 L 0 007e00bc 02 invincibility
 
 R A 1 L 0 007e13f0 99 infinite time
 
@@ -4021,9 +4015,9 @@ R A 1 L 0 007e1974 00 down don't count
 R A 1 L 0 007e194c 63 infinite time
 
 [95775d1573534e21bc3e41b987debdac] Tatakae Genshijin 2 - Rookie no Bouken (Japan)
-R A 1 L 0 007e0020 82 invincible #1
+R A 1 L 0 007e0020 82 invincibility
 
-R A 1 L 0 007e0033 03 invincible #2
+R A 1 L 0 007e0033 03 invincibility
 
 [053e92d49e0586f2768d6fb245a4afc2] Tetsuwan Atom (Japan)
 R A 1 L 0 007e0747 9f infinite booster power
@@ -4978,8 +4972,6 @@ R A 1 L 0 007e15d2 63 infinite ammo machine gun
 
 R A 1 L 0 007e10d8 ff invincibility
 
-R I 1 L 0 00000000 01 stage select (use 01-06 as value) disable after entering stage
-
 [ed460cfdb52936cc0c850ffc71a89a8a] Alien 3 (Japan)
 R A 1 L 0 007e129c 64 infinite health
 
@@ -5009,8 +5001,6 @@ R A 1 L 0 007e15da 0a infinite grenades
 R A 1 L 0 007e15d2 63 infinite ammo machine gun
 
 R A 1 L 0 007e10d8 ff invincibility
-
-R I 1 L 0 00000000 01 stage select (use 01-06 as value) disable after entering stage
 
 [1fc2ead45eadcac586d65e218b895912] Alien vs Predator (USA)
 R A 1 L 0 007e1024 64 infinite health
@@ -5563,14 +5553,14 @@ R A 1 L 0 007e003a 2f infinite health
 
 R A 1 L 0 007e0016 09 infinite lives
 
-R I 1 L 0 007e1112 7f invincibility
+R A 1 L 0 007e1112 7f invincibility
 
 [e4327313c7ad91cf435b96bcea2d19d4] Battletoads-Double Dragon (Europe)
 R A 1 L 0 007e003a 2f infinite health
 
 R A 1 L 0 007e0016 09 infinite lives
 
-R I 1 L 0 007e1112 7f invincibility
+R A 1 L 0 007e1112 7f invincibility
 
 [e44b9987e33ef7237b24457a6c997723] Battletoads in Battlemaniacs (USA)
 R I 1 L 0 00000000 00 KEEP ALL CHEATS OFF UNTIL IN GAME
@@ -5777,7 +5767,7 @@ R A 1 L 0 007e0e18 04 infinite lives
 
 S A 1 L 0 0001830d d0 invincibility
 
-S A 1 L 0 0000ac3f ad mars have infinite atomic shileds
+S A 1 L 0 0000ac3f ad mars have infinite shields
 
 S A 1 L 0 0000ace6 ad neptune have infinite hyper bombs
 
@@ -5786,7 +5776,7 @@ R A 1 L 0 007e0e18 04 infinite lives
 
 S A 1 L 0 0001830d d0 invincibility
 
-S A 1 L 0 0000ac3f ad mars have infinite atomic shileds
+S A 1 L 0 0000ac3f ad mars have infinite shields
 
 S A 1 L 0 0000ace6 ad neptune have infinite hyper bombs
 
@@ -8202,7 +8192,7 @@ R A 1 L 0 007e0fc6 3c infinite time
 [50909f84102dc99af61e9532dccc8cc7] Clay Fighter 2 - Judgment Clay (Europe)
 R A 1 L 0 007e181e 64 infinite health
 
-R A 1 L 0 007e1b0a 00 no health CPU player
+R I 1 L 0 007e1b0a 00 no health CPU player
 
 R A 1 L 0 007e0fc4 3c infinite time
 
@@ -8274,12 +8264,12 @@ R A 1 L 0 007e1844 01 invincibility
 [9aea023fde7fb213c95480d6212265d6] Congo's Caper (USA)
 R A 1 L 0 007e0042 09 infinite lives
 
-R A 1 L 0 007e0032 2f invincibility (after 1 hit)
+R A 1 L 0 007e0032 2f invincibility
 
 [5d89e5c48b9f96341bcbe06e910185e0] Congo's Caper (Europe)
 R A 1 L 0 007e0042 09 infinite lives
 
-R A 1 L 0 007e0032 2f invincibility (after 1 hit)
+R A 1 L 0 007e0032 2f invincibility
 
 [ede82658dafdd6febbfbe6a9c9082500] Contra III - The Alien Wars (USA)
 R A 1 L 0 007e1746 09 infinite lives
@@ -8519,7 +8509,7 @@ R A 1 L 0 007e1f0e 0c infinite health
 
 R A 1 L 0 007e1f16 09 infinite nutty attacks
 
-R I 1 L 0 007e1f12 ff invincibility
+R A 1 L 0 007e1f12 ff invincibility
 
 [9e69c8ea3d82c7120099f5252ccc72ca] Daffy Duck - The Marvin Missions (Europe)
 R A 1 L 0 007e1f10 09 infinite lives
@@ -8546,7 +8536,7 @@ R A 1 L 0 007e1f0e 0c infinite health
 
 R A 1 L 0 007e1f16 09 infinite nutty attacks
 
-R I 1 L 0 007e1f12 ff invincibility
+R A 1 L 0 007e1f12 ff invincivility
 
 [0e7c6781a6ae15d36a5885a03c132898] Darius Twin (USA)
 R A 1 L 0 007e1068 09 infinite lives
@@ -8555,6 +8545,8 @@ R A 1 L 0 007e1779 00 invincibility
 
 [2b34fad23451699fd5dfec418d0cc283] Darius Twin (Japan)
 R A 1 L 0 007e1068 09 infinite lives
+
+R A 2 L 0 007e17f5 0100 invincibility
 
 [07ce711db81bd94433f59c8477320081] Darius Twin (Europe)
 R A 1 L 0 007e1068 09 infinite lives
@@ -8812,7 +8804,7 @@ R A 1 L 0 007eb10e ff infinite hydras (campaign 2&3)
 R A 1 L 0 007eb132 63 infinite missiles (campaign 2&3)
 
 [3623efce83f8c52fb7e2ce173c487288] Dino City (USA)
-R I 1 L 0 007e1725 20 invincibility
+R A 1 L 0 007e1725 20 invincibility
 
 R A 1 L 0 007e1763 03 infinite health (kid)
 
@@ -8823,7 +8815,7 @@ R A 1 L 0 007e1731 09 infinite lives
 R A 1 L 0 007e0da0 61 infinite time
 
 [beba697f6b24ed4cf82fede9565f580d] Dino City (Europe)
-R I 1 L 0 007e1725 20 invincibility
+R A 1 L 0 007e1725 20 invincibility
 
 R A 1 L 0 007e1763 03 infinite health (kid)
 
@@ -8834,7 +8826,7 @@ R A 1 L 0 007e1731 09 infinite lives
 R A 1 L 0 007e0da0 57 infinite time
 
 [2662e0bf4e6f8e6ec03c545d58e8d904] Dinowars - Kyouryuu Oukoku e no Daibouken (Japan)
-R I 1 L 0 007e1725 20 invincibility
+R A 1 L 0 007e1725 20 invincibility
 
 R A 1 L 0 007e1763 03 infinite health (kid)
 
@@ -8850,14 +8842,14 @@ R A 1 L 0 007e03fa 09 infinite lives
 [dc886eda4c45ae4c7fde88e2b4b8cfc1] Donald in Maui Mallard (Europe)
 R A 1 L 0 007e0dd3 64 infinite health
 
-R A 1 L 0 007e002e 5a invincible
+R A 1 L 0 007e002e 5a invincibility
 
 R A 1 L 0 007e1f4a 09 infinite lives
 
 [70e48393a4d85125d29da2f0e49d4881] Donald Duck no Maui Mallard (Japan)
 R A 1 L 0 007e0dd3 64 infinite health
 
-R A 1 L 0 007e002e 5a invincible
+R A 1 L 0 007e002e 5a invincibility
 
 R A 1 L 0 007e1f4a 09 infinite lives
 
@@ -11096,7 +11088,7 @@ R A 1 L 0 007e043a 78 infinite stamina
 
 R A 1 L 0 007e045a 64 infinite stamina
 
-R I 1 L 0 007e0fd0 09 infinite round time
+R A 1 L 0 007e0fd0 09 infinite round time
 
 [6d6c629ad9e2bdb3c89e0587438beda8] Foreman for Real (Japan) (En)
 R A 1 L 0 007e11ae 64 infinite stamina
@@ -11107,7 +11099,7 @@ R A 1 L 0 007e043a 78 infinite stamina
 
 R A 1 L 0 007e045a 64 infinite stamina
 
-R I 1 L 0 007e0fd0 09 infinite round time
+R A 1 L 0 007e0fd0 09 infinite round time
 
 [b92066b5a3bf1504836aac5ffa3421f2] Foreman for Real (Europe)
 R A 1 L 0 007e11ae 64 infinite stamina
@@ -11118,7 +11110,7 @@ R A 1 L 0 007e043a 78 infinite stamina
 
 R A 1 L 0 007e045a 64 infinite stamina
 
-R I 1 L 0 007e0fd0 09 infinite round time
+R A 1 L 0 007e0fd0 09 infinite round time
 
 [0eff399b3e236585c9d962e2ab8433ce] Frantic Flea (USA)
 R A 1 L 0 007e1e92 1e invincibility
@@ -11355,7 +11347,7 @@ R A 1 L 0 007e1155 7f infinite crystals
 
 R A 1 L 0 007e0157 62 infinite crystals
 
-R A 1 L 0 007e0156 60 infinite xrystals
+R A 1 L 0 007e0156 60 infinite crystals
 
 R I 1 L 0 007e0133 01 have stars shield
 
@@ -11368,7 +11360,7 @@ R A 1 L 0 007e1155 7f infinite crystals
 
 R A 1 L 0 007e0157 62 infinite crystals
 
-R A 1 L 0 007e0156 60 infinite xrystals
+R A 1 L 0 007e0156 60 infinite crystals
 
 R I 1 L 0 007e0133 01 have stars shield
 
@@ -11492,16 +11484,6 @@ R A 1 L 0 007e0291 1f always full vacuum power
 R A 1 L 0 007e0293 1f always full horse power
 
 [2dabcd70aabb6bcb286b398824da3ee7] Great Circus Mystery Starring Mickey & Minnie, The (Europe)
-R I 1 L 0 STUPID CAPCOM GAME. 3 VARIANTS 3 APPROACHES TO CHEAT
-
-R I 1 L 0 THE FLICKERING IS ACUALLY SOME KIND OF INVINCIBILITY
-
-R I 1 L 0 AND BOTH HEALTH CHEATS HAVE TO BE ENABLED. WITH JUST THE
-
-R I 1 L 0 LAST ONE HEALTH IS STILL INFINITE BUT ALSO COLLISIONS ARE TURNED OFF.
-
-R I 1 L 0 WHICH PREVENTS YOU TO KILL ANYTHING. 
-
 R A 1 L 0 007e029f 10 infinite lives
 
 R A 1 L 0 007e0291 1f always full vacuum power
@@ -12134,8 +12116,6 @@ R A 1 L 0 007e0104 05 infinite lives
 
 R A 1 L 0 007e068c 30 invincibility
 
-R I 1 L 0 007e014f 00 stage select (use 00-0f as value) disable after entering level
-
 R A 1 L 0 007e015d 63 infinite green gems
 
 R A 1 L 0 007e015e 63 infinite red gems
@@ -12146,8 +12126,6 @@ R A 1 L 0 007e010b 04 infinite health
 R A 1 L 0 007e0104 05 infinite lives
 
 R A 1 L 0 007e068c 30 invincibility
-
-R I 1 L 0 007e014f 00 stage select (use 00-0f as value) disable after entering level
 
 R A 1 L 0 007e015d 63 infinite green gems
 
@@ -12190,8 +12168,6 @@ R A 1 L 0 007f1160 09 infinite mines (motorcycle)
 
 R A 2 L 0 007f41d0 03e7 infinite armor (stealth fighter)
 
-R I 1 L 0 007e0d2c 01 camaign select (use 01-09 as value) disable after entering level
-
 [555b87d479701e22a3f88e4969b5c877] Jungle Strike (Europe)
 R A 1 L 0 007e08b2 09 infinite lives (all campaigns)
 
@@ -12229,8 +12205,6 @@ R A 1 L 0 007f1160 09 infinite mines (motorcycle)
 
 R A 2 L 0 007f41d0 03e7 infinite armor (stealth fighter)
 
-R I 1 L 0 007e0d2c 01 camaign select (use 01-09 as value) disable after entering level
-
 [258ea18705ce692e28289346f4993598] Jungle Strike - Uketsugareta Kyouki (Japan)
 R A 1 L 0 007e08b2 09 infinite lives (all campaigns)
 
@@ -12267,8 +12241,6 @@ R A 1 L 0 007f1162 63 infinite hydras (motorcycle)
 R A 1 L 0 007f1160 09 infinite mines (motorcycle)
 
 R A 2 L 0 007f41d0 03e7 infinite armor (stealth fighter)
-
-R I 1 L 0 007e0d2c 01 camaign select (use 01-09 as value) disable after entering level
 
 [ff42b93f32c7921a88ef46fdf79a8445] Jurassic Park (USA) (Rev 1)
 R A 1 L 0 007e02eb 00 infinite health
@@ -13052,8 +13024,6 @@ R A 1 L 0 007e0315 3b infinite time
 
 R A 1 L 0 007e03b6 04 invincibility
 
-R I 1 L 0 007e030f 01 stage select (use 01-05 as value) disable after entering stage
-
 R A 1 L 0 007e0340 df infinite health (car levels)
 
 R A 1 L 0 007e0341 df infinite health (car levels)
@@ -13544,8 +13514,6 @@ R A 1 L 0 007e0222 09 infinite rounds
 [ef70fed8c54193fe314472f453c40865] Lion King, The (Japan)
 R A 1 L 0 007e2004 04 infinite health
 
-R I 1 L 0 007fff9e 00 level modifier (use 00-0f as value, disable to play normal)
-
 R A 1 L 0 007effaa 09 infinite lives
 
 R A 1 L 0 007effa8 09 infinite continues
@@ -13556,8 +13524,6 @@ R I 1 L 0 007eb259 3d invincibility
 
 [5aee4392ae78c9b1bc25a86f135e08fd] Lion King, The (Europe)
 R A 1 L 0 007e2004 04 infinite health
-
-R I 1 L 0 007fff9e 00 level modifier (use 00-0f as value, disable to play normal)
 
 R A 1 L 0 007effaa 09 infinite lives
 
@@ -16209,11 +16175,17 @@ R A 1 L 0 007e0839 3b infinite time
 [b4745109dfb032675c6a0cb83598607f] Revolution X (USA)
 R A 1 L 0 007e022b ff infinite health
 
+R A 1 L 0 007e0088 96 infinite discs
+
 [d5acdaa3e261efa816985a403d4ea533] Revolution X (Japan)
 R A 1 L 0 007e022b ff infinite health
 
+R A 1 L 0 007e0088 96 infinite discs
+
 [b75dca377cebbae23e39820952ef59e7] Revolution X (Germany)
 R A 1 L 0 007e022b ff infinite health
+
+R A 1 L 0 007e0088 96 infinite discs
 
 [8d4794a6af6fc3a363a749d02ecdc838] Riddick Bowe Boxing (Japan) (En)
 R A 1 L 0 007e0e19 78 infinite health
@@ -17586,7 +17558,7 @@ R A 1 L 0 007e024e 05 invincibility
 
 R A 1 L 0 007e023e ff infinite special weapon ammo
 
-R A 1 L 0 007e023f ff infinite special weapn ammo
+R A 1 L 0 007e023f ff infinite special weapon ammo
 
 [4f5449c5a1db9eced78a9573affffed9] Stunt Race FX (Europe)
 R A 1 L 0 007e0df4 01 always 1st place
@@ -17999,7 +17971,7 @@ R A 1 L 0 007e13f2 99 infinite hearts
 
 R A 1 L 0 007e007c 9a infinite lives
 
-R I 1 L 0 007e00bc 02 invincibility
+R A 1 L 0 007e00bc 02 invincibility
 
 R A 1 L 0 007e13f0 99 infinite time
 
@@ -18010,7 +17982,7 @@ R A 1 L 0 007e13f2 99 infinite hearts
 
 R A 1 L 0 007e007c 9a infinite lives
 
-R I 1 L 0 007e00bc 02 invincibility
+R A 1 L 0 007e00bc 02 invincibility
 
 R A 1 L 0 007e13f0 99 infinite time
 
@@ -20574,7 +20546,7 @@ R A 1 L 0 007e0b7e 08 infinite lives (wolverine)
 [6155c5fa196e06660c2ecf66ebb63d43] Choukou Gasshin Xardion (Japan)
 R A 1 L 0 007e0d1a 40 infinite health
 
-R I 1 L 0 007e0d46 c8 invincible
+R I 1 L 0 007e0d46 c8 invincibility
 
 [044d6d9860e635d55bbb6192b5cbb121] Yoshi's Safari (Europe)
 R A 1 L 0 007e030f 09 infinite lives
@@ -20836,4 +20808,654 @@ R A 2 L 0 007e1297 ffff infinite gold
 R A 1 L 0 007e1295 ff infinite health
 
 R A 1 L 0 007e1294 ff infinite health
+
+[de712de1abcb0eb554911c374ef8919b] Secret of Mana (France) (Rev 1) (Switch Version)
+R I 1 L 0 00000000 00 R I 1 L 0 00000000 KEEP ALL CHEATS OFF UNTIL AFTER YOU GOT THE SOWRD IF YOU START NEW
+
+R I 1 L 0 00000000 00 R I 1 L 0 00000000 KEEP ALL CHEATS OFF UNTIL AFTER LOADING A SAVED GAME
+
+R A 3 L 0 007ecc6a 0000000000895440 infinite gold
+
+R A 2 L 0 007ee182 03e7 infinite hp (character 1)
+
+R A 2 L 0 007ee184 03e7 infinite max hp (character 1)
+
+R A 2 L 0 007ee382 03e7 infinite hp (character 2)
+
+R A 2 L 0 007ee384 03e7 infinite max hp (character 2)
+
+R A 2 L 0 007ee582 03e7 infinite hp (character 3)
+
+R A 2 L 0 007ee584 03e7 infinite max hp (character 3)
+
+[ff5790e984d6ab8109963c7b2f8a2a97] Secret of Mana (Germany) (Switch Version)
+R I 1 L 0 00000000 KEEP ALL CHEATS OFF UNTIL AFTER YOU GOT THE SOWRD IF YOU START NEW
+
+R I 1 L 0 00000000 KEEP ALL CHEATS OFF UNTIL AFTER LOADING A SAVED GAME
+
+R A 3 L 0 007ecc6a 0000000000895440 infinite gold
+
+R A 2 L 0 007ee182 03e7 infinite hp (character 1)
+
+R A 2 L 0 007ee184 03e7 infinite max hp (character 1)
+
+R A 2 L 0 007ee382 03e7 infinite hp (character 2)
+
+R A 2 L 0 007ee384 03e7 infinite max hp (character 2)
+
+R A 2 L 0 007ee582 03e7 infinite hp (character 3)
+
+R A 2 L 0 007ee584 03e7 infinite max hp (character 3)
+
+[76f6c17bf97a42e0d7257b653fc3251a] Street Fighter II Turbo (Japan) (Rev 1) (Virtual Console)
+R A 1 L 0 007e0636 b0 infinite health
+
+R A 1 L 0 007e18f3 99 infinite time
+
+[d4fcb5e9baa54b1de17bc26129099df3] Super Castlevania IV (USA) (Castlevania Anniversary Collection)
+R A 1 L 0 007e13f4 10 infinite health
+
+R A 1 L 0 007e13f2 99 infinite hearts
+
+R A 1 L 0 007e007c 9a infinite lives
+
+R A 1 L 0 007e00bc 02 invincibility
+
+R A 1 L 0 007e13f0 99 infinite time
+
+[884324d4a0ae66bc474bf9e2de5e77b0] Super Street Fighter II (USA) (Rev 1)
+R A 1 L 0 007e0638 16 invincibility
+
+R A 1 L 0 007e0531 b0 infinite health
+
+R A 1 L 0 007e0530 b0 infinite health
+
+R A 1 L 0 007e1928 1c infinite time
+
+[7d66769f53cb3fb7f5c73044876db240] Star Fox 2 (USA) (SNES Mini)
+R A 2 L 0 007eb228 0020 infinite shields
+
+R A 2 L 0 007eb22c 0009 infinite items
+
+[e7de4068dd0577ec5567783739839a76] Star Fox 2 (Japan) (Super Famicom Classic Mini)
+R A 2 L 0 007eb228 0020 infinite shields
+
+R A 2 L 0 007eb22c 0009 infinite items
+
+[065e9ec7ce5b41203d8a8bae78de7e7a] Desert Fighter - Suna no Arashi Sakusen (Japan)
+
+R A 1 L 0 007e0806 20 infinite damage
+
+R A 1 L 0 007e081e 32 infinite missiles & flares
+
+R A 1 L 0 007e081c 00 infinite vulcan
+
+R A 1 L 0 007e081d 02 infinite vulcan
+
+R A 1 L 0 007e080a c0 infinite fuel
+
+R A 1 L 0 007e080b a8 infinite fuel
+
+[1687307b1e71aedfebcf60810ca93da6] Addams Family, The (Europe) (En,Fr,De)
+R A 1 L 0 007e00c3 03 infinite health
+
+R A 1 L 0 007e00ac 09 infinite lives
+
+R A 1 L 0 007e00ab 63 maximum coins
+
+[b25b01b52aba8ca3127620e5a3fdf1ec] Akumajou Dracula (Japan) (Castlevania Anniversary Collection)
+
+R A 1 L 0 007e13f4 10 infinite health
+
+R A 1 L 0 007e13f2 99 infinite hearts
+
+R A 1 L 0 007e007c 9a infinite lives
+
+R A 1 L 0 007e00bc 02 invincibility
+
+R A 1 L 0 007e13f0 99 infinite time
+
+[d78e16a0bb368a4a7e6c2dd0ce5589c6] Seiken Densetsu 2 (Japan) (Rev 1) (Virtual Console)
+
+R I 1 L 0 00000000 KEEP ALL CHEATS OFF UNTIL AFTER YOU GOT THE SOWRD IF YOU START NEW
+
+R I 1 L 0 00000000 KEEP ALL CHEATS OFF UNTIL AFTER LOADING A SAVED GAME
+
+R A 3 L 0 007ecc6a 0000000000895440 infinite gold
+
+R A 2 L 0 007ee182 03e7 infinite hp (character 1)
+
+R A 2 L 0 007ee184 03e7 infinite max hp (character 1)
+
+R A 2 L 0 007ee382 03e7 infinite hp (character 2)
+
+R A 2 L 0 007ee384 03e7 infinite max hp (character 2)
+
+R A 2 L 0 007ee582 03e7 infinite hp (character 3)
+
+R A 2 L 0 007ee584 03e7 infinite max hp (character 3)
+
+[c404ab597eb5db701c2bd503c33ed089] Dorke & Ymp (World) (Unl)
+R A 2 L 0 007e1990 0a00 infinite health
+
+R A 2 L 0 007e1991 000a infinite health
+
+R A 2 L 0 007e052e 3200 infinite lives
+
+R A 2 L 0 007e052f 0032 infinite lives
+
+[83e32937e3edc564e117ff70e6b8f5c9] Socks the Cat Rocks the Hill (World) (Unl)
+R I 2 L 0 00000000 0000 TURN THE CHEATS OF AT THE ENF OF A LEVEL. OTHERWISE THE TIME BONUS COUNTS FOREVER !!!
+
+R A 2 L 0 007e1836 0009 infinite credits
+
+R A 2 L 0 007e183a 0009 infinite health
+
+R A 2 L 0 007e1846 0059 infinite time
+
+R A 2 L 0 007e1b2e 0030 invincibility
+
+[58ebd7cbf28ceadc03aec4f448956a0b] Seiken Densetsu 3 (Japan)
+R I 2 L 0 00000000 0000 KEEP THE CHEATS OFF UNTIL AFTER CHARACTER SELECTION WHEN YOU START A NEW GAME !!!
+
+R A 2 L 0 007fedf2 03e7 infinite current hp (character 1)
+
+R A 2 L 0 007fee02 03e7 infinite maximum hp (character 1)
+
+R A 2 L 0 007fedf4 0063 infinite current mp (character 1)
+
+R A 2 L 0 007fee04 0063 infinite maximum mp (character 1)
+
+R A 2 L 0 007ff0f2 03e7 infinite current hp (character 2)
+
+R A 2 L 0 007ff102 03e7 infinite maximum hp (character 2)
+
+R A 2 L 0 007ff0f4 0063 infinite current mp (character 2)
+
+R A 2 L 0 007ff104 0063 infinite maximum mp (character 2)
+
+R A 2 L 0 007ff3f2 03e7 infinite current hp (character 3)
+
+R A 2 L 0 007ff402 03e7 infinite maximum hp (character 3)
+
+R A 2 L 0 007ff3f4 0063 infinite current mp (character 3)
+
+R A 2 L 0 007ff404 0063 infinite maximum mp (character 3)
+
+R A 4 L 0 007e2c24 0000000000895440 infinite money
+
+[c9829d76e25f8c4bf459cf77a8306825] Trials of Mana (World)
+R I 2 L 0 00000000 0000 KEEP THE CHEATS OFF UNTIL AFTER CHARACTER SELECTION WHEN YOU START A NEW GAME !!!
+
+R A 2 L 0 007fedf2 03e7 infinite current hp (character 1)
+
+R A 2 L 0 007fee02 03e7 infinite maximum hp (character 1)
+
+R A 2 L 0 007fedf4 0063 infinite current mp (character 1)
+
+R A 2 L 0 007fee04 0063 infinite maximum mp (character 1)
+
+R A 2 L 0 007ff0f2 03e7 infinite current hp (character 2)
+
+R A 2 L 0 007ff102 03e7 infinite maximum hp (character 2)
+
+R A 2 L 0 007ff0f4 0063 infinite current mp (character 2)
+
+R A 2 L 0 007ff104 0063 infinite maximum mp (character 2)
+
+R A 2 L 0 007ff3f2 03e7 infinite current hp (character 3)
+
+R A 2 L 0 007ff402 03e7 infinite maximum hp (character 3)
+
+R A 2 L 0 007ff3f4 0063 infinite current mp (character 3)
+
+R A 2 L 0 007ff404 0063 infinite maximum mp (character 3)
+
+R A 4 L 0 007e2c24 0000000000895440 infinite money
+
+[5f0e3ec92af10b2e9e22bf9eef85f1e5] Trials of Mana (World) (Fr)
+R I 2 L 0 00000000 0000 KEEP THE CHEATS OFF UNTIL AFTER CHARACTER SELECTION WHEN YOU START A NEW GAME !!!
+
+R A 2 L 0 007fedf2 03e7 infinite current hp (character 1)
+
+R A 2 L 0 007fee02 03e7 infinite maximum hp (character 1)
+
+R A 2 L 0 007fedf4 0063 infinite current mp (character 1)
+
+R A 2 L 0 007fee04 0063 infinite maximum mp (character 1)
+
+R A 2 L 0 007ff0f2 03e7 infinite current hp (character 2)
+
+R A 2 L 0 007ff102 03e7 infinite maximum hp (character 2)
+
+R A 2 L 0 007ff0f4 0063 infinite current mp (character 2)
+
+R A 2 L 0 007ff104 0063 infinite maximum mp (character 2)
+
+R A 2 L 0 007ff3f2 03e7 infinite current hp (character 3)
+
+R A 2 L 0 007ff402 03e7 infinite maximum hp (character 3)
+
+R A 2 L 0 007ff3f4 0063 infinite current mp (character 3)
+
+R A 2 L 0 007ff404 0063 infinite maximum mp (character 3)
+
+R A 4 L 0 007e2c24 0000000000895440 infinite money
+
+[df8facaf7874a0badc6c8390f56419a9] Trials of Mana (World) (Es)
+R I 2 L 0 00000000 0000 KEEP THE CHEATS OFF UNTIL AFTER CHARACTER SELECTION WHEN YOU START A NEW GAME !!!
+
+R A 2 L 0 007fedf2 03e7 infinite current hp (character 1)
+
+R A 2 L 0 007fee02 03e7 infinite maximum hp (character 1)
+
+R A 2 L 0 007fedf4 0063 infinite current mp (character 1)
+
+R A 2 L 0 007fee04 0063 infinite maximum mp (character 1)
+
+R A 2 L 0 007ff0f2 03e7 infinite current hp (character 2)
+
+R A 2 L 0 007ff102 03e7 infinite maximum hp (character 2)
+
+R A 2 L 0 007ff0f4 0063 infinite current mp (character 2)
+
+R A 2 L 0 007ff104 0063 infinite maximum mp (character 2)
+
+R A 2 L 0 007ff3f2 03e7 infinite current hp (character 3)
+
+R A 2 L 0 007ff402 03e7 infinite maximum hp (character 3)
+
+R A 2 L 0 007ff3f4 0063 infinite current mp (character 3)
+
+R A 2 L 0 007ff404 0063 infinite maximum mp (character 3)
+
+R A 4 L 0 007e2c24 0000000000895440 infinite money
+
+[2db50232efe0cc3bbdf07de5d045cf27] Trials of Mana (World) (De)
+R I 2 L 0 00000000 0000 KEEP THE CHEATS OFF UNTIL AFTER CHARACTER SELECTION WHEN YOU START A NEW GAME !!!
+
+R A 2 L 0 007fedf2 03e7 infinite current hp (character 1)
+
+R A 2 L 0 007fee02 03e7 infinite maximum hp (character 1)
+
+R A 2 L 0 007fedf4 0063 infinite current mp (character 1)
+
+R A 2 L 0 007fee04 0063 infinite maximum mp (character 1)
+
+R A 2 L 0 007ff0f2 03e7 infinite current hp (character 2)
+
+R A 2 L 0 007ff102 03e7 infinite maximum hp (character 2)
+
+R A 2 L 0 007ff0f4 0063 infinite current mp (character 2)
+
+R A 2 L 0 007ff104 0063 infinite maximum mp (character 2)
+
+R A 2 L 0 007ff3f2 03e7 infinite current hp (character 3)
+
+R A 2 L 0 007ff402 03e7 infinite maximum hp (character 3)
+
+R A 2 L 0 007ff3f4 0063 infinite current mp (character 3)
+
+R A 2 L 0 007ff404 0063 infinite maximum mp (character 3)
+
+R A 4 L 0 007e2c24 0000000000895440 infinite money
+
+[ff08ca993882bfe2ab860865897bfe77] Animaniacs (USA)
+R A 2 L 0 007e94b6 0002 invincibility
+
+[ce41fb926db8fcaad4665774f3731b7a] Animaniacs (Europe)
+R A 2 L 0 007e94b6 0002 invincibility
+
+[7abe23225ca0ddc5ee93333ce3bb9137] Animaniacs (Japan)
+R A 2 L 0 007e94b6 0002 invincibility
+
+[8238a753738724820ba52db3a56b7183] Space Funky B.O.B. (Japan)
+R A 1 L 0 007e0221 1e infinite health
+
+R A 1 L 0 007e0223 09 infinite lives
+
+R A 1 L 0 007e0222 1e infinite power
+
+R A 1 L 0 007e0f42 3b infinite time
+
+R A 1 L 0 007e0236 63 infinite ammo weapon #1
+
+R A 1 L 0 007e0237 63 infinite ammo weapon #2
+
+R A 1 L 0 007e0238 63 infinite ammo weapon #3
+
+R A 1 L 0 007e0239 63 infinite ammo weapon #4
+
+R A 1 L 0 007e023a 63 infinite ammo weapon #5
+
+R A 1 L 0 007e023b 63 infinite ammo weapon #6
+
+R A 1 L 0 007e0209 63 infinite remote #1
+
+R A 1 L 0 007e020a 63 infinite remote #2
+
+R A 1 L 0 007e020b 63 infinite remote #3
+
+R A 1 L 0 007e020c 63 infinite remote #4
+
+R A 1 L 0 007e020d 63 infinite remote #5
+
+R A 1 L 0 007e020e 63 infinite remote #6
+
+[a5b7310f99982a66a13968ed22811d1d] Bijo to Yajuu (Japan)
+
+R A 1 L 0 007e1106 28 infinite health
+
+R A 1 L 0 007e0420 09 infinite lives
+
+R A 1 L 0 007e10fa 01 infinite time
+
+R A 1 L 0 007e15ad 0f no loss of light when no candle close
+
+[99c3ebfb50bc017d7384568619937c6b] Animal Buranden - Brutal (Japan)
+
+R A 1 L 0 007e156c 3c infinite health
+
+R I 1 L 0 007e15e4 00 enable to instant win fight
+
+[8bf2df33ae23be071bdf429458ab6631] Yamaneko Bubsy no Daibouken (Japan)
+
+R A 1 L 0 007e020d 09 infinite lives
+
+R A 1 L 0 007e00df 3b infinite time
+
+R A 1 L 0 007e00e0 09 infinite time
+
+S A 1 L 0 008e8045 d0 invincibility
+
+[32314ad978deecd5fef5ad5e55906d1e] Hyper Iria (Japan)
+R A 2 L 0 007ea6de 0080 infinite health
+
+R A 2 L 0 007ea6df 0002 infinite health
+
+R A 2 L 0 007e969e 0024 invincibility
+
+R A 2 L 0 007ebc64 00ff infinite money
+
+R A 2 L 0 007ebc65 00ff infinite money
+
+R A 2 L 0 007eca5a 0063 infinite main weapon
+
+R A 2 L 0 007eca5c 0063 infinite main weapon
+
+R A 2 L 0 007eca5e 0063 infinite main weapon
+
+R A 2 L 0 007eca60 0063 infinite main weapon
+
+R A 2 L 0 007eca62 0063 infinite main weapon
+
+R A 2 L 0 007eca64 0063 infinite main weapon
+
+R A 2 L 0 007eca66 0063 infinite main weapon
+
+R A 2 L 0 007eca68 0063 infinite main weapon
+
+R A 2 L 0 0007ec6a 0063 infinite sub weapon
+
+R A 2 L 0 0007ec6c 0063 infinite sub weapon
+
+R A 2 L 0 0007ec6e 0063 infinite sub weapon
+
+R A 2 L 0 0007ec70 0063 infinite sub weapon
+
+R A 2 L 0 0007ec72 0063 infinite sub weapon
+
+R A 2 L 0 0007ec74 0063 infinite sub weapon
+
+R A 2 L 0 0007ec76 0063 infinite sub weapon
+
+R A 2 L 0 0007ec78 0063 infinite sub weapon
+
+[4d0df715906919ab864427884d043d35] Dragon Ball Z - Chomutujeon (Korea)
+R A 1 L 0 007e0562 90 infinite health
+
+R A 1 L 0 007e0565 01 infinite ki 1
+
+R A 1 L 0 007e0564 5a infinite ki 2
+
+[0c25503647ee300b1404259e8c277d58] Gerry Anderson's Thunderbirds - Kokusai Kyuujotai Shutsudou Seyo!! (Japan)
+R I 2 l 0 00000000 0000 TURN THE CHEATS OFF COMPLETELY (ALT+T) FOR ACCIDENT CASE 6. ELSE THE GAME HANGS !!!!
+
+R A 2 L 0 007e050c 0300 infinite time
+
+R A 2 L 0 007e1f86 001e infinite health
+
+R A 2 L 0 007e0560 0009 infinite cars (accident case 2)
+
+[24c48cd81e9e2df7a4bbcb0088a328ff] Hokuto no Ken 5 - Tenma Ryuuseiden Ai Zetsu Shou (Japan)
+R A 2 L 0 007e3058 00ff infinite hp
+
+R A 2 L 0 007e305c 00ff infinite op
+
+R A 2 L 0 0007e2cb ffff infinite money
+
+R A 2 L 0 007e6af0 00ff infinite hp (partner)
+
+R A 2 L 0 007e6af4 00ff infinite op (partner)
+
+[b910d99d2a06db43862ddaeadc11c062] Hokuto no Ken 6 - Gekitou Denshouken Haou e no Michi (Japan)
+R A 2 L 0 007e02ca 0046 infinite health
+
+[d027ed8073eb9dff3b51747a738c1cb8] Hokuto no Ken 7 - Seiken Retsuden Denshousha e no Michi (Japan)
+R A 2 L 0 007e0129 0022 infinite health
+
+R A 1 L 0 007e012e 60 infinite op
+
+R A 1 L 0 007e012f 22 infinite op
+
+[56f6c071c5b83b60333ddc830273b274] Magical Quest Starring Mickey Mouse, The (USA) (Rev 1)
+
+R A 1 L 0 007e02b1 0a ifinite health
+
+R A 1 L 0 007e0272 09 infinite lives
+
+R A 1 L 0 007e02b7 20 infinite magic
+
+R A 1 L 0 007e02a0 04 invincibility
+
+R A 1 L 0 007e02b9 15 infinite water
+
+R A 1 L 0 007e035f 09 infinite time
+
+
+[b05bcb14251f61abf83d666a36bd4a0f] Might and Magic II (Europe)
+R A 1 L 0 007fe062 ff infinite hp (character 1)
+
+R A 1 L 0 007fe064 ff infinite hp (character 1)
+
+R A 1 L 0 007fe0ea ff infinite hp (character 2)
+
+R A 1 L 0 007fe0ec ff infinite hp (character 2)
+
+R A 1 L 0 007fe172 ff infinite hp (character 3)
+
+R A 1 L 0 007fe174 ff infinite hp (character 3)
+
+R A 1 L 0 007fe1fa ff infinite hp (character 4)
+
+R A 1 L 0 007fe1fc ff infinite hp (character 4)
+
+R A 1 L 0 007fe282 ff infinite hp (character 5)
+
+R A 1 L 0 007fe284 ff infinite hp (character 5)
+
+R A 1 L 0 007fe30a ff infinite hp (character 6)
+
+R A 1 L 0 007fe30c ff infinite hp (character 6)
+
+R A 1 L 0 007fe392 ff infinite hp (hireling 1)
+
+R A 1 L 0 007fe394 ff infinite hp (hireling 1)
+
+R A 1 L 0 007fe41a ff infinite hp (hireling 2)
+
+R A 1 L 0 007fe41c ff infinite hp (hireling 2)
+
+[369419ba2f81aa46eacfb9036ee12cdf] Might and Magic II (Germany)
+R A 1 L 0 007fe062 ff infinite hp (character 1)
+
+R A 1 L 0 007fe064 ff infinite hp (character 1)
+
+R A 1 L 0 007fe0ea ff infinite hp (character 2)
+
+R A 1 L 0 007fe0ec ff infinite hp (character 2)
+
+R A 1 L 0 007fe172 ff infinite hp (character 3)
+
+R A 1 L 0 007fe174 ff infinite hp (character 3)
+
+R A 1 L 0 007fe1fa ff infinite hp (character 4)
+
+R A 1 L 0 007fe1fc ff infinite hp (character 4)
+
+R A 1 L 0 007fe282 ff infinite hp (character 5)
+
+R A 1 L 0 007fe284 ff infinite hp (character 5)
+
+R A 1 L 0 007fe30a ff infinite hp (character 6)
+
+R A 1 L 0 007fe30c ff infinite hp (character 6)
+
+R A 1 L 0 007fe392 ff infinite hp (hireling 1)
+
+R A 1 L 0 007fe394 ff infinite hp (hireling 1)
+
+R A 1 L 0 007fe41a ff infinite hp (hireling 2)
+
+R A 1 L 0 007fe41c ff infinite hp (hireling 2)
+
+[08f47c5f448e1fc8e07b89e14bd7461e] Might and Magic III - Isles of Terra (USA)
+R A 1 L 0 007f8347 ff infinite hp (sir c)
+
+R A 1 L 0 007f8349 ff infinite sp (sir c)
+
+R A 1 L 0 007f8983 ff infinite hp (crag)
+
+R A 1 L 0 007f8985 ff infinite sp (crag)
+
+R A 1 L 0 007f8b97 ff infinite hp (maxim)
+
+R A 1 L 0 007f8b99 ff infinite sp (maxim)
+
+R A 1 L 0 007f876f ff infinite hp (dark)
+
+R A 1 L 0 007f8771 ff infinite sp (dark)
+
+R A 1 L 0 007f8879 ff infinite hp (resur)
+
+R A 1 L 0 007f887b ff infinite sp (resur)
+
+R A 1 L 0 007f855b ff infinite hp (kosto)
+
+R A 1 L 0 007f855d ff infinite sp (kosto)
+
+R A 2 L 0 007e1a47 ffff infinite gems
+
+R A 2 L 0 007e1a43 ffff infinite gold
+
+R A 1 L 0 007e1a33 5a infinite food
+
+[e16c95dae29970e0bdb177fd1469139a] Revolution X (Europe)
+R A 1 L 0 007e022b ff infinite health
+
+R A 1 L 0 007e0088 96 infinite discs
+[7ecaf3e2e021c8a836041c85886f4594] Super Mario All-Stars + Super Mario World (USA)
+R A 1 L 0 007e075a 09 infinite lives (super mario bros/super mario bros the lost levels )
+
+R A 1 L 0 007e07eb 09 infinite time (super mario bros/super mario bros the lost levels)
+
+S A 1 L 0 0003f73c 8d invincibility (super mario bros)
+
+S A 1 L 0 0003f745 00 invincibility (super mario bros)
+
+S A 1 L 0 000df72c 8d invincibility (suer mario bros. the lost levels)
+
+S A 1 L 0 000df735 00 invincibility (super mario bros. the lost levels)
+
+R A 1 L 0 007e04ee 09 infinite lives (super mario bros 2)
+
+R A 1 L 0 007e04c3 1f infinite health (super mario bros 2)
+
+R A 1 L 0 007e0085 6f invincibility (super mario bros 2)
+
+R A 1 L 0 007e0736 09 infinite lives (super mario bros 3)
+
+S A 1 L 0 0020e27e 8e invincibility (super mario bros 3)
+
+R A 1 L 0 007e05f0 09 infinite time (super mario bros 3)
+
+R A 1 L 0 007e0dbe 09 infinite lives (super mario world)
+
+S A 1 L 0 0030f5b9 80 invincibility (super mario world)
+
+R A 1 L 0 007e0f27 09 infinite time (super mario world)
+
+R A 1 L 0 007e0f33 09 infinite time (super mario world)
+
+[4941387e96ed2841ee3c2de6d1899509] Super Mario All-Stars and Super Mario World (Europe)
+R A 1 L 0 007e075a 09 infinite lives (super mario bros/super mario bros the lost levels )
+
+R A 1 L 0 007e07eb 09 infinite time (super mario bros/super mario bros the lost levels)
+
+S A 1 L 0 000df72c 8d invincibility (suer mario bros. the lost levels)
+
+S A 1 L 0 000df735 00 invincibility (super mario bros. the lost levels)
+
+R A 1 L 0 007e04ee 09 infinite lives (super mario bros 2)
+
+R A 1 L 0 007e04c3 1f infinite health (super mario bros 2)
+
+R A 1 L 0 007e0085 6f invincibility (super mario bros 2)
+
+R A 1 L 0 007e0736 09 infinite lives (super mario bros 3)
+
+S A 1 L 0 0020e27e 8e invincibility (super mario bros 3)
+
+R A 1 L 0 007e05f0 09 infinite time (super mario bros 3)
+
+R A 1 L 0 007e0dbe 09 infinite lives (super mario world)
+
+R A 1 L 0 007e0f27 09 infinite time (super mario world)
+
+R A 1 L 0 007e0f33 09 infinite time (super mario world)
+
+[ce1e3e33b6e39d37b43d7de599f9e785] Super Mario World 2 - Yoshi's Island (USA, Asia) (Rev 1)
+
+R I 1 L 0 00000000 00 KEEP ALL CHEATS OFF UNTIL INSIDE LEVEL
+
+R A 1 L 0 007e0379 09 infinite lives
+
+R A 1 L 0 007e03b6 2d infinite time
+
+R A 1 L 0 007e03b7 01 infinite time
+
+S A 1 L 0 0003a86e 80 invincibility
+[d8d5e581a14d8e329f82a3a42c606501] Kagakusha Harley no Haran Banjou (Japan) (En)
+
+R I 1 L 0 00000000 00 TURN OFF CHEATS AT END OF LEVEL
+
+S A 1 L 0 0000e5fa 02 Press x on titlescreen for level select
+
+R A 1 L 0 007e1c3b 64 infinite time
+
+R A 1 L 0 007e24b8 09 infinite lives
+
+R A 1 L 0 007e24ba 07 infinite health
+
+R A 1 L 0 007eab54 63 infinite ammo
+
+R A 1 L 0 007e24bc ff infinite fuel
+
+R A 1 L 0 007e24b2 ff infinite air
+[06d6f77f59bef272c5e975056dc6e956] Kaizou Choujin Shubibinman Zero (Japan)
+R A 1 L 0 007e1d8a 09 infinite credits
+
+R A 1 L 0 007e1d74 04 infinite health
+
+R A 1 L 0 007e1414 02 invincibility
 

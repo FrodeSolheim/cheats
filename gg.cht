@@ -1005,7 +1005,7 @@ R A 1 L 0 0000c0ce 31 infinite time
 R A 1 L 0 0000c2c7 25 infinite missiles
 
 [56e1561d981a9a7c240cdd8d5580ccf0] G-Sonic ~ Sonic Blast (World)
-R I 1 L 0 DISABLE CHEATS AT END OF A STAGE ELSE THE GAME WILL FREEZE
+R I 1 L 0 00000000 00 DISABLE CHEATS AT END OF A STAGE ELSE THE GAME WILL FREEZE
 
 R A 1 L 0 0000d25e 30 infinite rings (normal stages)
 

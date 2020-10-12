@@ -8272,6 +8272,8 @@ R A 1 L 0 007e0042 09 infinite lives
 R A 1 L 0 007e0032 2f invincibility
 
 [ede82658dafdd6febbfbe6a9c9082500] Contra III - The Alien Wars (USA)
+R I 1 L 0 00000000 00 KEEP THE CHEATS OFF UNTIL TITLE SCREEN !!!
+
 R A 1 L 0 007e1746 09 infinite lives
 
 R A 1 L 0 007e1f8a 09 infinite lives
@@ -8310,6 +8312,8 @@ R A 1 L 0 007e0ed7 00 invincibility (top down stages falling off screen or touch
 R A 1 L 0 007e1e60 01 enable stage select
 
 [b2b6349c1a60eeacf35d6780b025e217] Super Probotector - Alien Rebels (Europe)
+R I 1 L 0 00000000 00 KEEP THE CHEATS OFF UNTIL TITLE SCREEN !!!
+
 R A 1 L 0 007e1746 09 infinite lives
 
 R A 1 L 0 007e1f8a 09 infinite lives
@@ -21452,10 +21456,2254 @@ R A 1 L 0 007eab54 63 infinite ammo
 R A 1 L 0 007e24bc ff infinite fuel
 
 R A 1 L 0 007e24b2 ff infinite air
+
 [06d6f77f59bef272c5e975056dc6e956] Kaizou Choujin Shubibinman Zero (Japan)
 R A 1 L 0 007e1d8a 09 infinite credits
 
 R A 1 L 0 007e1d74 04 infinite health
 
 R A 1 L 0 007e1414 02 invincibility
+
+[cda5fc0935f31b7dd0323958efd5da57] Final Fight 2 (USA) (Virtual Console)
+R A 1 L 0 007e10a2 0a infinite lives
+
+R A 1 L 0 007e106d 8d infinite health
+
+R A 1 L 0 007ed864 63 infinite time
+
+[5ddb2dfe4628864a363b929f58987201] Final Fight 2 (Europe) (Virtual Console)
+R A 1 L 0 007e10a2 0a infinite lives
+
+R A 1 L 0 007e106d 8d infinite health
+
+R A 1 L 0 007ed864 63 infinite time
+
+[85249be926946974bd22ffe39d373bd9] Super Castlevania IV (USA) (Virtual Console)
+R A 1 L 0 007e13f4 10 infinite health
+
+R A 1 L 0 007e13f2 99 infinite hearts
+
+R A 1 L 0 007e007c 9a infinite lives
+
+R A 1 L 0 007e00bc 02 invincibility
+
+R A 1 L 0 007e13f0 99 infinite time
+
+[950509f057d5d1cd067ff5b8827ceab7] Super Castlevania IV (Europe) (Virtual Console)
+R A 1 L 0 007e13f4 10 infinite health
+
+R A 1 L 0 007e13f2 99 infinite hearts
+
+R A 1 L 0 007e007c 9a infinite lives
+
+R A 1 L 0 007e00bc 02 invincibility
+
+R A 1 L 0 007e13f0 99 infinite time
+
+[c2f1138ef57bc7b63f4f062ecd72f3a5] Akumajou Dracula (Japan) (Virtual Console)
+R A 1 L 0 007e13f4 10 infinite health
+
+R A 1 L 0 007e13f2 99 infinite hearts
+
+R A 1 L 0 007e007c 9a infinite lives
+
+R A 1 L 0 007e00bc 02 invincibility
+
+R A 1 L 0 007e13f0 99 infinite time
+
+[2fb869a322f6de745bc812d38fa88e99] Contra III - The Alien Wars (USA) (Virtual Console)
+R I 1 L 0 00000000 00 KEEP THE CHEATS OFF UNTIL TITLE SCREEN !!!
+
+R A 1 L 0 007e1746 09 infinite lives
+
+R A 1 L 0 007e1f8a 09 infinite lives
+
+R I 1 L 0 007e1f88 64 always have shield
+
+R A 1 L 0 007e175c 03 infinite bombs
+
+R A 1 L 0 007e1f0c 02 infinite bombs
+
+R A 1 L 0 007e1e62 06 infinite continues
+
+R A 1 L 0 007e0216 03 invincibility (sidescroll stages falling off screens or touch bosses still kill you)
+
+R A 1 L 0 007e0ed7 00 invincibility (top down stages falling off screen or touching bosses still kill you)
+
+R A 1 L 0 007e1e60 01 enable stage select
+
+[12cc6cc4d3f453c503e9c8741f55ca05] Super Probotector - Alien Rebels (Europe) (Virtual Console)
+R I 1 L 0 00000000 00 KEEP THE CHEATS OFF UNTIL TITLE SCREEN !!!
+
+R A 1 L 0 007e1746 09 infinite lives
+
+R A 1 L 0 007e1f8a 09 infinite lives
+
+R I 1 L 0 007e1f88 64 always have shield
+
+R A 1 L 0 007e175c 03 infinite bombs
+
+R A 1 L 0 007e1f0c 02 infinite bombs
+
+R A 1 L 0 007e1e62 06 infinite continues
+
+R A 1 L 0 007e0216 03 invincibility (sidescroll stages falling off screens or touch bosses still kill you)
+
+R A 1 L 0 007e0ed7 00 invincibility (top down stages falling off screen or touching bosses still kill you)
+
+R A 1 L 0 007e1e60 01 enable stage select
+
+[9f51dae0a6370b9ea54ed38760b347dc] Street Fighter II (USA) (Virtual Console)
+R A 1 L 0 007e0c2b b0 infinite health
+
+R A 1 L 0 007e1ac8 99 infinite time
+
+[399a8607ccf27dc20cc7dc835e0aeb75] Street Fighter II (Japan) (Virtual Console)
+R A 1 L 0 007e0c2b b0 infinite health
+
+R A 1 L 0 007e1ac8 99 infinite time
+
+[8948c29da76fd031b5b4dfa0fc7af585] Street Fighter II (Europe) (Virtual Console)
+R A 1 L 0 007e0c2b b0 infinite health
+
+R A 1 L 0 007e1ac8 99 infinite time
+
+[19210650d363b30fb11c0a679826a619] Kirby's Dream Course (Europe) (Virtual Console)
+R A 1 L 0 007ed7f0 04 infinite shots
+
+R A 1 L 0 007ed9b2 01 infinite shots
+
+R A 1 L 0 007ed7f4 09 infinite lives
+
+R A 1 L 0 007ed7f4 02 infinite lives on king dedede challenge
+
+[fcca9e2e13c959075badb1e8f6ddff46] Kirby's Dream Course (USA, Europe) (Virtual Console, Switch Online)
+R A 1 L 0 007ed7f0 04 infinite shots
+
+R A 1 L 0 007ed9b2 01 infinite shots
+
+R A 1 L 0 007ed7f4 09 infinite lives
+
+R A 1 L 0 007ed7f4 02 infinite lives on king dedede challenge
+
+[2219c6ae18e4a3ccb419336fc692f61e] Kirby Bowl (Japan) (Virtual Console, Switch Online)
+R A 1 L 0 007ed7f0 04 infinite shots
+
+R A 1 L 0 007ed9b2 01 infinite shots
+
+R A 1 L 0 007ed7f4 09 infinite lives
+
+R A 1 L 0 007ed7f4 02 infinite lives on king dedede challenge
+
+[8ba547e9d87b61d1dde94ad3dd0de664] Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1) (Virtual Console)
+R A 1 L 0 007e08be 09 infinite lives
+
+R A 1 L 0 007e16c9 02 invincibility
+
+R A 1 L 0 007e16c8 fe invincibility
+
+R A 1 L 0 007e0efc e0 invincibility
+
+[3a91e7fe961b8ca447a30f80d0a37ebf] Donkey Kong Country 2 - Diddy's Kong Quest (Germany) (En,De) (Rev 1) (Virtual Console)
+R A 1 L 0 007e08be 09 infinite lives
+
+R A 1 L 0 007e16c9 02 invincibility
+
+R A 1 L 0 007e16c8 fe invincibility
+
+R A 1 L 0 007e0efc e0 invincibility
+
+[61b65de87c7be898f7344e09bad298bf] Donkey Kong Country 2 - Diddy's Kong Quest (Europe) (En,Fr) (Rev 1) (Virtual Console)
+R A 1 L 0 007e08be 09 infinite lives
+
+R A 1 L 0 007e16c9 02 invincibility
+
+R A 1 L 0 007e16c8 fe invincibility
+
+R A 1 L 0 007e0efc e0 invincibility
+
+[59e89aa4d44ecccdf67070b8532de818] Super Donkey Kong 2 - Dixie & Diddy (Japan) (Rev 1) (Virtual Console)
+R A 1 L 0 007e08be 09 infinite lives
+
+R A 1 L 0 007e16c9 02 invincibility
+
+R A 1 L 0 007e16c8 fe invincibility
+
+R A 1 L 0 007e0efc e0 invincibility
+
+[116e1c3f4aef8239960e599ee8c54859] Ganbare Goemon - Yuki Hime Kyuushutsu Emaki (Japan) (Rev 2) (Virtual Console)
+R A 1 L 0 007e1ab2 08 infinite health
+
+R A 1 L 0 007e1aac 63 infinite money
+
+R A 1 L 0 007e1aba 63 infinite bombs
+
+R A 1 L 0 007e1ab4 63 infinite scrolls
+
+R A 1 L 0 007e0097 63 freeze timer
+
+R A 1 L 0 007e0592 02 invincibility
+
+R A 1 L 0 007e1ab0 04 infinite lives
+
+R A 1 L 0 007e1aaa 63 infinite jutsu usage
+
+[35827b6a3094c3717d9fbc5d1213a015] Legend of the Mystical Ninja, The (USA) (Virtual Console)
+R A 1 L 0 007e1ab2 08 infinite health
+
+R A 1 L 0 007e1aac 63 infinite money
+
+R A 1 L 0 007e1aba 63 infinite bombs
+
+R A 1 L 0 007e1ab4 63 infinite scrolls
+
+R A 1 L 0 007e0097 63 freeze timer
+
+R A 1 L 0 007e0592 02 invincibility
+
+R A 1 L 0 007e1ab0 04 infinite lives
+
+R A 1 L 0 007e1aaa 63 infinite jutsu usage
+
+[1d2c4c03366af008eacb32de98a7f5c1] Secret of Mana (USA) (Virtual Console)
+R I 1 L 0 00000000 KEEP ALL CHEATS OFF UNTIL AFTER YOU GOT THE SOWRD IF YOU START NEW
+
+R I 1 L 0 00000000 KEEP ALL CHEATS OFF UNTIL AFTER LOADING A SAVED GAME
+
+R A 3 L 0 007ecc6a 0000000000895440 infinite gold
+
+R A 2 L 0 007ee182 03e7 infinite hp (character 1)
+
+R A 2 L 0 007ee184 03e7 infinite max hp (character 1)
+
+R A 2 L 0 007ee382 03e7 infinite hp (character 2)
+
+R A 2 L 0 007ee384 03e7 infinite max hp (character 2)
+
+R A 2 L 0 007ee582 03e7 infinite hp (character 3)
+
+R A 2 L 0 007ee584 03e7 infinite max hp (character 3)
+
+[df338637fe88ca841d4e1cad75b29b0a] Seiken Densetsu 2 (Japan) (Rev 1) (Seiken Densetsu Collection)
+R I 1 L 0 00000000 KEEP ALL CHEATS OFF UNTIL AFTER YOU GOT THE SOWRD IF YOU START NEW
+
+R I 1 L 0 00000000 KEEP ALL CHEATS OFF UNTIL AFTER LOADING A SAVED GAME
+
+R A 3 L 0 007ecc6a 0000000000895440 infinite gold
+
+R A 2 L 0 007ee182 03e7 infinite hp (character 1)
+
+R A 2 L 0 007ee184 03e7 infinite max hp (character 1)
+
+R A 2 L 0 007ee382 03e7 infinite hp (character 2)
+
+R A 2 L 0 007ee384 03e7 infinite max hp (character 2)
+
+R A 2 L 0 007ee582 03e7 infinite hp (character 3)
+
+R A 2 L 0 007ee584 03e7 infinite max hp (character 3)
+
+[5b1909dcfbdeb26fc33fb555bfc4d183] Zombies Ate My Neighbors (USA) (Virtual Console)
+R A 1 L 0 007e1d0c 09 infinite keys
+
+R A 1 L 0 007e1cb8 0a infinite health
+
+R A 1 L 0 007e1d4c 03 infinite lives
+
+R A 1 L 0 007e1cde 63 infinite bananas
+
+R A 1 L 0 007e1cd6 63 infinite bazooka
+
+R A 1 L 0 007e1cda 32 infinite berries
+
+R A 1 L 0 007e1d12 63 infinite cold potion
+
+R A 1 L 0 007e1d20 63 infinite dummy clown
+
+R A 1 L 0 007e1cce 63 infinite extinguisher
+
+R A 1 L 0 007e1ce6 63 infinite flamethrower
+
+R A 1 L 0 007e1ce4 32 infinite footballs
+
+R A 1 L 0 007e1cd4 63 infinite holy cross
+
+R A 1 L 0 007e1d0c 09 infinite keys
+
+R A 1 L 0 007e1cd0 63 infinite martian gun
+
+R A 1 L 0 007e1d1a 09 infinite med kit
+
+R A 1 L 0 007e1d10 09 infinite monster potion
+
+R A 1 L 0 007e1d1c 09 infinite pandoras box
+
+R A 1 L 0 007e1ce0 63 infinite plates
+
+R A 1 L 0 007e1cdc 63 infinite popsicles
+
+R A 1 L 0 007e1d22 09 infinite radios
+
+R A 1 L 0 007e1d14 09 infinite random a potion
+
+R A 1 L 0 007e1d16 09 infinite random b potion
+
+R A 1 L 0 007e1d0e 09 infinite shoes
+
+R A 1 L 0 007e1ce2 63 infinite silverware
+
+R A 1 L 0 007e1d1e 09 infinite skeleton key
+
+R A 1 L 0 007e1cd8 63 infinite soda bombs
+
+R A 1 L 0 007e1ccc 63 infinite squirt gun
+
+R A 1 L 0 007e1d18 09 infinite unknown potion
+
+R A 1 L 0 007e1cd2 63 infinite weed whacker
+
+[a4972f90602c0a86855a861df59afb22] Zombies (Europe) (Virtual Console)
+R A 1 L 0 007e1d0c 09 infinite keys
+
+R A 1 L 0 007e1cb8 0a infinite health
+
+R A 1 L 0 007e1d4c 03 infinite lives
+
+R A 1 L 0 007e1cde 63 infinite bananas
+
+R A 1 L 0 007e1cd6 63 infinite bazooka
+
+R A 1 L 0 007e1cda 32 infinite berries
+
+R A 1 L 0 007e1d12 63 infinite cold potion
+
+R A 1 L 0 007e1d20 63 infinite dummy clown
+
+R A 1 L 0 007e1cce 63 infinite extinguisher
+
+R A 1 L 0 007e1ce6 63 infinite flamethrower
+
+R A 1 L 0 007e1ce4 32 infinite footballs
+
+R A 1 L 0 007e1cd4 63 infinite holy cross
+
+R A 1 L 0 007e1d0c 09 infinite keys
+
+R A 1 L 0 007e1cd0 63 infinite martian gun
+
+R A 1 L 0 007e1d1a 09 infinite med kit
+
+R A 1 L 0 007e1d10 09 infinite monster potion
+
+R A 1 L 0 007e1d1c 09 infinite pandoras box
+
+R A 1 L 0 007e1ce0 63 infinite plates
+
+R A 1 L 0 007e1cdc 63 infinite popsicles
+
+R A 1 L 0 007e1d22 09 infinite radios
+
+R A 1 L 0 007e1d14 09 infinite random a potion
+
+R A 1 L 0 007e1d16 09 infinite random b potion
+
+R A 1 L 0 007e1d0e 09 infinite shoes
+
+R A 1 L 0 007e1ce2 63 infinite silverware
+
+R A 1 L 0 007e1d1e 09 infinite skeleton key
+
+R A 1 L 0 007e1cd8 63 infinite soda bombs
+
+R A 1 L 0 007e1ccc 63 infinite squirt gun
+
+R A 1 L 0 007e1d18 09 infinite unknown potion
+
+R A 1 L 0 007e1cd2 63 infinite weed whacker
+
+[263e6eba3f1f18b434a65e7282e58c9a] Final Fight 3 (USA) (Virtual Console)
+R A 1 L 0 007e0558 47 infinite health
+
+R A 1 L 0 007e0515 05 infinite lives
+
+R A 1 L 0 007e0516 63 infinte super
+
+R A 1 L 0 007e0405 63 infinite time
+
+[8698dc3ef0e64b3485b904465d333d33] Final Fight Tough (Japan) (Virtual Console)
+R A 1 L 0 007e0558 47 infinite health
+
+R A 1 L 0 007e0515 05 infinite lives
+
+R A 1 L 0 007e0516 63 infinte super
+
+R A 1 L 0 007e0405 63 infinite time
+
+[5fb4a64249b0937fb189fbbf6248805c] Trials of Mana (World) (De) (Rev 1) (Collection of Mana)
+R I 2 L 0 00000000 0000 KEEP THE CHEATS OFF UNTIL AFTER CHARACTER SELECTION WHEN YOU START A NEW GAME !!!
+
+R A 2 L 0 007fedf2 03e7 infinite current hp (character 1)
+
+R A 2 L 0 007fee02 03e7 infinite maximum hp (character 1)
+
+R A 2 L 0 007fedf4 0063 infinite current mp (character 1)
+
+R A 2 L 0 007fee04 0063 infinite maximum mp (character 1)
+
+R A 2 L 0 007ff0f2 03e7 infinite current hp (character 2)
+
+R A 2 L 0 007ff102 03e7 infinite maximum hp (character 2)
+
+R A 2 L 0 007ff0f4 0063 infinite current mp (character 2)
+
+R A 2 L 0 007ff104 0063 infinite maximum mp (character 2)
+
+R A 2 L 0 007ff3f2 03e7 infinite current hp (character 3)
+
+R A 2 L 0 007ff402 03e7 infinite maximum hp (character 3)
+
+R A 2 L 0 007ff3f4 0063 infinite current mp (character 3)
+
+R A 2 L 0 007ff404 0063 infinite maximum mp (character 3)
+
+R A 4 L 0 007e2c24 0000000000895440 infinite money
+
+[4bad426ef6070dc2c2732acb12b6b3bf] Trials of Mana (World) (Es) (Rev 1) (Collection of Mana)
+R I 2 L 0 00000000 0000 KEEP THE CHEATS OFF UNTIL AFTER CHARACTER SELECTION WHEN YOU START A NEW GAME !!!
+
+R A 2 L 0 007fedf2 03e7 infinite current hp (character 1)
+
+R A 2 L 0 007fee02 03e7 infinite maximum hp (character 1)
+
+R A 2 L 0 007fedf4 0063 infinite current mp (character 1)
+
+R A 2 L 0 007fee04 0063 infinite maximum mp (character 1)
+
+R A 2 L 0 007ff0f2 03e7 infinite current hp (character 2)
+
+R A 2 L 0 007ff102 03e7 infinite maximum hp (character 2)
+
+R A 2 L 0 007ff0f4 0063 infinite current mp (character 2)
+
+R A 2 L 0 007ff104 0063 infinite maximum mp (character 2)
+
+R A 2 L 0 007ff3f2 03e7 infinite current hp (character 3)
+
+R A 2 L 0 007ff402 03e7 infinite maximum hp (character 3)
+
+R A 2 L 0 007ff3f4 0063 infinite current mp (character 3)
+
+R A 2 L 0 007ff404 0063 infinite maximum mp (character 3)
+
+R A 4 L 0 007e2c24 0000000000895440 infinite money
+
+[4edb2359e76a7ac13dc0d8d79783b038] Trials of Mana (World) (Fr) (Rev 1) (Collection of Mana)
+R I 2 L 0 00000000 0000 KEEP THE CHEATS OFF UNTIL AFTER CHARACTER SELECTION WHEN YOU START A NEW GAME !!!
+
+R A 2 L 0 007fedf2 03e7 infinite current hp (character 1)
+
+R A 2 L 0 007fee02 03e7 infinite maximum hp (character 1)
+
+R A 2 L 0 007fedf4 0063 infinite current mp (character 1)
+
+R A 2 L 0 007fee04 0063 infinite maximum mp (character 1)
+
+R A 2 L 0 007ff0f2 03e7 infinite current hp (character 2)
+
+R A 2 L 0 007ff102 03e7 infinite maximum hp (character 2)
+
+R A 2 L 0 007ff0f4 0063 infinite current mp (character 2)
+
+R A 2 L 0 007ff104 0063 infinite maximum mp (character 2)
+
+R A 2 L 0 007ff3f2 03e7 infinite current hp (character 3)
+
+R A 2 L 0 007ff402 03e7 infinite maximum hp (character 3)
+
+R A 2 L 0 007ff3f4 0063 infinite current mp (character 3)
+
+R A 2 L 0 007ff404 0063 infinite maximum mp (character 3)
+
+R A 4 L 0 007e2c24 0000000000895440 infinite money
+
+[d40bd9267fb21ad8f8987cb8da473dbc] Trials of Mana (World) (Rev 1) (Collection of Mana)
+R I 2 L 0 00000000 0000 KEEP THE CHEATS OFF UNTIL AFTER CHARACTER SELECTION WHEN YOU START A NEW GAME !!!
+
+R A 2 L 0 007fedf2 03e7 infinite current hp (character 1)
+
+R A 2 L 0 007fee02 03e7 infinite maximum hp (character 1)
+
+R A 2 L 0 007fedf4 0063 infinite current mp (character 1)
+
+R A 2 L 0 007fee04 0063 infinite maximum mp (character 1)
+
+R A 2 L 0 007ff0f2 03e7 infinite current hp (character 2)
+
+R A 2 L 0 007ff102 03e7 infinite maximum hp (character 2)
+
+R A 2 L 0 007ff0f4 0063 infinite current mp (character 2)
+
+R A 2 L 0 007ff104 0063 infinite maximum mp (character 2)
+
+R A 2 L 0 007ff3f2 03e7 infinite current hp (character 3)
+
+R A 2 L 0 007ff402 03e7 infinite maximum hp (character 3)
+
+R A 2 L 0 007ff3f4 0063 infinite current mp (character 3)
+
+R A 2 L 0 007ff404 0063 infinite maximum mp (character 3)
+
+R A 4 L 0 007e2c24 0000000000895440 infinite money
+
+[2f766753e0848652d086df4837aa4423] Seiken Densetsu 3 (Japan) (Seiken Densetsu Collection)
+R I 2 L 0 00000000 0000 KEEP THE CHEATS OFF UNTIL AFTER CHARACTER SELECTION WHEN YOU START A NEW GAME !!!
+
+R A 2 L 0 007fedf2 03e7 infinite current hp (character 1)
+
+R A 2 L 0 007fee02 03e7 infinite maximum hp (character 1)
+
+R A 2 L 0 007fedf4 0063 infinite current mp (character 1)
+
+R A 2 L 0 007fee04 0063 infinite maximum mp (character 1)
+
+R A 2 L 0 007ff0f2 03e7 infinite current hp (character 2)
+
+R A 2 L 0 007ff102 03e7 infinite maximum hp (character 2)
+
+R A 2 L 0 007ff0f4 0063 infinite current mp (character 2)
+
+R A 2 L 0 007ff104 0063 infinite maximum mp (character 2)
+
+R A 2 L 0 007ff3f2 03e7 infinite current hp (character 3)
+
+R A 2 L 0 007ff402 03e7 infinite maximum hp (character 3)
+
+R A 2 L 0 007ff3f4 0063 infinite current mp (character 3)
+
+R A 2 L 0 007ff404 0063 infinite maximum mp (character 3)
+
+R A 4 L 0 007e2c24 0000000000895440 infinite money
+
+[ed88ce12ed821bb91f5e1626eff0ce58] Final Fantasy IV (Japan) (Rev 1) (Virtual Console)
+R A 2 L 0 007e1007 03e7 infinite hp (slot 1)
+
+R A 2 L 0 007e1009 03e7 infinite max hp (slot 1)
+
+R A 2 L 0 007e1047 03e7 infinite hp (slot 2)
+
+R A 2 L 0 007e1049 03e7 infinite max hp (slot 2)
+
+R A 2 L 0 007e100b 03e7 infinite mp (slot 2)
+
+R A 2 L 0 007e100d 03e7 infinite max mp (slot 2)
+
+R A 2 L 0 007e2007 1e61 infinite hp in battle (slot 1)
+
+R A 2 L 0 007e2009 1e61 infinite max hp in battle (slot 1)
+
+R A 2 L 0 007e208b 03e7 infinite mp in battle (slot 1)
+
+R A 2 L 0 007e104b 03e7 infinite mp (slot 1)
+
+R A 2 L 0 007e104d 03e7 infinite max mp (slot 1)
+
+R A 2 L 0 007e2087 1e61 infinite hp in battle (slot 2)
+
+R A 2 L 0 007e2089 1e61 infinite max hp in battle (slot 2)
+
+R A 2 L 0 007e200b 03e7 infinite mp in battle (slot 2)
+
+R A 2 L 0 007e1087 03e7 infinite hp (slot 3)
+
+R A 2 L 0 007e1089 03e7 infinite max hp (slot 3)
+
+R A 2 L 0 007e108b 03e7 infinite mp (slot 3)
+
+R A 2 L 0 007e108d 03e7 infinite max mp (slot 3)
+
+R A 2 L 0 007e2107 1e61 infinite hp in battle (slot 3)
+
+R A 2 L 0 007e210b 1e61 infinite mp in battle (slot 3)
+
+R A 2 L 0 007e10c7 03e7 infinite hp (rosa)
+
+R A 2 L 0 007e10c9 03e7 infinite max hp (rosa)
+
+R A 2 L 0 007e10cb 03e7 infinite mp (rosa)
+
+R A 2 L 0 007e10cd 03e7 infinite max mp (rosa)
+
+R A 2 L 0 007e2187 1e61 infinite hp in battle (rosa)
+
+R A 2 L 0 007e218b 03e7 infinite mp in battle (rosa)
+
+R A 2 L 0 007e1109 03e7 infinite max hp (yang)
+
+R A 2 L 0 007e1107 03e7 infinite hp (yang)
+
+R A 2 L 0 007e2207 1e61 infinite hp in battle (yang)
+
+R A 3 L 0 007e16a0 0000000000895440 infinite gold
+
+R A 1 L 0 007e1054 63 max STR (slot 1)
+
+R A 1 L 0 007e1055 63 max AGL (slot 1)
+
+R A 1 L 0 007e1056 63 max VIT (slot 1)
+
+R A 1 L 0 007e1057 63 max WIS (slot 1)
+
+R A 1 L 0 007e1058 63 max WIL (slot 1)
+
+R A 1 L 0 007e1014 63 max STR (slot 2)
+
+R A 1 L 0 007e1015 63 max AGL (slot 2)
+
+R A 1 L 0 007e1016 63 max VIT (slot 2)
+
+R A 1 L 0 007e1017 63 max WIS (slot 2)
+
+R A 1 L 0 007e1018 63 max WILL (slot 2)
+
+R A 1 L 0 007e1094 63 max str (slot 3)
+
+R A 1 L 0 007e1095 63 max AGL (slot 3)
+
+R A 1 L 0 007e1096 63 max VIT (slot 3)
+
+R A 1 L 0 007e1097 63 max WIS (slot 3)
+
+R A 1 L 0 007e1098 63 max  WILL (slot 3)
+
+R A 1 L 0 007e10d4 63 max STR (slot 4)
+
+R A 1 L 0 007e10d5 63 max AGL (slot 4)
+
+R A 1 L 0 007e10d6 63 max VIT (slot 4)
+
+R A 1 L 0 007e10d7 63 max WIS (slot 4)
+
+R A 1 L 0 007e10d8 63 max WILL (slot 5)
+
+R A 1 L 0 007e1114 63 max STR (slot 5)
+
+R A 1 L 0 007e1115 63 infinite AGL (slot 5)
+
+R A 1 L 0 007e1116 63 infinite VIT (slot 5)
+
+R A 1 L 0 007e1117 63 infinite WIS (slot 5)
+
+R A 1 L 0 007e1118 63 infinite WILL (slot 5)
+
+R A 2 L 0 007e220b 0000 infinite mp in battle (slot 4)
+
+R I 1 L 0 007e0686 00 NO RANDOM BATTLE
+
+[6ee1bfa6ac945590197c3925ee94b8dd] Final Fantasy II (USA, Europe) (Rev 1) (Virtual Console)
+R A 2 L 0 007e1007 03e7 infinite hp (slot 1)
+
+R A 2 L 0 007e1009 03e7 infinite max hp (slot 1)
+
+R A 2 L 0 007e1047 03e7 infinite hp (slot 2)
+
+R A 2 L 0 007e1049 03e7 infinite max hp (slot 2)
+
+R A 2 L 0 007e100b 03e7 infinite mp (slot 2)
+
+R A 2 L 0 007e100d 03e7 infinite max mp (slot 2)
+
+R A 2 L 0 007e2007 1e61 infinite hp in battle (slot 1)
+
+R A 2 L 0 007e2009 1e61 infinite max hp in battle (slot 1)
+
+R A 2 L 0 007e208b 03e7 infinite mp in battle (slot 1)
+
+R A 2 L 0 007e104b 03e7 infinite mp (slot 1)
+
+R A 2 L 0 007e104d 03e7 infinite max mp (slot 1)
+
+R A 2 L 0 007e2087 1e61 infinite hp in battle (slot 2)
+
+R A 2 L 0 007e2089 1e61 infinite max hp in battle (slot 2)
+
+R A 2 L 0 007e200b 03e7 infinite mp in battle (slot 2)
+
+R A 2 L 0 007e1087 03e7 infinite hp (slot 3)
+
+R A 2 L 0 007e1089 03e7 infinite max hp (slot 3)
+
+R A 2 L 0 007e108b 03e7 infinite mp (slot 3)
+
+R A 2 L 0 007e108d 03e7 infinite max mp (slot 3)
+
+R A 2 L 0 007e2107 1e61 infinite hp in battle (slot 3)
+
+R A 2 L 0 007e210b 1e61 infinite mp in battle (slot 3)
+
+R A 2 L 0 007e10c7 03e7 infinite hp (rosa)
+
+R A 2 L 0 007e10c9 03e7 infinite max hp (rosa)
+
+R A 2 L 0 007e10cb 03e7 infinite mp (rosa)
+
+R A 2 L 0 007e10cd 03e7 infinite max mp (rosa)
+
+R A 2 L 0 007e2187 1e61 infinite hp in battle (rosa)
+
+R A 2 L 0 007e218b 03e7 infinite mp in battle (rosa)
+
+R A 2 L 0 007e1109 03e7 infinite max hp (yang)
+
+R A 2 L 0 007e1107 03e7 infinite hp (yang)
+
+R A 2 L 0 007e2207 1e61 infinite hp in battle (yang)
+
+R A 3 L 0 007e16a0 0000000000895440 infinite gold
+
+R A 1 L 0 007e1054 63 max STR (slot 1)
+
+R A 1 L 0 007e1055 63 max AGL (slot 1)
+
+R A 1 L 0 007e1056 63 max VIT (slot 1)
+
+R A 1 L 0 007e1057 63 max WIS (slot 1)
+
+R A 1 L 0 007e1058 63 max WIL (slot 1)
+
+R A 1 L 0 007e1014 63 max STR (slot 2)
+
+R A 1 L 0 007e1015 63 max AGL (slot 2)
+
+R A 1 L 0 007e1016 63 max VIT (slot 2)
+
+R A 1 L 0 007e1017 63 max WIS (slot 2)
+
+R A 1 L 0 007e1018 63 max WILL (slot 2)
+
+R A 1 L 0 007e1094 63 max str (slot 3)
+
+R A 1 L 0 007e1095 63 max AGL (slot 3)
+
+R A 1 L 0 007e1096 63 max VIT (slot 3)
+
+R A 1 L 0 007e1097 63 max WIS (slot 3)
+
+R A 1 L 0 007e1098 63 max  WILL (slot 3)
+
+R A 1 L 0 007e10d4 63 max STR (slot 4)
+
+R A 1 L 0 007e10d5 63 max AGL (slot 4)
+
+R A 1 L 0 007e10d6 63 max VIT (slot 4)
+
+R A 1 L 0 007e10d7 63 max WIS (slot 4)
+
+R A 1 L 0 007e10d8 63 max WILL (slot 5)
+
+R A 1 L 0 007e1114 63 max STR (slot 5)
+
+R A 1 L 0 007e1115 63 infinite AGL (slot 5)
+
+R A 1 L 0 007e1116 63 infinite VIT (slot 5)
+
+R A 1 L 0 007e1117 63 infinite WIS (slot 5)
+
+R A 1 L 0 007e1118 63 infinite WILL (slot 5)
+
+R A 2 L 0 007e220b 0000 infinite mp in battle (slot 4)
+
+R I 1 L 0 007e0686 00 NO RANDOM BATTLE
+
+[e1d8fa655bb6216db6653c96d3307b75] Super E.D.F. (Japan) (En) (Switch Online)
+R A 1 L 0 007e0181 03 infinite shields
+
+R A 1 L 0 007e012e 09 infinite credits
+
+[d5668ebe58af9aa9b9341c1f893494a7] Earth Defense Force (USA, Europe) (Switch Online)
+R A 1 L 0 007e0181 03 infinite shields
+
+R A 1 L 0 007e012e 09 infinite credits
+
+[c4d3cc5200f9b59dcc9444b69ff7d0ff] Super Mario World (USA, Europe) (Virtual Console, Classic Mini, Switch Online)
+R A 1 L 0 007e0dbe 09 infinite lives
+
+R A 1 L 0 007e0f31 02 infinite time
+
+R A 1 L 0 007e0f32 05 infinite time
+
+R A 1 L 0 007e0f33 09 infinite time
+
+R A 1 L 0 007e1497 ff invincibility
+
+[0a5c7f7ef18af0f3fa633a4adea463a2] Super Mario World - Super Mario Bros. 4 (Japan) (Classic Mini, Switch Online)
+R A 1 L 0 007e0dbe 09 infinite lives
+
+R A 1 L 0 007e0f31 02 infinite time
+
+R A 1 L 0 007e0f32 05 infinite time
+
+R A 1 L 0 007e0f33 09 infinite time
+
+R A 1 L 0 007e1497 ff invincibility
+
+[1c15189e9b9fb2e0d545e549bcc705d3] Super Street Fighter II - The New Challengers (Japan) (Virtual Console)
+R A 1 L 0 007e0638 16 invincibility
+
+R A 1 L 0 007e0531 b0 infinite health
+
+R A 1 L 0 007e0530 b0 infinite health
+
+R A 1 L 0 007e1928 1c infinite time
+
+[66d91c908712e023079a2b75f5b7b0fe] Super Street Fighter II (USA) (Rev 1) (Virtual Console)
+R A 1 L 0 007e0638 16 invincibility
+
+R A 1 L 0 007e0531 b0 infinite health
+
+R A 1 L 0 007e0530 b0 infinite health
+
+R A 1 L 0 007e1928 1c infinite time
+
+[ed03e331318aa91bb92102a8d1b2e99c] Super Street Fighter II (Europe) (Virtual Console)
+R A 1 L 0 007e0638 16 invincibility
+
+R A 1 L 0 007e0531 b0 infinite health
+
+R A 1 L 0 007e0530 b0 infinite health
+
+R A 1 L 0 007e1928 1c infinite time
+
+[fd55a9ca1726f5cdcc699d9196d42158] Super Mario All-Stars (Europe) (Wii)
+R A 1 L 0 007e0756 01 invincibility
+
+R A 1 L 0 007e04c3 1f infinite health
+
+R A 1 L 0 007e07eb 01 infinite time
+
+R A 1 L 0 007e07ea 01 infinite lives
+
+R A 1 L 0 007e04ee 09 infinite lives (super mario bros 2)
+
+R A 1 L 0 007e0736 09 infinite lives (super mario bros 3)
+
+R A 1 L 0 007e05f1 01 infinite time (super mario bros 3)
+
+R A 1 L 0 007e0552 50 invincibility (super mario bros 3)
+
+[798aa6bd6739bd10c9fa345d3a112597] Super Mario All-Stars (USA) (Wii)
+R A 1 L 0 007e0756 01 invincibility
+
+R A 1 L 0 007e04c3 1f infinite health
+
+R A 1 L 0 007e07eb 01 infinite time
+
+R A 1 L 0 007e07ea 01 infinite lives
+
+R A 1 L 0 007e04ee 09 infinite lives (super mario bros 2)
+
+R A 1 L 0 007e0736 09 infinite lives (super mario bros 3)
+
+R A 1 L 0 007e05f1 01 infinite time (super mario bros 3)
+
+R A 1 L 0 007e0552 50 invincibility (super mario bros 3)
+
+[6617e293c2cff674b11999e3f36c077d] Super Mario Collection (Japan) (Rev 1) (Wii)
+R A 1 L 0 007e0756 01 invincibility
+
+R A 1 L 0 007e04c3 1f infinite health
+
+R A 1 L 0 007e07eb 01 infinite time
+
+R A 1 L 0 007e07ea 01 infinite lives
+
+R A 1 L 0 007e04ee 09 infinite lives (super mario bros 2)
+
+R A 1 L 0 007e0736 09 infinite lives (super mario bros 3)
+
+R A 1 L 0 007e05f1 01 infinite time (super mario bros 3)
+
+R A 1 L 0 007e0552 50 invincibility (super mario bros 3)
+
+[c7c35d8d470e9593614e28fa396d637b] Demon's Blazon - Makaimura Monshou Hen (Japan) (Switch Online)
+R A 1 L 0 007e1063 e7 infinite money
+
+R A 1 L 0 007e1064 03 infinite money
+
+R A 1 L 0 007e0eee 00 disable anticheat
+
+R A 1 L 0 007e0eed 00 disable anticheat
+
+R A 1 L 0 007e103c 1e invincibiliy
+
+R A 1 L 0 007e1062 20 infinite health
+
+[1a2f726d3d1d906ff8856df51a023494] Demon's Crest (USA, Europe) (Switch Online)
+R A 1 L 0 007e1063 e7 infinite money
+
+R A 1 L 0 007e1064 03 infinite money
+
+R A 1 L 0 007e0eee 00 disable anticheat
+
+R A 1 L 0 007e0eed 00 disable anticheat
+
+R A 1 L 0 007e103c 1e invincibiliy
+
+R A 1 L 0 007e1062 20 infinite health
+
+[918732fe0d7b7349b7d75ad8878125d5] Breath of Fire (USA, Europe) (Switch Online)
+R A 1 L 0 007e104e e7 infinite hp (character 1)
+
+R A 1 L 0 007e104f 03 infinite hp (character 1)
+
+R A 1 L 0 007e104c e7 infinite max hp (character 1)
+
+R A 1 L 0 007e104d 03 infinite max hp (character 1)
+
+R A 1 L 0 007e1052 e7 infinite ap (character 1)
+
+R A 1 L 0 007e1053 03 infinite ap (character 1)
+
+R A 1 L 0 007e1050 e7 infinite max ap (character 1)
+
+R A 1 L 0 007e1051 03 infinite max ap (character 1)
+
+R A 1 L 0 007e1062 ff max ACT (character 1)
+
+R A 1 L 0 007e105a ff max AGILITY (character 1)
+
+R A 1 L 0 007e105d e7 max ATK (character 1)
+
+R A 1 L 0 007e105e 03 max ATK (character 1)
+
+R A 1 L 0 007e105f e7 max DEF (character 1)
+
+R A 1 L 0 007e1060 03 max DEF (character 1)
+
+R A 1 L 0 007e1063 ff max FATE (character 1)
+
+R A 1 L 0 007e1061 ff max INT (character 1)
+
+R A 1 L 0 007e105c ff max LUCK (character 1)
+
+R A 1 L 0 007e105b ff max MAG (character 1)
+
+R A 1 L 0 007e1057 ff max STR (character 1)
+
+R A 1 L 0 007e1058 ff max VIGOR (character 1)
+
+R A 1 L 0 007e1059 ff max WISDOM (character 1)
+
+R A 1 L 0 007e10ee e7 infinite hp (character 2)
+
+R A 1 L 0 007e10ef 03 infinite hp (character 2)
+
+R A 1 L 0 007e10ec e7 infinite max hp (character 2)
+
+R A 1 L 0 007e10ed 03 infinite max hp (character 2)
+
+R A 1 L 0 007e10f2 e7 infinite ap (character 2)
+
+R A 1 L 0 007e10f3 03 infinite ap (character 2)
+
+R A 1 L 0 007e10f0 e7 infinite max ap (character 2)
+
+R A 1 L 0 007e10f1 03 infinite max ap (character 2)
+
+R A 1 L 0 007e1102 ff max ACT (character 2)
+
+R A 1 L 0 007e10fa ff max AGILITY (character 2)
+
+R A 1 L 0 007e10fd e7 max ATK (character 2)
+
+R A 1 L 0 007e10fe 03 max ATK (character 2)
+
+R A 1 L 0 007e10ff e7 max DEF (character 2)
+
+R A 1 L 0 007e1100 03 max DEF (character 2)
+
+R A 1 L 0 007e1103 ff max FATE (character 2)
+
+R A 1 L 0 007e1101 ff max INT (character 2)
+
+R A 1 L 0 007e10fc ff max LUCK (character 2)
+
+R A 1 L 0 007e10fb ff max MAG (character 2)
+
+R A 1 L 0 007e10f7 ff max STR (character 2)
+
+R A 1 L 0 007e10f8 ff max VIGOR (character 2)
+
+R A 1 L 0 007e10f9 ff max WISDOM (character 2)
+
+R A 1 L 0 007e118e e7 infinite hp (character 3)
+
+R A 1 L 0 007e118f 03 infinite hp (character 3)
+
+R A 1 L 0 007e118c e7 infinite max hp (character 3)
+
+R A 1 L 0 007e118d 03 infinite max hp (character 3)
+
+R A 1 L 0 007e1192 e7 infinite ap (character 3)
+
+R A 1 L 0 007e1193 03 infinite ap (character 3)
+
+R A 1 L 0 007e1190 e7 infinite max ap (character 3)
+
+R A 1 L 0 007e1191 03 infinite max ap (character 3)
+
+R A 1 L 0 007e11a2 ff max ACT (character 3)
+
+R A 1 L 0 007e119a ff max AGILITY (character 3)
+
+R A 1 L 0 007e119d e7 max ATK (character 3)
+
+R A 1 L 0 007e119e 03 max ATK (character 3)
+
+R A 1 L 0 007e119f e7 max DEF (character 3)
+
+R A 1 L 0 007e11a0 03 max DEF (character 3)
+
+R A 1 L 0 007e11a3 ff max FATE (character 3)
+
+R A 1 L 0 007e11a1 ff max INT (character 3)
+
+R A 1 L 0 007e119c ff max LUCK (character 3)
+
+R A 1 L 0 007e119b ff max MAG (character 3)
+
+R A 1 L 0 007e1197 ff max STR (character 3)
+
+R A 1 L 0 007e1198 ff max VIGOR (character 3)
+
+R A 1 L 0 007e1199 ff max WISDOM (character 3)
+
+R A 1 L 0 007e122e e7 infinite hp (character 4)
+
+R A 1 L 0 007e122f 03 infinite hp (character 4)
+
+R A 1 L 0 007e122c e7 infinite max hp (character 4)
+
+R A 1 L 0 007e122d 03 infinite max hp (character 4)
+
+R A 1 L 0 007e1232 e7 infinite ap (character 4)
+
+R A 1 L 0 007e1233 03 infinite ap (character 4)
+
+R A 1 L 0 007e1230 e7 infinite max ap (character 4)
+
+R A 1 L 0 007e1231 03 infinite max ap (character 4)
+
+R A 1 L 0 007e1242 ff max ACT (character 4)
+
+R A 1 L 0 007e123a ff max AGILITY (character 4)
+
+R A 1 L 0 007e123d e7 max ATK (character 4)
+
+R A 1 L 0 007e123e 03 max ATK (character 4)
+
+R A 1 L 0 007e123f e7 max DEF (character 4)
+
+R A 1 L 0 007e1240 03 max DEF (character 4)
+
+R A 1 L 0 007e1243 ff max FATE (character 4)
+
+R A 1 L 0 007e1241 ff max INT (character 4)
+
+R A 1 L 0 007e123c ff max LUCK (character 4)
+
+R A 1 L 0 007e123b ff max MAG (character 4)
+
+R A 1 L 0 007e1237 ff max STR (character 4)
+
+R A 1 L 0 007e1238 ff max VIGOR (character 4)
+
+R A 1 L 0 007e1239 ff max WISDOM (character 4)
+
+R A 1 L 0 007e12ce e7 infinite hp (character 5)
+
+R A 1 L 0 007e12cf 03 infinite hp (character 5)
+
+R A 1 L 0 007e12cc e7 infinite max hp (character 5)
+
+R A 1 L 0 007e12cd 03 infinite max hp (character 5)
+
+R A 1 L 0 007e12d2 e7 infinite ap (character 5)
+
+R A 1 L 0 007e12d3 03 infinite ap (character 5)
+
+R A 1 L 0 007e12d0 e7 infinite max ap (character 5)
+
+R A 1 L 0 007e12d1 03 infinite max ap (character 5)
+
+R A 1 L 0 007e12e2 ff max ACT (character 5)
+
+R A 1 L 0 007e12da ff max AGILITY (character 5)
+
+R A 1 L 0 007e12dd e7 max ATK (character 5)
+
+R A 1 L 0 007e12de 03 max ATK (character 5)
+
+R A 1 L 0 007e12df e7 max DEF (character 5)
+
+R A 1 L 0 007e12e0 03 max DEF (character 5)
+
+R A 1 L 0 007e12e3 ff max FATE (character 5)
+
+R A 1 L 0 007e12e1 ff max INT (character 5)
+
+R A 1 L 0 007e12dc ff max LUCK (character 5)
+
+R A 1 L 0 007e12db ff max MAG (character 5)
+
+R A 1 L 0 007e12d7 ff max STR (character 5)
+
+R A 1 L 0 007e12d8 ff max VIGOR (character 5)
+
+R A 1 L 0 007e12d9 ff max WISDOM (character 5)
+
+R A 1 L 0 007e136e e7 infinite hp (character 6)
+
+R A 1 L 0 007e136f 03 infinite hp (character 6)
+
+R A 1 L 0 007e136c e7 infinite max hp (character 6)
+
+R A 1 L 0 007e136d 03 infinite max hp (character 6)
+
+R A 1 L 0 007e1372 e7 infinite ap (character 6)
+
+R A 1 L 0 007e1373 03 infinite ap (character 6)
+
+R A 1 L 0 007e1370 e7 infinite max ap (character 6)
+
+R A 1 L 0 007e1371 03 infinite max ap (character 6)
+
+R A 1 L 0 007e1382 ff max ACT (character 6)
+
+R A 1 L 0 007e137a ff max AGILITY (character 6)
+
+R A 1 L 0 007e137d e7 max ATK (character 6)
+
+R A 1 L 0 007e137e 03 max ATK (character 6)
+
+R A 1 L 0 007e137f e7 max DEF (character 6)
+
+R A 1 L 0 007e1380 03 max DEF (character 6)
+
+R A 1 L 0 007e1383 ff max FATE (character 6)
+
+R A 1 L 0 007e1381 ff max INT (character 6)
+
+R A 1 L 0 007e137c ff max LUCK (character 6)
+
+R A 1 L 0 007e137b ff max MAG (character 6)
+
+R A 1 L 0 007e1377 ff max STR (character 6)
+
+R A 1 L 0 007e1378 ff max VIGOR (character 6)
+
+R A 1 L 0 007e1379 ff max WISDOM (character 6)
+
+R A 1 L 0 007e140e e7 infinite hp (character 7)
+
+R A 1 L 0 007e140f 03 infinite hp (character 7)
+
+R A 1 L 0 007e140c e7 infinite max hp (character 7)
+
+R A 1 L 0 007e140d 03 infinite max hp (character 7)
+
+R A 1 L 0 007e1412 e7 infinite ap (character 7)
+
+R A 1 L 0 007e1413 03 infinite ap (character 7)
+
+R A 1 L 0 007e1410 e7 infinite max ap (character 7)
+
+R A 1 L 0 007e1411 03 infinite max ap (character 7)
+
+R A 1 L 0 007e1422 ff max ACT (character 7)
+
+R A 1 L 0 007e141a ff max AGILITY (character 7)
+
+R A 1 L 0 007e141d e7 max ATK (character 7)
+
+R A 1 L 0 007e141e 03 max ATK (character 7)
+
+R A 1 L 0 007e141f e7 max DEF (character 7)
+
+R A 1 L 0 007e1420 03 max DEF (character 7)
+
+R A 1 L 0 007e1423 ff max FATE (character 7)
+
+R A 1 L 0 007e1421 ff max INT (character 7)
+
+R A 1 L 0 007e141c ff max LUCK (character 7)
+
+R A 1 L 0 007e141b ff max MAG (character 7)
+
+R A 1 L 0 007e1417 ff max STR (character 7)
+
+R A 1 L 0 007e1418 ff max VIGOR (character 7)
+
+R A 1 L 0 007e1419 ff max WISDOM (character 7)
+
+R A 1 L 0 007e14ae e7 infinite hp (character 8)
+
+R A 1 L 0 007e14af 03 infinite hp (character 8)
+
+R A 1 L 0 007e14ac e7 infinite max hp (character 8)
+
+R A 1 L 0 007e14ad 03 infinite max hp (character 8)
+
+R A 1 L 0 007e14b2 e7 infinite ap (character 8)
+
+R A 1 L 0 007e14b3 03 infinite ap (character 8)
+
+R A 1 L 0 007e14b0 e7 infinite max ap (character 8)
+
+R A 1 L 0 007e14b1 03 infinite max ap (character 8)
+
+R A 1 L 0 007e14c2 ff max ACT (character 8)
+
+R A 1 L 0 007e14ba ff max AGILITY (character 8)
+
+R A 1 L 0 007e14bd e7 max ATK (character 8)
+
+R A 1 L 0 007e14be 03 max ATK (character 8)
+
+R A 1 L 0 007e14bf e7 max DEF (character 8)
+
+R A 1 L 0 007e14c0 03 max DEF (character 8)
+
+R A 1 L 0 007e14c3 ff max FATE (character 8)
+
+R A 1 L 0 007e14c1 ff max INT (character 8)
+
+R A 1 L 0 007e14bc ff max LUCK (character 8)
+
+R A 1 L 0 007e14bb ff max MAG (character 8)
+
+R A 1 L 0 007e14b7 ff max STR (character 8)
+
+R A 1 L 0 007e14b8 ff max VIGOR (character 8)
+
+R A 1 L 0 007e14b9 ff max WISDOM (character 8)
+
+R A 1 L 0 007e5020 3f infinite money
+
+R A 1 L 0 007e5021 42 infinite money
+
+R A 1 L 0 007e5022 0f infinite money
+
+[b69adcac286be09ba10e7fca4693b87d] Breath of Fire - Ryuu no Senshi (Japan) (Rev 1) (Switch Online)
+R A 1 L 0 007e104e e7 infinite hp (character 1)
+
+R A 1 L 0 007e104f 03 infinite hp (character 1)
+
+R A 1 L 0 007e104c e7 infinite max hp (character 1)
+
+R A 1 L 0 007e104d 03 infinite max hp (character 1)
+
+R A 1 L 0 007e1052 e7 infinite ap (character 1)
+
+R A 1 L 0 007e1053 03 infinite ap (character 1)
+
+R A 1 L 0 007e1050 e7 infinite max ap (character 1)
+
+R A 1 L 0 007e1051 03 infinite max ap (character 1)
+
+R A 1 L 0 007e1062 ff max ACT (character 1)
+
+R A 1 L 0 007e105a ff max AGILITY (character 1)
+
+R A 1 L 0 007e105d e7 max ATK (character 1)
+
+R A 1 L 0 007e105e 03 max ATK (character 1)
+
+R A 1 L 0 007e105f e7 max DEF (character 1)
+
+R A 1 L 0 007e1060 03 max DEF (character 1)
+
+R A 1 L 0 007e1063 ff max FATE (character 1)
+
+R A 1 L 0 007e1061 ff max INT (character 1)
+
+R A 1 L 0 007e105c ff max LUCK (character 1)
+
+R A 1 L 0 007e105b ff max MAG (character 1)
+
+R A 1 L 0 007e1057 ff max STR (character 1)
+
+R A 1 L 0 007e1058 ff max VIGOR (character 1)
+
+R A 1 L 0 007e1059 ff max WISDOM (character 1)
+
+R A 1 L 0 007e10ee e7 infinite hp (character 2)
+
+R A 1 L 0 007e10ef 03 infinite hp (character 2)
+
+R A 1 L 0 007e10ec e7 infinite max hp (character 2)
+
+R A 1 L 0 007e10ed 03 infinite max hp (character 2)
+
+R A 1 L 0 007e10f2 e7 infinite ap (character 2)
+
+R A 1 L 0 007e10f3 03 infinite ap (character 2)
+
+R A 1 L 0 007e10f0 e7 infinite max ap (character 2)
+
+R A 1 L 0 007e10f1 03 infinite max ap (character 2)
+
+R A 1 L 0 007e1102 ff max ACT (character 2)
+
+R A 1 L 0 007e10fa ff max AGILITY (character 2)
+
+R A 1 L 0 007e10fd e7 max ATK (character 2)
+
+R A 1 L 0 007e10fe 03 max ATK (character 2)
+
+R A 1 L 0 007e10ff e7 max DEF (character 2)
+
+R A 1 L 0 007e1100 03 max DEF (character 2)
+
+R A 1 L 0 007e1103 ff max FATE (character 2)
+
+R A 1 L 0 007e1101 ff max INT (character 2)
+
+R A 1 L 0 007e10fc ff max LUCK (character 2)
+
+R A 1 L 0 007e10fb ff max MAG (character 2)
+
+R A 1 L 0 007e10f7 ff max STR (character 2)
+
+R A 1 L 0 007e10f8 ff max VIGOR (character 2)
+
+R A 1 L 0 007e10f9 ff max WISDOM (character 2)
+
+R A 1 L 0 007e118e e7 infinite hp (character 3)
+
+R A 1 L 0 007e118f 03 infinite hp (character 3)
+
+R A 1 L 0 007e118c e7 infinite max hp (character 3)
+
+R A 1 L 0 007e118d 03 infinite max hp (character 3)
+
+R A 1 L 0 007e1192 e7 infinite ap (character 3)
+
+R A 1 L 0 007e1193 03 infinite ap (character 3)
+
+R A 1 L 0 007e1190 e7 infinite max ap (character 3)
+
+R A 1 L 0 007e1191 03 infinite max ap (character 3)
+
+R A 1 L 0 007e11a2 ff max ACT (character 3)
+
+R A 1 L 0 007e119a ff max AGILITY (character 3)
+
+R A 1 L 0 007e119d e7 max ATK (character 3)
+
+R A 1 L 0 007e119e 03 max ATK (character 3)
+
+R A 1 L 0 007e119f e7 max DEF (character 3)
+
+R A 1 L 0 007e11a0 03 max DEF (character 3)
+
+R A 1 L 0 007e11a3 ff max FATE (character 3)
+
+R A 1 L 0 007e11a1 ff max INT (character 3)
+
+R A 1 L 0 007e119c ff max LUCK (character 3)
+
+R A 1 L 0 007e119b ff max MAG (character 3)
+
+R A 1 L 0 007e1197 ff max STR (character 3)
+
+R A 1 L 0 007e1198 ff max VIGOR (character 3)
+
+R A 1 L 0 007e1199 ff max WISDOM (character 3)
+
+R A 1 L 0 007e122e e7 infinite hp (character 4)
+
+R A 1 L 0 007e122f 03 infinite hp (character 4)
+
+R A 1 L 0 007e122c e7 infinite max hp (character 4)
+
+R A 1 L 0 007e122d 03 infinite max hp (character 4)
+
+R A 1 L 0 007e1232 e7 infinite ap (character 4)
+
+R A 1 L 0 007e1233 03 infinite ap (character 4)
+
+R A 1 L 0 007e1230 e7 infinite max ap (character 4)
+
+R A 1 L 0 007e1231 03 infinite max ap (character 4)
+
+R A 1 L 0 007e1242 ff max ACT (character 4)
+
+R A 1 L 0 007e123a ff max AGILITY (character 4)
+
+R A 1 L 0 007e123d e7 max ATK (character 4)
+
+R A 1 L 0 007e123e 03 max ATK (character 4)
+
+R A 1 L 0 007e123f e7 max DEF (character 4)
+
+R A 1 L 0 007e1240 03 max DEF (character 4)
+
+R A 1 L 0 007e1243 ff max FATE (character 4)
+
+R A 1 L 0 007e1241 ff max INT (character 4)
+
+R A 1 L 0 007e123c ff max LUCK (character 4)
+
+R A 1 L 0 007e123b ff max MAG (character 4)
+
+R A 1 L 0 007e1237 ff max STR (character 4)
+
+R A 1 L 0 007e1238 ff max VIGOR (character 4)
+
+R A 1 L 0 007e1239 ff max WISDOM (character 4)
+
+R A 1 L 0 007e12ce e7 infinite hp (character 5)
+
+R A 1 L 0 007e12cf 03 infinite hp (character 5)
+
+R A 1 L 0 007e12cc e7 infinite max hp (character 5)
+
+R A 1 L 0 007e12cd 03 infinite max hp (character 5)
+
+R A 1 L 0 007e12d2 e7 infinite ap (character 5)
+
+R A 1 L 0 007e12d3 03 infinite ap (character 5)
+
+R A 1 L 0 007e12d0 e7 infinite max ap (character 5)
+
+R A 1 L 0 007e12d1 03 infinite max ap (character 5)
+
+R A 1 L 0 007e12e2 ff max ACT (character 5)
+
+R A 1 L 0 007e12da ff max AGILITY (character 5)
+
+R A 1 L 0 007e12dd e7 max ATK (character 5)
+
+R A 1 L 0 007e12de 03 max ATK (character 5)
+
+R A 1 L 0 007e12df e7 max DEF (character 5)
+
+R A 1 L 0 007e12e0 03 max DEF (character 5)
+
+R A 1 L 0 007e12e3 ff max FATE (character 5)
+
+R A 1 L 0 007e12e1 ff max INT (character 5)
+
+R A 1 L 0 007e12dc ff max LUCK (character 5)
+
+R A 1 L 0 007e12db ff max MAG (character 5)
+
+R A 1 L 0 007e12d7 ff max STR (character 5)
+
+R A 1 L 0 007e12d8 ff max VIGOR (character 5)
+
+R A 1 L 0 007e12d9 ff max WISDOM (character 5)
+
+R A 1 L 0 007e136e e7 infinite hp (character 6)
+
+R A 1 L 0 007e136f 03 infinite hp (character 6)
+
+R A 1 L 0 007e136c e7 infinite max hp (character 6)
+
+R A 1 L 0 007e136d 03 infinite max hp (character 6)
+
+R A 1 L 0 007e1372 e7 infinite ap (character 6)
+
+R A 1 L 0 007e1373 03 infinite ap (character 6)
+
+R A 1 L 0 007e1370 e7 infinite max ap (character 6)
+
+R A 1 L 0 007e1371 03 infinite max ap (character 6)
+
+R A 1 L 0 007e1382 ff max ACT (character 6)
+
+R A 1 L 0 007e137a ff max AGILITY (character 6)
+
+R A 1 L 0 007e137d e7 max ATK (character 6)
+
+R A 1 L 0 007e137e 03 max ATK (character 6)
+
+R A 1 L 0 007e137f e7 max DEF (character 6)
+
+R A 1 L 0 007e1380 03 max DEF (character 6)
+
+R A 1 L 0 007e1383 ff max FATE (character 6)
+
+R A 1 L 0 007e1381 ff max INT (character 6)
+
+R A 1 L 0 007e137c ff max LUCK (character 6)
+
+R A 1 L 0 007e137b ff max MAG (character 6)
+
+R A 1 L 0 007e1377 ff max STR (character 6)
+
+R A 1 L 0 007e1378 ff max VIGOR (character 6)
+
+R A 1 L 0 007e1379 ff max WISDOM (character 6)
+
+R A 1 L 0 007e140e e7 infinite hp (character 7)
+
+R A 1 L 0 007e140f 03 infinite hp (character 7)
+
+R A 1 L 0 007e140c e7 infinite max hp (character 7)
+
+R A 1 L 0 007e140d 03 infinite max hp (character 7)
+
+R A 1 L 0 007e1412 e7 infinite ap (character 7)
+
+R A 1 L 0 007e1413 03 infinite ap (character 7)
+
+R A 1 L 0 007e1410 e7 infinite max ap (character 7)
+
+R A 1 L 0 007e1411 03 infinite max ap (character 7)
+
+R A 1 L 0 007e1422 ff max ACT (character 7)
+
+R A 1 L 0 007e141a ff max AGILITY (character 7)
+
+R A 1 L 0 007e141d e7 max ATK (character 7)
+
+R A 1 L 0 007e141e 03 max ATK (character 7)
+
+R A 1 L 0 007e141f e7 max DEF (character 7)
+
+R A 1 L 0 007e1420 03 max DEF (character 7)
+
+R A 1 L 0 007e1423 ff max FATE (character 7)
+
+R A 1 L 0 007e1421 ff max INT (character 7)
+
+R A 1 L 0 007e141c ff max LUCK (character 7)
+
+R A 1 L 0 007e141b ff max MAG (character 7)
+
+R A 1 L 0 007e1417 ff max STR (character 7)
+
+R A 1 L 0 007e1418 ff max VIGOR (character 7)
+
+R A 1 L 0 007e1419 ff max WISDOM (character 7)
+
+R A 1 L 0 007e14ae e7 infinite hp (character 8)
+
+R A 1 L 0 007e14af 03 infinite hp (character 8)
+
+R A 1 L 0 007e14ac e7 infinite max hp (character 8)
+
+R A 1 L 0 007e14ad 03 infinite max hp (character 8)
+
+R A 1 L 0 007e14b2 e7 infinite ap (character 8)
+
+R A 1 L 0 007e14b3 03 infinite ap (character 8)
+
+R A 1 L 0 007e14b0 e7 infinite max ap (character 8)
+
+R A 1 L 0 007e14b1 03 infinite max ap (character 8)
+
+R A 1 L 0 007e14c2 ff max ACT (character 8)
+
+R A 1 L 0 007e14ba ff max AGILITY (character 8)
+
+R A 1 L 0 007e14bd e7 max ATK (character 8)
+
+R A 1 L 0 007e14be 03 max ATK (character 8)
+
+R A 1 L 0 007e14bf e7 max DEF (character 8)
+
+R A 1 L 0 007e14c0 03 max DEF (character 8)
+
+R A 1 L 0 007e14c3 ff max FATE (character 8)
+
+R A 1 L 0 007e14c1 ff max INT (character 8)
+
+R A 1 L 0 007e14bc ff max LUCK (character 8)
+
+R A 1 L 0 007e14bb ff max MAG (character 8)
+
+R A 1 L 0 007e14b7 ff max STR (character 8)
+
+R A 1 L 0 007e14b8 ff max VIGOR (character 8)
+
+R A 1 L 0 007e14b9 ff max WISDOM (character 8)
+
+R A 1 L 0 007e5020 3f infinite money
+
+R A 1 L 0 007e5021 42 infinite money
+
+R A 1 L 0 007e5022 0f infinite money
+
+[6db92bfd8f039c847f584a437322db4a] Super Metroid (USA, Europe) (En,Ja) (Virtual Console, Classic Mini, Switch Online)
+R A 1 L 0 007e09c2 63 infinite health
+
+R A 1 L 0 007e05b6 ff invincibility
+
+R A 1 L 0 007e18a8 ff invincibility
+
+R A 1 L 0 007e0946 53 stop self destruct timer
+
+[a70df9a82b0d5f3bde11090dc27e1504] Super Metroid (Japan) (En,Ja) (Virtual Console, Switch Online)
+R A 1 L 0 007e09c2 63 infinite health
+
+R A 1 L 0 007e05b6 ff invincibility
+
+R A 1 L 0 007e18a8 ff invincibility
+
+R A 1 L 0 007e0946 53 stop self destruct timer
+
+[1323e2c59678675b2d1ad58a131a69be] Super Turrican (USA) (Virtual Console)
+R A 1 L 0 007e04ff 0c infinite health
+
+R A 1 L 0 007e04fb 04 infinite lives
+
+R A 1 L 0 007e056c 17 infinite time
+
+R A 1 L 0 007e04ff d0 invincibility
+
+R A 1 L 0 007e050a 04 infinite smart bombs
+
+[4179c2c32b141b25856d15f31b1eb530] Super Turrican (Europe) (Virtual Console)
+R A 1 L 0 007e04ff 0c infinite health
+
+R A 1 L 0 007e04fb 04 infinite lives
+
+R A 1 L 0 007e056c 17 infinite time
+
+R A 1 L 0 007e04ff d0 invincibility
+
+R A 1 L 0 007e050a 04 infinite smart bombs
+
+[7933cac3ca64de83d6addfe1a9d19159] Breath of Fire II (USA, Europe) (Virtual Console, Switch Online)
+R A 1 L 0 007e51e8 0e infinite hp (character 1)
+
+R A 1 L 0 007e51e9 27 infinite hp (character 1)
+
+R A 1 L 0 007e51ea 0e infinite max hp (character 1)
+
+R A 1 L 0 007e51eb 27 infinite max hp (character 1)
+
+R A 1 L 0 007e51ec 0e infinite AP (character 1)
+
+R A 1 L 0 007e51ed 27 infinite AP (character 1)
+
+R A 1 L 0 007e51ee 0e infinite max AP (character 1)
+
+R A 1 L 0 007e51ef 27 infinite max AP (character 1)
+
+R A 1 L 0 007e5202 0e maximum OFFENSE (character 1)
+
+R A 1 L 0 007e5203 27 maximum OFFENSE (character 1)
+
+R A 1 L 0 007e5204 0e maximum DEFENSE (character 1)
+
+R A 1 L 0 007e5205 27 maximum DEFENSE (character 1)
+
+R A 1 L 0 007e5206 0e maximum VIGOR (character 1)
+
+R A 1 L 0 007e5207 27 maximum VIGOR (character 1)
+
+R A 1 L 0 007e51f3 ff maximum AGIL (character 1)
+
+R A 1 L 0 007e520d ff maximum permanent LUCK (character 1)
+
+R A 1 L 0 007e5209 ff maximum temporary LUCK (character 1)
+
+R A 1 L 0 007e520c ff maximum permanent WISDOM (character 1)
+
+R A 1 L 0 007e5208 ff maximum temporary WISDOM (character 1)
+
+R A 1 L 0 007e51f2 ff maximum STAMINMA (character 1)
+
+R A 1 L 0 007e51f1 ff maximum STR (character 1)
+
+R A 1 L 0 007e520b ff maximum GUTS (character 1)
+
+R A 1 L 0 007e51e5 00 no status effects (character 1)
+
+R A 1 L 0 007e5228 0e infinite hp (character 2)
+
+R A 1 L 0 007e5229 27 infinite hp (character 2)
+
+R A 1 L 0 007e522a 0e infinite max hp (character 2)
+
+R A 1 L 0 007e522b 27 infinite max hp (character 2)
+
+R A 1 L 0 007e522c 0e infinite AP (character 2)
+
+R A 1 L 0 007e522d 27 infinite AP (character 2)
+
+R A 1 L 0 007e522e 0e infinite max AP (character 2)
+
+R A 1 L 0 007e522f 27 infinite max AP (character 2)
+
+R A 1 L 0 007e5242 0e maximum OFFENSE (character 2)
+
+R A 1 L 0 007e5243 27 maximum OFFENSE (character 2)
+
+R A 1 L 0 007e5244 0e maximum DEFENSE (character 2)
+
+R A 1 L 0 007e5245 27 maximum DEFENSE (character 2)
+
+R A 1 L 0 007e5246 ef maximum VIGOR (character 2)
+
+R A 1 L 0 007e5247 27 maximum VIGOR (character 2)
+
+R A 1 L 0 007e5233 ff maximum AGIL (character 2)
+
+R A 1 L 0 007e524d ff maximum permanent LUCK (character 2)
+
+R A 1 L 0 007e5249 ff maximum temporary LUCK (character 2)
+
+R A 1 L 0 007e524c ff maximum permanent WISDOM (character 2)
+
+R A 1 L 0 007e5248 ff maximum temporary WISDOM (character 2)
+
+R A 1 L 0 007e5232 ff maximum STAMINMA (character 2)
+
+R A 1 L 0 007e5231 ff maximum STR (character 2)
+
+R A 1 L 0 007e524b ff maximum GUTS (character 2)
+
+R A 1 L 0 007e5225 00 no status effects (character 2)
+
+R A 1 L 0 007e5268 0e infinite hp (character 3)
+
+R A 1 L 0 007e5269 27 infinite hp (character 3)
+
+R A 1 L 0 007e526a 0e infinite max hp (character 3)
+
+R A 1 L 0 007e526b 27 infinite max hp (character 3)
+
+R A 1 L 0 007e526c 0e infinite AP (character 3)
+
+R A 1 L 0 007e526d 27 infinite AP (character 3)
+
+R A 1 L 0 007e526e 0e infinite max AP (character 3)
+
+R A 1 L 0 007e526f 27 infinite max AP (character 3)
+
+R A 1 L 0 007e5282 0e maximum OFFENSE (character 3)
+
+R A 1 L 0 007e5283 27 maximum OFFENSE (character 3)
+
+R A 1 L 0 007e5284 0e maximum DEFENSE (character 3)
+
+R A 1 L 0 007e5285 27 maximum DEFENSE (character 3)
+
+R A 1 L 0 007e5286 0e maximum VIGOR (character 3)
+
+R A 1 L 0 007e5287 27 maximum VIGOR (character 3)
+
+R A 1 L 0 007e5273 ff maximum AGIL (character 3)
+
+R A 1 L 0 007e528d ff maximum permanent LUCK (character 3)
+
+R A 1 L 0 007e5289 ff maximum temporary LUCK (character 3)
+
+R A 1 L 0 007e528c ff maximum permanent WISDOM (character 3)
+
+R A 1 L 0 007e5288 ff maximum temporary WISDOM (character 3)
+
+R A 1 L 0 007e5272 ff maximum STAMINMA (character 3)
+
+R A 1 L 0 007e5271 ff maximum STR (character 3)
+
+R A 1 L 0 007e528b ff maximum GUTS (character 3)
+
+R A 1 L 0 007e5265 00 no status effects (character 3)
+
+R A 1 L 0 007e52a8 0e infinite hp (character 4)
+
+R A 1 L 0 007e52a9 27 infinite hp (character 4)
+
+R A 1 L 0 007e52aa 0e infinite max hp (character 4)
+
+R A 1 L 0 007e52ab 27 infinite max hp (character 4)
+
+R A 1 L 0 007e52ac 0e infinite AP (character 4)
+
+R A 1 L 0 007e52ad 27 infinite AP (character 4)
+
+R A 1 L 0 007e52ae 0e infinite max AP (character 4)
+
+R A 1 L 0 007e52af 27 infinite max AP (character 4)
+
+R A 1 L 0 007e52c2 0e maximum OFFENSE (character 4)
+
+R A 1 L 0 007e52c3 27 maximum OFFENSE (character 4)
+
+R A 1 L 0 007e52c4 0e maximum DEFENSE (character 4)
+
+R A 1 L 0 007e52c5 27 maximum DEFENSE (character 4)
+
+R A 1 L 0 007e52c6 0e maximum VIGOR (character 4)
+
+R A 1 L 0 007e52c7 27 maximum VIGOR (character 4)
+
+R A 1 L 0 007e52b3 ff maximum AGIL (character 4)
+
+R A 1 L 0 007e52cd ff maximum permanent LUCK (character 4)
+
+R A 1 L 0 007e52c9 ff maximum temporary LUCK (character 4)
+
+R A 1 L 0 007e52cc ff maximum permanent WISDOM (character 4)
+
+R A 1 L 0 007e52c8 ff maximum temporary WISDOM (character 4)
+
+R A 1 L 0 007e52b2 ff maximum STAMINMA (character 4)
+
+R A 1 L 0 007e52b1 ff maximum STR (character 4)
+
+R A 1 L 0 007e52cb ff maximum GUTS (character 4)
+
+R A 1 L 0 007e52a5 00 no status effects (character 4)
+
+R A 1 L 0 007e504a ff infinite money
+
+R A 1 L 0 007e504b e7 infinite money
+
+R A 1 L 0 007e504c 4c infinite money
+
+R A 1 L 0 007e504d 30 infinite money
+
+[8690a2e361106de5fa21222f127774eb] Breath of Fire II - Shimei no Ko (Japan) (Rev 1) (Virtual Console, Switch Online)
+R A 1 L 0 007e51e8 0e infinite hp (character 1)
+
+R A 1 L 0 007e51e9 27 infinite hp (character 1)
+
+R A 1 L 0 007e51ea 0e infinite max hp (character 1)
+
+R A 1 L 0 007e51eb 27 infinite max hp (character 1)
+
+R A 1 L 0 007e51ec 0e infinite AP (character 1)
+
+R A 1 L 0 007e51ed 27 infinite AP (character 1)
+
+R A 1 L 0 007e51ee 0e infinite max AP (character 1)
+
+R A 1 L 0 007e51ef 27 infinite max AP (character 1)
+
+R A 1 L 0 007e5202 0e maximum OFFENSE (character 1)
+
+R A 1 L 0 007e5203 27 maximum OFFENSE (character 1)
+
+R A 1 L 0 007e5204 0e maximum DEFENSE (character 1)
+
+R A 1 L 0 007e5205 27 maximum DEFENSE (character 1)
+
+R A 1 L 0 007e5206 0e maximum VIGOR (character 1)
+
+R A 1 L 0 007e5207 27 maximum VIGOR (character 1)
+
+R A 1 L 0 007e51f3 ff maximum AGIL (character 1)
+
+R A 1 L 0 007e520d ff maximum permanent LUCK (character 1)
+
+R A 1 L 0 007e5209 ff maximum temporary LUCK (character 1)
+
+R A 1 L 0 007e520c ff maximum permanent WISDOM (character 1)
+
+R A 1 L 0 007e5208 ff maximum temporary WISDOM (character 1)
+
+R A 1 L 0 007e51f2 ff maximum STAMINMA (character 1)
+
+R A 1 L 0 007e51f1 ff maximum STR (character 1)
+
+R A 1 L 0 007e520b ff maximum GUTS (character 1)
+
+R A 1 L 0 007e51e5 00 no status effects (character 1)
+
+R A 1 L 0 007e5228 0e infinite hp (character 2)
+
+R A 1 L 0 007e5229 27 infinite hp (character 2)
+
+R A 1 L 0 007e522a 0e infinite max hp (character 2)
+
+R A 1 L 0 007e522b 27 infinite max hp (character 2)
+
+R A 1 L 0 007e522c 0e infinite AP (character 2)
+
+R A 1 L 0 007e522d 27 infinite AP (character 2)
+
+R A 1 L 0 007e522e 0e infinite max AP (character 2)
+
+R A 1 L 0 007e522f 27 infinite max AP (character 2)
+
+R A 1 L 0 007e5242 0e maximum OFFENSE (character 2)
+
+R A 1 L 0 007e5243 27 maximum OFFENSE (character 2)
+
+R A 1 L 0 007e5244 0e maximum DEFENSE (character 2)
+
+R A 1 L 0 007e5245 27 maximum DEFENSE (character 2)
+
+R A 1 L 0 007e5246 ef maximum VIGOR (character 2)
+
+R A 1 L 0 007e5247 27 maximum VIGOR (character 2)
+
+R A 1 L 0 007e5233 ff maximum AGIL (character 2)
+
+R A 1 L 0 007e524d ff maximum permanent LUCK (character 2)
+
+R A 1 L 0 007e5249 ff maximum temporary LUCK (character 2)
+
+R A 1 L 0 007e524c ff maximum permanent WISDOM (character 2)
+
+R A 1 L 0 007e5248 ff maximum temporary WISDOM (character 2)
+
+R A 1 L 0 007e5232 ff maximum STAMINMA (character 2)
+
+R A 1 L 0 007e5231 ff maximum STR (character 2)
+
+R A 1 L 0 007e524b ff maximum GUTS (character 2)
+
+R A 1 L 0 007e5225 00 no status effects (character 2)
+
+R A 1 L 0 007e5268 0e infinite hp (character 3)
+
+R A 1 L 0 007e5269 27 infinite hp (character 3)
+
+R A 1 L 0 007e526a 0e infinite max hp (character 3)
+
+R A 1 L 0 007e526b 27 infinite max hp (character 3)
+
+R A 1 L 0 007e526c 0e infinite AP (character 3)
+
+R A 1 L 0 007e526d 27 infinite AP (character 3)
+
+R A 1 L 0 007e526e 0e infinite max AP (character 3)
+
+R A 1 L 0 007e526f 27 infinite max AP (character 3)
+
+R A 1 L 0 007e5282 0e maximum OFFENSE (character 3)
+
+R A 1 L 0 007e5283 27 maximum OFFENSE (character 3)
+
+R A 1 L 0 007e5284 0e maximum DEFENSE (character 3)
+
+R A 1 L 0 007e5285 27 maximum DEFENSE (character 3)
+
+R A 1 L 0 007e5286 0e maximum VIGOR (character 3)
+
+R A 1 L 0 007e5287 27 maximum VIGOR (character 3)
+
+R A 1 L 0 007e5273 ff maximum AGIL (character 3)
+
+R A 1 L 0 007e528d ff maximum permanent LUCK (character 3)
+
+R A 1 L 0 007e5289 ff maximum temporary LUCK (character 3)
+
+R A 1 L 0 007e528c ff maximum permanent WISDOM (character 3)
+
+R A 1 L 0 007e5288 ff maximum temporary WISDOM (character 3)
+
+R A 1 L 0 007e5272 ff maximum STAMINMA (character 3)
+
+R A 1 L 0 007e5271 ff maximum STR (character 3)
+
+R A 1 L 0 007e528b ff maximum GUTS (character 3)
+
+R A 1 L 0 007e5265 00 no status effects (character 3)
+
+R A 1 L 0 007e52a8 0e infinite hp (character 4)
+
+R A 1 L 0 007e52a9 27 infinite hp (character 4)
+
+R A 1 L 0 007e52aa 0e infinite max hp (character 4)
+
+R A 1 L 0 007e52ab 27 infinite max hp (character 4)
+
+R A 1 L 0 007e52ac 0e infinite AP (character 4)
+
+R A 1 L 0 007e52ad 27 infinite AP (character 4)
+
+R A 1 L 0 007e52ae 0e infinite max AP (character 4)
+
+R A 1 L 0 007e52af 27 infinite max AP (character 4)
+
+R A 1 L 0 007e52c2 0e maximum OFFENSE (character 4)
+
+R A 1 L 0 007e52c3 27 maximum OFFENSE (character 4)
+
+R A 1 L 0 007e52c4 0e maximum DEFENSE (character 4)
+
+R A 1 L 0 007e52c5 27 maximum DEFENSE (character 4)
+
+R A 1 L 0 007e52c6 0e maximum VIGOR (character 4)
+
+R A 1 L 0 007e52c7 27 maximum VIGOR (character 4)
+
+R A 1 L 0 007e52b3 ff maximum AGIL (character 4)
+
+R A 1 L 0 007e52cd ff maximum permanent LUCK (character 4)
+
+R A 1 L 0 007e52c9 ff maximum temporary LUCK (character 4)
+
+R A 1 L 0 007e52cc ff maximum permanent WISDOM (character 4)
+
+R A 1 L 0 007e52c8 ff maximum temporary WISDOM (character 4)
+
+R A 1 L 0 007e52b2 ff maximum STAMINMA (character 4)
+
+R A 1 L 0 007e52b1 ff maximum STR (character 4)
+
+R A 1 L 0 007e52cb ff maximum GUTS (character 4)
+
+R A 1 L 0 007e52a5 00 no status effects (character 4)
+
+R A 1 L 0 007e504a ff infinite money
+
+R A 1 L 0 007e504b e7 infinite money
+
+R A 1 L 0 007e504c 4c infinite money
+
+R A 1 L 0 007e504d 30 infinite money
+
+[dfee511eea1494cac72f9b1988bc3474] Zelda no Densetsu - Kamigami no Triforce (Japan) (Rev 2) (Virtual Console, Switch Online)
+R A 1 L 0 007ef36d 18 infinite health
+
+R A 1 L 0 007ef36e 80 infinite magic
+
+R A 2 L 0 007ef362 03e7 infinite money
+
+R A 1 L 0 007ef377 63 infinite arrows
+
+R A 1 L 0 007ef36f 09 infinite keys
+
+R A 1 L 0 007ef371 01 infinite keys
+
+R A 1 L 0 007ef369 ff have map in dungeons
+
+R A 1 L 0 007ef36d 9f maximum hearts
+
+R A 1 L 0 007ef370 07 infinite bombs
+
+[863cf13d990b1d39229ad11e21ba9991] Legend of Zelda, The - A Link to the Past (USA, Europe) (Switch Online)
+R A 1 L 0 007ef36d 18 infinite health
+
+R A 1 L 0 007ef36e 80 infinite magic
+
+R A 2 L 0 007ef362 03e7 infinite money
+
+R A 1 L 0 007ef377 63 infinite arrows
+
+R A 1 L 0 007ef36f 09 infinite keys
+
+R A 1 L 0 007ef371 01 infinite keys
+
+R A 1 L 0 007ef369 ff have map in dungeons
+
+R A 1 L 0 007ef36d 9f maximum hearts
+
+R A 1 L 0 007ef370 07 infinite bombs
+
+[e07b40854a1947ef38951d8e2ceac3bd] Super Donkey Kong (Japan) (Rev 1) (Virtual Console, Classic Mini, Switch Online)
+R A 1 L 0 007e0579 01 infinite health
+
+R A 1 L 0 7e7e0577 09 infinite lives
+
+R A 1 L 0 007e137f 00 infinite time
+
+S A 1 L 0 00bfa2a0 60 invincibility
+
+S A 1 L 0 00bfa11b 18 invincibility
+
+S A 1 L 0 00bfa3ac 18 invincibility
+
+[0cb7bb0387e0464ec0cfce6355be3511] Donkey Kong Country (USA, Europe) (Rev 2) (Virtual Console, Classic Mini, Switch Online)
+R A 1 L 0 007e0579 01 infinite health
+
+R A 1 L 0 7e7e0577 09 infinite lives
+
+R A 1 L 0 007e137f 00 infinite time
+
+S A 1 L 0 00bfa2a0 60 invincibility
+
+S A 1 L 0 00bfa11b 18 invincibility
+
+S A 1 L 0 00bfa3ac 18 invincibility
+
+[21406b3506f773eb2874528eab8c08c5] R-Type III (USA) (Virtual Console)
+R I 1 L 0 00000000 00 KEEP ALL CHEATS OFF UNTIL IN LEVEL
+
+R A 1 L 0 007e03b7 09 infinite lives
+
+R A 1 L 0 007e1144 80 invincibility
+
+[6ac566248ad240b18d745e949b256cae] R-Type III - The Third Lightning (Japan) (En) (Virtual Console)
+R I 1 L 0 00000000 00 KEEP ALL CHEATS OFF UNTIL IN LEVEL
+
+R A 1 L 0 007e03b7 09 infinite lives
+
+R A 1 L 0 007e1144 80 invincibility
+
+[a27610a42e2418805c86bb6b79a33b20] R-Type III (Europe) (Virtual Console)
+R I 1 L 0 00000000 00 KEEP ALL CHEATS OFF UNTIL IN LEVEL
+
+R A 1 L 0 007e03b7 09 infinite lives
+
+R A 1 L 0 007e1144 80 invincibility
+
+[b252cc16c8b96675103dbe5d56ec37f9] Super Mario RPG (Japan) (Virtual Console)
+R A 2 L 0 007ff801 03e7 infinite hp (mario)
+
+R A 2 L 0 007ff803 03e7 infinite max hp (mario)
+
+R A 2 L 0 007ff829 03e7 infinite hp (bowser)
+
+R A 2 L 0 007ff82b 03e7 infinite max hp (bowser)
+
+R A 2 L 0 007ff83d 03e7 infinite hp (geno)
+
+R A 2 L 0 007ff83f 03e7 infinite max hp (geno)
+
+R A 2 L 0 007ff851 03e7 infinite hp (mallow)
+
+R A 2 L 0 007ff853 03e7 infinite max hp (mallow)
+
+R A 2 L 0 007ff815 03e7 infinite hp (princess)
+
+R A 2 L 0 007ff817 03e7 infinite max hp (princess)
+
+R A 2 L 0 007ff8af ffff infinite money
+
+[597823e50e531fbd300c0c7f334b34aa] Super Mario RPG - Legend of the Seven Stars (USA, Europe) (Virtual Console)
+R A 2 L 0 007ff801 03e7 infinite hp (mario)
+
+R A 2 L 0 007ff803 03e7 infinite max hp (mario)
+
+R A 2 L 0 007ff829 03e7 infinite hp (bowser)
+
+R A 2 L 0 007ff82b 03e7 infinite max hp (bowser)
+
+R A 2 L 0 007ff83d 03e7 infinite hp (geno)
+
+R A 2 L 0 007ff83f 03e7 infinite max hp (geno)
+
+R A 2 L 0 007ff851 03e7 infinite hp (mallow)
+
+R A 2 L 0 007ff853 03e7 infinite max hp (mallow)
+
+R A 2 L 0 007ff815 03e7 infinite hp (princess)
+
+R A 2 L 0 007ff817 03e7 infinite max hp (princess)
+
+R A 2 L 0 007ff8af ffff infinite money
+
+[9e2ee711c8faddcb2eb4ac2d63e18b5f] F-Zero (Japan) (En) (Virtual Console, Switch Online)
+R I 1 L 0 00000000 00 IF YOU ARE ANNOYED BY THE FLASHING REVERSE
+
+R I 1 L 0 00000000 00 TURN OFF THE ALWAYS #1 CHEAT.
+
+R A 1 L 0 007e1150 00 always finish #1
+
+R A 1 L 0 007e00c9 00 no damage
+
+R A 1 L 0 007e00ca 08 no damage
+
+R A 1 L 0 007e0059 08 infinite lives
+
+R A 1 L 0 007e0cf3 03 infinite turbos
+
+[2083a0e260b052ddca7a5d4382a9ca0d] F-Zero (USA, Europe) (Virtual Console, Classic Mini, Switch Online)
+R I 1 L 0 00000000 00 IF YOU ARE ANNOYED BY THE FLASHING REVERSE
+
+R I 1 L 0 00000000 00 TURN OFF THE ALWAYS #1 CHEAT.
+
+R A 1 L 0 007e1150 00 always finish #1
+
+R A 1 L 0 007e00c9 00 no damage
+
+R A 1 L 0 007e00ca 08 no damage
+
+R A 1 L 0 007e0059 08 infinite lives
+
+R A 1 L 0 007e0cf3 03 infinite turbos
+
+[4f78c19e839e476a59446cab1060d14f] Final Fight (USA) (Virtual Console)
+R A 1 L 0 007e2456 09 infinite lives
+
+R A 1 L 0 007e0d14 50 infinite health
+
+R A 1 L 0 007e0cbc 09 infinite time
+
+[664159de07a58f6fc04eb450522b79c3] Final Fight (Japan) (Virtual Console)
+R A 1 L 0 007e2456 09 infinite lives
+
+R A 1 L 0 007e0d14 50 infinite health
+
+R A 1 L 0 007e0cbc 09 infinite time
+
+[ffcb6bbf0b29cd568aff65e86dc568d7] Final Fight (Europe) (Virtual Console)
+R A 1 L 0 007e2456 09 infinite lives
+
+R A 1 L 0 007e0d14 50 infinite health
+
+R A 1 L 0 007e0cbc 09 infinite time
+
+[7565f895c86e12491df2ad7b036865ac] Street Fighter II Turbo (USA) (Rev 1) (Virtual Console)
+R A 1 L 0 007e0636 b0 infinite health
+
+R A 1 L 0 007e18f3 99 infinite time
+
+[b0235bd18a030021f010955fafc7a4e7] Street Fighter II Turbo (Europe) (Rev 1) (Virtual Console)
+R A 1 L 0 007e0636 b0 infinite health
+
+R A 1 L 0 007e18f3 99 infinite time
+
+[008c5c802e310a40cd9f914bf8363f1a] ActRaiser (Japan) (Virtual Console)
+R A 1 L 0 007e001d 12 infinite hp (sidescrolling)
+
+R A 1 L 0 007e0021 0a infinite magic (sidescrolling)
+
+R A 1 L 0 007e00e6 02 infinite time
+
+R A 1 L 0 007e001e 12 max health
+
+R A 1 L 0 007e0bcc 00 1 hit kill bosses
+
+R A 1 L 0 007e00e4 50 have sword shot
+
+R A 1 L 0 007e0286 08 infinite energy (sim mode)
+
+R A 1 L 0 007e001c 09 infinite lives
+
+R A 1 L 0 007e0286 08 infinite health (angel)
+
+R A 1 L 0 007e0282 63 infinite sp (angel)
+
+[336d0fb35dd92d43ebf15067f4eccb2a] Chou Makaimura (Japan) (Virtual Console, Switch Online)
+R A 1 L 0 007e044a 01 infinite health
+
+R A 1 L 0 007e14ba 01 infinite health
+
+R A 1 L 0 007e02a4 03 infinite lives
+
+R A 1 L 0 007e02a9 01 infinite time
+
+R A 1 L 0 007e046a aa invincibility
+
+[13cc01659e28c2c23f5fe9fefde54d05] Super Ghouls 'N Ghosts (USA, Europe) (Virtual Console, Classic Mini, Switch Online)
+R A 1 L 0 007e044a 01 infinite health
+
+R A 1 L 0 007e14ba 01 infinite health
+
+R A 1 L 0 007e02a4 03 infinite lives
+
+R A 1 L 0 007e02a9 01 infinite time
+
+R A 1 L 0 007e046a aa invincibility
+
+[10af6ccea28eeb16c0d8abd7c2a265db] Pop'n TwinBee (USA, Europe) (Switch Online)
+R A 1 L 0 007e1ff6 09 infinite continues
+
+R A 1 L 0 007e009c 1d infinite health
+
+R A 1 L 0 007e04d0 10 invincibility
+
+R A 1 L 0 007e00a0 09 infinite special weapon
+
 

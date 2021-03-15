@@ -1,0 +1,63 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - master
+      - dev
+      - stable
+  pull_request:
+    branches:
+      - master
+      - dev
+      - stable
+
+jobs:
+  Data:
+    runs-on: ubuntu-18.04
+
+    steps:
+    - name: Install deb packages
+      run: >-
+        sudo apt install
+        dos2unix
+
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+
+    - name: Update version
+      run: fsbuild/version --update --auto
+
+    - name: Bootstrap
+      run: fsdeps/use fsbuild/bootstrap
+
+    - name: Configure
+      run: fsdeps/use fsbuild/configure
+
+    - name: Make
+      run: fsdeps/use fsbuild/make
+
+    - name: Bundle
+      run: fsdeps/use fsbuild/bundle
+
+    - name: Archive
+      run: fsbuild/archive
+
+    - uses: actions/upload-artifact@v2
+      with:
+        name: Data
+
+        path: fsbuild/_dist/*
+
+    - name: Upload build to Dropbox folder
+      if: >-
+        github.ref == 'refs/heads/master' ||
+        github.ref == 'refs/heads/dev' ||
+        github.ref == 'refs/heads/stable'
+      run: |
+        python3 -m pip install dropbox
+        fsbuild/upload
+      env:
+        DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        DROPBOX_ACCESS_TOKEN: ${{ secrets.DROPBOX_ACCESS_TOKEN }}

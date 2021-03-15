@@ -1,0 +1,11 @@
+#!/bin/sh
+
+set -e
+
+rm -f cheat.7z cheat.txt '!README_FIRST!!.txt'
+
+URL=http://cheat.retrogames.com/download/cheat0221.zip
+SHA256=1fbc298c11a0115512798604bc93534d2774fd290e2e4b92b935b40a35786509
+python3 fsbuild/download.py "$URL" sha256:$SHA256
+
+unzip fsbuild/_sources/cheat0221.zip

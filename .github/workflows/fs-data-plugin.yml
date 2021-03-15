@@ -30,16 +30,16 @@ jobs:
       run: fsbuild/version --update --auto
 
     - name: Bootstrap
-      run: fsdeps/use fsbuild/bootstrap
+      run: fsbuild/bootstrap
 
     - name: Configure
-      run: fsdeps/use fsbuild/configure
+      run: fsbuild/configure
 
     - name: Make
-      run: fsdeps/use fsbuild/make
+      run: fsbuild/make
 
     - name: Bundle
-      run: fsdeps/use fsbuild/bundle
+      run: fsbuild/bundle
 
     - name: Archive
       run: fsbuild/archive

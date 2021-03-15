@@ -15,7 +15,7 @@ with open("PACKAGE.FS", "r") as f:
             package[key] = value
         except ValueError:
             pass
-if package["PACKAGE_TYPE"] == "fsemu-plugin/data":
+if package["PACKAGE_TYPE"] == "fs-data-plugin":
     print("Not signing data plugin")
     sys.exit(0)
 package_name_pretty = package["PACKAGE_NAME_PRETTY"]
